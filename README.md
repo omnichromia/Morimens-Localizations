@@ -3,7 +3,7 @@
 <br />
 <p align="center">
  
-  <h3 align="center">[Morimens Volunteer Translation Project](https://github.com/BIAVGit/Morimens-Localizations)</h3>
+  <h3 align="center">Morimens Volunteer Translation Project</h3>
 
   <p align="center">
     A community project to improve the translation quality of Morimens, a Lovecraftian Deck-building Game
@@ -16,7 +16,6 @@
     <a href="https://x.com/MorimensOfcl">Morimens Official Twitter</a>
     ·
     <a href="https://discord.gg/m4JU2d6ce3">Morimens Volunteer Translation Server</a>
-    ·
     
   </p>
 </p>
@@ -30,7 +29,7 @@
     <li><a href="#getting-started">Getting Started</a></li>
     <ul>
         <li><a href="#the-source-files">The Source file</a></li>
-        <li><a href="#term-base-and-style-guide">The Source file</a></li>
+        <li><a href="#term-base-and-style-guide">Term Base & Style Guide</a></li>
         <li><a href="#installation">How Do I Contribute?</a></li>
       </ul>
     <li><a href="#contact">Contact</a></li>
