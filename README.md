@@ -52,9 +52,9 @@ Before making a Pull Request, please make sure your GitHub name is the same as t
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1. Before beginning the effort, it is very highly recommended to communicate your intent in the Morimens Volunteer Translation discord with fellow volunteers who work on the same language, or open an issue on Github. If the language has multiple contributors, or if the language is already under active translation, the work could end up conflicting with others, so it's best to communicate before starting and get a confirmation.
+1. Before getting started, please first communicate your intent in the Morimens Volunteer Translation discord with fellow volunteers who work on the same language, or open an issue on Github.
 2. Contribute in small chunks rather than in one big update, this way it's easier to collaborate and merge the efforts from different people.
-3. It is recommended to check out the [existing Term Base and Style Guide](https://drive.google.com/drive/u/1/folders/1NVBQGdhmr6w6tx9RzpX-BDKxdQD-MX9m) before getting started.
+3. It is recommended to check out the [existing Term Base and Style Guide](https://drive.google.com/drive/u/1/folders/1NVBQGdhmr6w6tx9RzpX-BDKxdQD-MX9m) first.
    
 ### The Source Files
 
@@ -64,8 +64,12 @@ Please note that you may not find the entirety of the source text files here, as
 If you want to work on a certain part of content, but does not find the corresponding source file, please open an Issue on GitHub, or notify @艾絲Ace on Discord.
 
 ### Term Base and Style Guide
-Find the Term Bases for each language [here](https://drive.google.com/drive/u/1/folders/1NVBQGdhmr6w6tx9RzpX-BDKxdQD-MX9m).
-
+Find the Term Bases for each language [here](https://drive.google.com/drive/u/1/folders/1NVBQGdhmr6w6tx9RzpX-BDKxdQD-MX9m)!
+<b>*Currently, only the English language has a human translated Term Base.</b>
+We have included the machine translated Term Base for the other languages for reference.
+To add a new term entry, simply create a new row on top. You can choose to provide your name in the CONTRIBUTOR column.
+To edit an existing term translation, please enter your new translation in the "NEW TRANSLATION" column. You can choose to provide your name in the CONTRIBUTOR column.
+We recommend <b>confirming with other volunteers</b> working on the same language before changing term translations!
 
 ### How Do I Contribute?
 
