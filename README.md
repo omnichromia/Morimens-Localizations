@@ -66,7 +66,8 @@ The recommended way of translating/editing is to make a copy of the source sheet
 
 Please note that you may not find the entirety of the source text files here, as we cannot leak future content. 
 
-If you want to work on a certain part of content, but does not find the corresponding source file, please open an Issue on GitHub, or notify @艾絲Ace on Discord.
+If you want to work on a certain part of content, but cannot find the corresponding source file:
+Please open an Issue on GitHub, or notify @艾絲Ace on Discord.
 
 ### Term Base and Style Guide
 Find the Term Bases for each language [here](https://drive.google.com/drive/u/1/folders/1NVBQGdhmr6w6tx9RzpX-BDKxdQD-MX9m)!
