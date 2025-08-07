@@ -83,7 +83,7 @@ We recommend <b>confirming with other volunteers</b> working on the same languag
 
 ### How Do I Contribute?
 
-Contributions are awesome! Any contributions you make are **greatly appreciated**.
+Thank you so much for your help!
 
 FOR TRANSLATORS AND PROOFREADERS:
 1. Fork the Project
@@ -91,11 +91,11 @@ FOR TRANSLATORS AND PROOFREADERS:
 3. Commit your Changes
 4. Push to the Branch
 5. Open a Pull Request
+If you use Github Desktop check [this](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop) out.
 
 FOR TESTERS:
 Please submit the issues in [this](https://docs.google.com/spreadsheets/d/1WQpzrkFNluWgAkKHQTLB1wbmJQFHp-HsYZ_Hm9_e_Vc/edit?usp=sharing) sheet!
 
-If you use Github Desktop check [this](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop) out.
 
 <!-- CONTACT -->
 
