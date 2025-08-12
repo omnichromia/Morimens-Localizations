@@ -85,7 +85,17 @@ We recommend <b>confirming with other volunteers</b> working on the same languag
 
 <b>About the Style Guide:</b>
 
-Morimens uses a series of specialized rich text tags. Currently, the Style Guide mainly introduces how to use said rich text tags.
+Morimens uses a series of specialized rich text tags. 
+
+Currently, the Style Guide mainly introduces 
+
+1) how to use said rich text tags
+
+2) general punctuation and spelling rules
+  
+4) other general styling, tenses, tone of voice rules
+
+The Style Guide is still a Work in Progress.
 
 Contributors can also create individual Style Guides for each language by adding new sheets to the [Main Style Guide](https://docs.google.com/spreadsheets/d/1gauwAJBvSQt8p12c39taKl4ubRzayxdccWH7VfYw3e4/edit?gid=0#gid=0) file. 
 
