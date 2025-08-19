@@ -1,0 +1,26 @@
+1. Download the "Source Sheets.xlsx" file from 01_SOURCE folder.
+
+2. Locate the part you want to contribute. Copy and paste those rows into a new excel sheet.
+
+3. Put your translation in the "Translation" column, and keep all the other columns intact;
+*The source sheet comes with existing English translation. 
+If you are working on other languages, simply delete the English translation, and replace it with your language's translation. 
+No need to create a new row next to the English translation.
+
+4. After you finish, save the file in .csv format, and upload your translation contribution to the corresponding language folder. 
+
+We recommend naming your upload file like this:
+[Language]_[Content]_[Type].csv
+
+[Language]: please use the shortform language codes: EN, RU, ES, KR, etc.
+[Type]: tell us if it is a Translation from Chinese or Proofreading of existing translation. 
+
+Example: EN_StoryChapter3_Proofreading.csv
+
+Github automatically records your name, upload date, and all previous file versions.
+
+5. IMPORTANT NOTE:
+
+1) Please make sure you only edited the TRANSLATION column. Please don't delete or edit other columns!
+
+2) We recommend only uploading the part you worked on. No need to provide the whole source text sheet again.
