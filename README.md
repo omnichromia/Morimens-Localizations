@@ -1,4 +1,4 @@
-
+<img width="73" height="547" alt="image" src="https://github.com/user-attachments/assets/6cfe8b77-0aa3-4d3d-be01-f4710828526c" />
 <!-- PROJECT TITLE -->
 <br />
 <p align="center">
@@ -130,9 +130,13 @@ Before each version update, @艾絲Ace will double check with all volunteers & m
 
 ### English
 拉娅妮丝
+Goz
+Arkaether
+
 ### German
 ### French
 ### Portuguese
+Marcos
 ### Japanese
 ### Russian
 ### Korean
