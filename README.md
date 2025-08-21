@@ -1,4 +1,4 @@
-<img width="73" height="547" alt="image" src="https://github.com/user-attachments/assets/6cfe8b77-0aa3-4d3d-be01-f4710828526c" />
+
 <!-- PROJECT TITLE -->
 <br />
 <p align="center">
