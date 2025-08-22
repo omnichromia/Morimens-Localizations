@@ -142,6 +142,7 @@ Marcos
 ### Russian
 ### Korean
 ### Indonesian
+Adelle
 ### Vietnamese
 ### Thai
 
