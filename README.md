@@ -132,6 +132,7 @@ Before each version update, @艾絲Ace will double check with all volunteers & m
 拉娅妮丝
 Goz
 Arkaether
+Sophie
 
 ### German
 ### French
