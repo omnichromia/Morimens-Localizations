@@ -1,0 +1,101 @@
+AwakerPotency_13231_PotencyName,asUH,h唤醒体启灵_AwakerPotency_A.csv,113,AwakerPotency,PotencyName,奥尔拉,蜷于烈火,Emberbound
+AwakerPotency_13231_PotencyDesc,asUG,h唤醒体启灵_AwakerPotency_A.csv,113,AwakerPotency,PotencyDesc,奥尔拉,「狂想诗篇」<VulnerabilityIconKeywords:易伤>全体敌方 1 回合，「哀恸诗篇」<WeaknessIconKeywords:虚弱>全体敌方 1 回合。,"""Snarl Psalm"": Applies 1 stack of <VulnerabilityIconKeywords:Vulnerable> to all enemies.\n""Elegy Psalm"": Applies 1 stack of <WeaknessIconKeywords:Weakness> to all enemies."
+AwakerPotency_13730_PotencyName,atnJ,h唤醒体启灵_AwakerPotency_A.csv,114,AwakerPotency,PotencyName,奥尔拉,囚于暗室,Chamber of Shadows
+AwakerPotency_13730_PotencyDesc,atnI,h唤醒体启灵_AwakerPotency_A.csv,114,AwakerPotency,PotencyDesc,奥尔拉,奥尔拉的所有诗篇均获得保留。,Horla's Psalms gain Retain.
+AwakerPotency_13303_PotencyName,asXv,h唤醒体启灵_AwakerPotency_A.csv,115,AwakerPotency,PotencyName,奥尔拉,花与诗的重逢,Blossoms and Verses Reunited
+AwakerPotency_13303_PotencyDesc,asXu,h唤醒体启灵_AwakerPotency_A.csv,115,AwakerPotency,PotencyDesc,奥尔拉,每回合打出第一张诗篇时，奥尔拉获得 10 点狂气。「纷华篇章」对应情绪的效果提高由 150% 提高为 250%。,"Each time the first ""Psalm"" is played in a turn, Horla gains 10 Aliemus.\nEnhance the bonus effect corresponding to the current emotion state when using ""Resplendent Chapters"" from 150% to 250%."
+,,,,,,,,
+AwakerTalent_55837_TalentName_1,aunK,h唤醒体天赋_AwakerTalent_A_M.csv,35,AwakerTalent,TalentName,奥尔拉,落笔生情,Writing with Feeling
+AwakerTalent_55837_TalentDesc_1,aunJ,h唤醒体天赋_AwakerTalent_A_M.csv,35,AwakerTalent,TalentDesc,奥尔拉,·奥尔拉的「基础打击」与「基础防御」也视为一种诗篇。诗篇跃迁时会切换到不同的情绪，情绪能直接影响此诗篇的效果。处于不同的情绪会带来不同的队伍持续效果。\n·奥尔拉每有 1% 死亡抵抗，就使该效果加成提高初始值的 0.1%。,"Horla's ""Strike"" and ""Defend"" Command Cards are treated as Psalms.\nWhen Horla's Command Cards trigger their Leap Effect, she enters the emotion state associated with that Psalm. Horla can only have one emotion state active at a time, and triggering a different Psalm's Leap Effect will change the emotion state to the corresponding emotion. Each emotion has a team-wide passive buff that is active while Horla remains in that emotion. Each emotion state enhances a different effect of Horla's Exalt. The emotion state persists throughout the exploration.\nFor every 1% Death Resistance Horla has, the passive effect value of Horla's current emotion state increases by 0.1%."
+,,,,,,,,
+,,,,,,,,
+State_54800_Name,aYBE,z状态表_State_A.csv,969,State,Name,,「怒」,"""Anger"""
+State_54800_Desc,aYBD,z状态表_State_A.csv,969,State,Desc,,所有唤醒体造成的最终伤害提高 [StateArg1]%，纷华篇章的暴击率和暴击伤害提高。,The Final DMG dealt by all Awakeners is increased by [StateArg1]%. Increase the temporary Crit. Rate and Crit. DMG gained by Resplendent Chapters.
+State_54798_Name,aYBy,z状态表_State_A.csv,970,State,Name,,「哀」,"""Grief"""
+State_54798_Desc,aYBx,z状态表_State_A.csv,970,State,Desc,,所有唤醒体造成护盾与回复生命、造成的<PowerIconKeywords:力量>降低效果提高 [StateArg1]%，纷华篇章回复效果提高。,"All Awakeners' Shield gain and HP Recovery effects, as well as the <PowerIconKeywords:STR> reduction effect they apply, are increased by [StateArg1]%. Increase the HP Recovery of Resplendent Chapters."
+State_54801_Name,aYBH,z状态表_State_A.csv,971,State,Name,,「喜」,"""Happiness"""
+State_54801_Desc,aYBG,z状态表_State_A.csv,971,State,Desc,,所有唤醒体造成的狂气提高 [DescArg1]%，回合结束时的算力和指令卡可保留至下回合。纷华篇章的狂气提高。,The Aliemus gained by all Awakeners is increased by [DescArg1]%. All Command Cards gain Retain. Unused Arithmetica is retained. Resplendent Chapters grants more Aliemus.
+State_54799_Name,aYBB,z状态表_State_A.csv,972,State,Name,,「惧」,"""Fear"""
+State_54799_Desc,aYBA,z状态表_State_A.csv,972,State,Desc,,所有唤醒体施加的<PowerIconKeywords:力量>、<RetaliateIconKeywords:反击>、<IntoxicationIconKeywords:中毒>提高 [StateArg1]%。纷华篇章的<PowerIconKeywords:力量>提高。,"All Awakeners' <PowerIconKeywords:STR> gained, <RetaliateIconKeywords:Counter> gained, and <IntoxicationIconKeywords:Poison> applied are increased by [StateArg1]%. Increases the <PowerIconKeywords:STR> gained by Resplendent Chapters."
+State_53758_Name,aYyK,z状态表_State_A.csv,974,State,Name,,狂想诗篇·怒,Anger
+State_53758_Desc,aYyJ,z状态表_State_A.csv,974,State,Desc,,所有唤醒体造成的最终伤害提高 [DescArg1]%，「纷华篇章」增加的暴击率和暴击伤害提高。,"All Awakeners' final DMG increases by [DescArg1]%. Increase the Crit. Rate and Crit. DMG gained by ""Resplendent Chapters""."
+State_53759_Name,aYyN,z状态表_State_A.csv,976,State,Name,,哀恸诗篇·哀,Grief
+State_53759_Desc,aYyM,z状态表_State_A.csv,976,State,Desc,,所有唤醒体造成护盾与回复生命、施加的<PowerIconKeywords:力量>降低效果提高 [DescArg1]%，「纷华篇章」造成回复提高。,"All Awakeners' Shield gain and HP Recovery effects, as well as the <PowerIconKeywords:STR> reduction effect applied, are increased by [DescArg1]%. Increase the HP Recovery of ""Resplendent Chapters""."
+State_53756_Name,aYyH,z状态表_State_A.csv,978,State,Name,,幻梦诗篇·喜,Happiness
+State_53756_Desc,aYyG,z状态表_State_A.csv,978,State,Desc,,所有唤醒体造成的狂气提高 [DescArg1]%，回合结束时的算力和指令卡可保留至下回合。「纷华篇章」造成的狂气提高 。,"All Awakeners' Aliemus gained is increased by [DescArg1]%. All Command Cards gain Retain. Unused Arithmetica is retained. Increase the Aliemus granted by ""Resplendent Chapters""."
+State_53755_Name,aYyE,z状态表_State_A.csv,981,State,Name,,诡谲诗篇·惧,Fear
+State_53755_Desc,aYyD,z状态表_State_A.csv,981,State,Desc,,所有唤醒体施加的<PowerIconKeywords:力量>、<RetaliateIconKeywords:反击>、<IntoxicationIconKeywords:中毒>提高 [DescArg1]%。「纷华篇章」施加的<PowerIconKeywords:力量>提高。,"All Awakener's <PowerIconKeywords:STR> gained, <RetaliateIconKeywords:Counter> gained, and <IntoxicationIconKeywords:Poison> applied increased by +[DescArg1]%. Increase the <PowerIconKeywords:STR> gained by ""Resplendent Chapters""."
+State_2561_Name,aWjl,z状态表_State_A.csv,983,State,Name,,忧郁才华,Melancholy Talent
+State_2561_Desc,aWjk,z状态表_State_A.csv,983,State,Desc,,忧郁才华,Melancholy Talent
+State_2561_WeaponDesc,aWjm,z状态表_State_A.csv,983,State,WeaponDesc,,忧郁才华,Melancholy Talent
+State_56402_Name,aYGC,z状态表_State_A.csv,989,State,Name,,隐喻,Metaphor
+State_56402_Desc,aYGB,z状态表_State_A.csv,989,State,Desc,,"拥有隐喻<D06CardKeyWordnu:「怒」> [DescArg2] 层：「狂想诗篇」触发跃迁时将额外造成伤害。
+拥有隐喻<D06CardKeyWordai:「哀」> [DescArg3] 层：「哀恸诗篇」触发跃迁时将额外回复生命。
+拥有隐喻<D06CardKeyWordxi:「喜」> [DescArg1] 层：「幻梦诗篇」触发跃迁时将额外使唤醒体获得狂气。
+拥有隐喻<D06CardKeyWordju:「惧」> [DescArg4] 层：「诡谲诗篇」触发跃迁时将额外获得力量。","Possessing the metaphor <D06CardKeyWordnu:""Anger""> [DescArg2] layer: ""Snarl Psalm"" triggers Leap and deals additional Damage.\nPossessing the metaphor <D06CardKeyWordai:""Sorrow""> [DescArg3] layer: ""Elegy Psalm"" triggers Leap and restores additional Life.\nPossessing the metaphor <D06CardKeyWordxi:""Happiness""> [DescArg1] layer: ""Carol Psalm"" triggers Leap and gives additional Aliemus to the selected Awakener.\nPossessing the metaphor <D06CardKeyWordju:""Fear""> [DescArg4] layer: ""Dirge Psalm"" triggers Leap and gives additional STR."
+State_55469_Name,aYCi,z状态表_State_A.csv,994,State,Name,,消耗 [Layer] 层隐喻「喜」，额外获得 <Energy:[Energy:DescArg1]> 点狂气,"Consume [Layer] stacks of the Metaphor ""Happiness"" to grant an additional <Energy:[Energy:DescArg1]> Aliemus"
+State_55465_Name,aYBZ,z状态表_State_A.csv,995,State,Name,,消耗 [Layer] 层隐喻「怒」，额外造成 [DescArg1] 次伤害,"Consume [Layer] stacks of Metaphor ""Anger"", dealing an additional [DescArg1] instance of DMG"
+State_55466_Name,aYCc,z状态表_State_A.csv,996,State,Name,,消耗 [Layer] 层隐喻「哀」，回复 <Heal:[Heal:DescArg1]> 点生命,"Consume [Layer] stacks of Metaphor ""Grief"", restoring <Heal:[Heal:DescArg1]> HP"
+State_55467_Name,aYCf,z状态表_State_A.csv,997,State,Name,,消耗 [Layer] 层隐喻「惧」，额外获得 [Power:DescArg1] 点<PowerIconKeywords:力量>,"Consume [Layer] stack of metaphor ""Fear"", gain additional [Power:DescArg1] <PowerIconKeywords:STR>"
+State_55113_Name,aYBQ,z状态表_State_A.csv,998,State,Name,,花与诗的重逢,Blossoms and Verses Reunited
+State_55113_Desc,aYBP,z状态表_State_A.csv,998,State,Desc,,奥尔拉每回合打出第一张诗篇后，获得 10 点狂气。,Horla gains 10 Aliemus after playing the first Psalm card each turn.
+State_55836_Name,aYDh,z状态表_State_A.csv,1000,State,Name,,墨染成诗,Ink-Stained Sonnet
+State_55836_Desc,aYDg,z状态表_State_A.csv,1000,State,Desc,,回合结束时，手中奥尔拉的指令卡算力消耗 -1。,"At turn end, reduce the Arithmetica Cost of Horla's Command Cards in hand by 1."
+,,,,,,,,
+AwakerPotency_13377_PotencyName,atan,h唤醒体启灵_AwakerPotency_A.csv,119,AwakerPotency,PotencyName,奥尔拉,墨染成诗,Ink-Stained Sonnet
+AwakerPotency_13377_PotencyDesc,atam,h唤醒体启灵_AwakerPotency_A.csv,119,AwakerPotency,PotencyDesc,奥尔拉,<OverLimitUtlSkillKeywords:超限爆发>：对应情绪的效果加成提高为 600%。获得 3 层万能「隐喻」：会在下次诗篇跃迁时被视为任意情绪的「隐喻」使用并消耗。,"<OverLimitUtlSkillKeywords:Over-Exaltation>: Further increase the emotion state bonus effect to 600%. Obtain 3 stacks of universal ""Metaphor"", which can be treated as a ""Metaphor"" of any emotion. Universal Metaphor takes priority for being consumed when a Leap effect is triggered."
+,,,,,,,,
+Skill_4243_Name,aMHR,j技能表_Skill_A.csv,1355,Skill,Name,奥尔拉,狂想诗篇,Snarl Psalm
+Skill_4243_Desc_0,aMHO,j技能表_Skill_A.csv,1355,Skill,Desc,奥尔拉,造成 <Damage:[Damage:Arg1]> 点伤害。奥尔拉获得 <Energy:[Energy:Arg3]> 点狂气。<TransitionIconKeywords:跃迁>：切换至情绪「怒」。每消耗 1 层隐喻「怒」，额外造成 2 次伤害。,"Deal <Damage:[Damage:Arg1]> DMG. Horla obtains <Energy:[Energy:Arg3]> Aliemus. <TransitionIconKeywords:Leap>: Switch emotion state to ""Anger"" . For each stack of ""Anger"" Metaphor consumed, deal an additional 2 instances of DMG."
+Skill_4243_Desc_1,aMHP,j技能表_Skill_A.csv,1355,Skill,Desc,奥尔拉,造成 <Damage:[Damage:Arg1]> 点伤害。奥尔拉获得 <Energy:[Energy:Arg3]> 点狂气。<VulnerabilityIconKeywords:易伤>全体敌方 1 回合。<TransitionIconKeywords:跃迁>：切换至情绪「怒」。每消耗 1 层隐喻「怒」，额外造成 2 次伤害。,"Deal <Damage:[Damage:Arg1]> DMG. Horla obtains <Energy:[Energy:Arg3]> Aliemus. Apply 1 stack of <VulnerabilityIconKeywords:Vulnerable> to all enemies. <TransitionIconKeywords:Leap>: Switch emotion state to ""Anger"". For each stack of ""Anger"" Metaphor consumed, deal an additional 2 instances of DMG."
+Skill_4243_BattleDesc_0,aMHM,j技能表_Skill_A.csv,1355,Skill,BattleDesc,奥尔拉,造成 <Damage:[Damage:Arg1]> 点伤害。获得 <Energy:[Energy:Arg3]> 点狂气。<TransitionIconKeywords:跃迁>：切换至情绪「怒」。,"Deal <Damage:[Damage:Arg1]> DMG. Obtain <Energy:[Energy:Arg3]> Aliemus. <TransitionIconKeywords:Leap>: Switch to the ""Anger"" emotion state."
+Skill_4243_BattleDesc_1,aMHN,j技能表_Skill_A.csv,1355,Skill,BattleDesc,奥尔拉,造成 <Damage:[Damage:Arg1]> 点伤害。获得 <Energy:[Energy:Arg3]> 点狂气。<VulnerabilityIconKeywords:易伤>全体敌方 1 回合。<TransitionIconKeywords:跃迁>：切换至情绪「怒」。,"Deal <Damage:[Damage:Arg1]> DMG. Obtain <Energy:[Energy:Arg3]> Aliemus. Apply 1 stack of <VulnerabilityIconKeywords:Vulnerable> to all enemies. <TransitionIconKeywords:Leap>: Switch to the ""Anger"" emotion state."
+Skill_4243_EffectNameList,aMHQ,j技能表_Skill_A.csv,1355,Skill,EffectNameList,奥尔拉,"伤害,狂气","DMG,Aliemus"
+Skill_4243_PropertyNameList,aMHT,j技能表_Skill_A.csv,1355,Skill,PropertyNameList,奥尔拉,"攻击力*GrowValue1,$GrowValue2","ATK*GrowValue1,$GrowValue2"
+Skill_4243_AwakerSkillBackgroundStory,aMHL,j技能表_Skill_A.csv,1355,Skill,AwakerSkillBackgroundStory,奥尔拉,笔墨是她的武器，却如玫瑰的刺，总是刺伤自己。,"Ink is her weapon, yet like the thorn of a rose, it always wounds her."
+Skill_4156_Name,aMwb,j技能表_Skill_A.csv,1356,Skill,Name,奥尔拉,哀恸诗篇,Elegy Psalm
+Skill_4156_Desc_0,aMvY,j技能表_Skill_A.csv,1356,Skill,Desc,奥尔拉,获得 <Block:[Block:Arg1]> 点护盾。奥尔拉获得 <Energy:[Energy:Arg2]> 点狂气。<TransitionIconKeywords:跃迁>：切换至情绪「哀」。每消耗 1 层隐喻「哀」，回复 <Heal:[Heal:Arg3]> 点生命。,"Obtain <Block:[Block:Arg1]> Shield. Horla obtains <Energy:[Energy:Arg2]> Aliemus. <TransitionIconKeywords:Leap>: Switch emotion state to ""Grief"". For each stack of 'Grief' Metaphor consumed, restore <Heal:[Heal:Arg3]> HP."
+Skill_4156_Desc_1,aMvZ,j技能表_Skill_A.csv,1356,Skill,Desc,奥尔拉,获得 <Block:[Block:Arg1]> 点护盾。奥尔拉获得 <Energy:[Energy:Arg2]> 点狂气。<WeaknessIconKeywords:虚弱>全体敌方 1 回合。<TransitionIconKeywords:跃迁>：切换至情绪「哀」。每消耗 1 层隐喻「哀」，回复 <Heal:[Heal:Arg3]> 点生命。,"Obtain <Block:[Block:Arg1]> Shield. Horla obtains <Energy:[Energy:Arg2]> Aliemus. Apply 1 stack of <WeaknessIconKeywords:Weakness> to all enemies. <TransitionIconKeywords:Leap>: Switch to the ""Grief"" emotion state. For each stack of ""Grief"" Metaphor consumed, restore <Heal:[Heal:Arg3]> HP."
+Skill_4156_BattleDesc_0,aMvW,j技能表_Skill_A.csv,1356,Skill,BattleDesc,奥尔拉,获得 <Block:[Block:Arg1]> 点护盾。获得 <Energy:[Energy:Arg2]> 点狂气。<TransitionIconKeywords:跃迁>：切换至情绪「哀」。,"Obtain <Block:[Block:Arg1]> Shield. Obtain <Energy:[Energy:Arg2]> Aliemus. <TransitionIconKeywords:Leap>: Switch to the ""Grief"" emotion state."
+Skill_4156_BattleDesc_1,aMvX,j技能表_Skill_A.csv,1356,Skill,BattleDesc,奥尔拉,获得 <Block:[Block:Arg1]> 点护盾。获得 <Energy:[Energy:Arg2]> 点狂气。<WeaknessIconKeywords:虚弱>全体敌方 1 回合。<TransitionIconKeywords:跃迁>：切换至情绪「哀」。,"Obtain <Block:[Block:Arg1]> Shield. Obtain <Energy:[Energy:Arg2]> Aliemus. Apply 1 stack of <WeaknessIconKeywords:Weakness> to all enemies. <TransitionIconKeywords:Leap>: Switch to the ""Grief"" emotion state."
+Skill_4156_EffectNameList,aMwa,j技能表_Skill_A.csv,1356,Skill,EffectNameList,奥尔拉,"护盾,狂气,回复生命","Shield,Aliemus,HP Recovery"
+Skill_4156_PropertyNameList,aMwd,j技能表_Skill_A.csv,1356,Skill,PropertyNameList,奥尔拉,"防御力*GrowValue1,$GrowValue2,体质*GrowValue3","DEF*GrowValue1,$GrowValue2,CON*GrowValue3"
+Skill_4156_AwakerSkillBackgroundStory,aMvV,j技能表_Skill_A.csv,1356,Skill,AwakerSkillBackgroundStory,奥尔拉,还在担任陪读女眷时，奥尔拉便喜欢躲在书斋的一角阅读诗集。那些哀恸的诗句，总能让她动容。,"When she still served as a tutor, Horla loved hiding in the study corner to read poems. Those mournful verses always moved her."
+Skill_4856_Name,aOLE,j技能表_Skill_A.csv,1357,Skill,Name,奥尔拉,纷华篇章,Resplendent Chapters
+Skill_4856_Desc_0,aOLB,j技能表_Skill_A.csv,1357,Skill,Desc,奥尔拉,回复 <Heal:[Heal:Arg1]> 点生命，获得 [Power:Arg2] 点<PowerIconKeywords:力量>。其他唤醒体获得 <Energy:[Energy:Arg3]> 点狂气，临时暴击率和暴击伤害 +[Arg4]%。在不同情绪下，纷华篇章的对应效果提高 150%。,"Restore <Heal:[Heal:Arg1]> HP, obtain [Power:Arg2] <PowerIconKeywords:STR>. Other Awakeners gain <Energy:[Energy:Arg3]> Aliemus. All Awakeners Temporary Crit. Rate and Crit. DMG +[Arg4]%. If Horla is currently under an emotion state, improve the effect provided by Resplendent Chapters corresponding to the emotion state by 150%."
+Skill_4856_Desc_3,aOLC,j技能表_Skill_A.csv,1357,Skill,Desc,奥尔拉,回复 <Heal:[Heal:Arg1]> 点生命，获得 [Power:Arg2] 点<PowerIconKeywords:力量>。其他唤醒体获得 <Energy:[Energy:Arg3]> 点狂气，临时暴击率和暴击伤害 +[Arg4]%。在不同情绪下，纷华篇章的对应效果提高 250%。,"Restore <Heal:[Heal:Arg1]> HP, obtain [Power:Arg2] <PowerIconKeywords:STR>. Other Awakeners gain <Energy:[Energy:Arg3]> Aliemus, Temporary Crit. Rate and Crit. DMG +[Arg4]%. Under different emotions, Resplendent Chapters' corresponding effects are enhanced by 150%."
+Skill_4856_OverLimitUtlSkillDesc_0,aOLF,j技能表_Skill_A.csv,1357,Skill,OverLimitUtlSkillDesc,奥尔拉,回复 <Heal:[Heal:Arg1]> 点生命，获得 [Power:Arg2] 点<PowerIconKeywords:力量>。其他唤醒体获得 <Energy:[Energy:Arg3]> 点狂气，临时暴击率和暴击伤害 +[Arg4]%。在不同情绪下，纷华篇章的对应效果提高 600%。获得 3 层万能「隐喻」：会在下次诗篇跃迁时被视为任意情绪的「隐喻」使用并<DepleteIconKeywords:消耗>。,"Restore <Heal:[Heal:Arg1]> HP, obtain [Power:Arg2] <PowerIconKeywords:STR>. Other Awakener gain <Energy:[Energy:Arg3]> Aliemus, Temporary Crit. Rate and Crit. DMG +[Arg4]%. Under different emotions, the effects of Resplendent Chapters are increased by 600%. Obtain 3 stacks of Universal ""Metaphor"": will be used as any emotion's ""Metaphor"" during the next Psalms Leap and <DepleteIconKeywords:Exhaust>."
+Skill_4856_EffectNameList,aOLD,j技能表_Skill_A.csv,1357,Skill,EffectNameList,奥尔拉,"回复,力量","Healing,STR"
+Skill_4856_PropertyNameList,aOLG,j技能表_Skill_A.csv,1357,Skill,PropertyNameList,奥尔拉,"体质*GrowValue1, 攻击力*GrowValue2","CON*GrowValue1,ATK*GrowValue2"
+Skill_4856_AwakerSkillBackgroundStory,aOLz,j技能表_Skill_A.csv,1357,Skill,AwakerSkillBackgroundStory,奥尔拉,"庭院悬铃木沙沙摇晃，鸟雀啼鸣出春日的颂歌，玫瑰绽放时的芬芳自窄小的天窗栅栏沁入她的鼻腔。
+孤独的花房之中，繁花入眼，皆是诗篇。","The plane trees in the courtyard rustled, birds cried spring hymns, and the fragrance of blooming roses drifted through the narrow bars of the skylight into her nose.
+In the solitary flower house, every blooming flower was a psalm."
+Skill_4669_Name,aOmE,j技能表_Skill_A.csv,1358,Skill,Name,奥尔拉,诗册序言,Prelude Verse
+Skill_4669_Desc,aOmC,j技能表_Skill_A.csv,1358,Skill,Desc,奥尔拉,奥尔拉获得 <Energy:[Energy:Arg1]> 点狂气。<ExaltIconKeywords:灵知觉醒>：立刻获得 1 层当前情绪外其他情绪的<D06CardKeyWord1:隐喻>，每回合开始也会获得 1 层，每种<D06CardKeyWord1:隐喻>最多 3 层，每层<D06CardKeyWord1:隐喻>使诗篇<TransitionIconKeywords:跃迁>时消耗对应<D06CardKeyWord1:隐喻>并获得额外加成。,"Horla obtains <Energy:[Energy:Arg1]> Aliemus.<ExaltIconKeywords:Rouse>: Immediately gain 1 stack of <D06CardKeyWord1:Metaphor> for each emotion Horla is not currently in. At the start of each turn, repeat this effect. Each emotion can have a maximum of 3 stacks of <D06CardKeyWord1:Metaphor>. When Psalm cards trigger <TransitionIconKeywords:Leap>, consume all <D06CardKeyWord1:Metaphor> stacks of that emotion to trigger the corresponding effects."
+Skill_4669_EffectNameList,aOmD,j技能表_Skill_A.csv,1358,Skill,EffectNameList,奥尔拉,狂气,Aliemus
+Skill_4669_PropertyNameList,aOmG,j技能表_Skill_A.csv,1358,Skill,PropertyNameList,奥尔拉,$GrowValue1,$GrowValue1
+Skill_4669_AwakerSkillBackgroundStory,aOmA,j技能表_Skill_A.csv,1358,Skill,AwakerSkillBackgroundStory,奥尔拉,"她是心绪的载体，是情愫的延续。
+就放纵这浓墨流淌吧，就放纵这诗才挥霍吧。
+这世间未曾诉诸于口的话语，将从她的诗册开始。","She is the vessel of emotions, the continuation of sentiments.
+Let this dark ink flow freely, let this poetic talent be wasted.
+The unspoken words of this world will begin from her poetry book."
+Skill_4393_Name,aNbH,j技能表_Skill_A.csv,1359,Skill,Name,奥尔拉,幻梦诗篇,Carol Psalm
+Skill_4393_Desc,aNbF,j技能表_Skill_A.csv,1359,Skill,Desc,奥尔拉,选择 1 名其他唤醒体获得 <Energy:[Energy:Arg1]> 点狂气。 <TransitionIconKeywords:跃迁>：切换至情绪「喜」。每消耗 1 层隐喻「喜」，额外获得 <Energy:[Energy:Arg2]> 点狂气。,"Choose 1 other Awakener to gain <Energy:[Energy:Arg1]> Aliemus. <TransitionIconKeywords:Leap>: Switch emotion state to ""Happiness."" For each stack of ""Happiness"" Metaphor consumed, increase the amount of Aliemus granted by <Energy:[Energy:Arg2]>."
+Skill_4393_BattleDesc,aNbE,j技能表_Skill_A.csv,1359,Skill,BattleDesc,奥尔拉,选择 1 名其他唤醒体获得 <Energy:[Energy:Arg1]> 点狂气。 <TransitionIconKeywords:跃迁>：切换至情绪「喜」。,"Choose 1 other Awakener to gain <Energy:[Energy:Arg1]> Aliemus. <TransitionIconKeywords:Leap>: Switch to the ""Happiness"" emotion state."
+Skill_4393_EffectNameList,aNbG,j技能表_Skill_A.csv,1359,Skill,EffectNameList,奥尔拉,狂气,Aliemus
+Skill_4393_PropertyNameList,aNbJ,j技能表_Skill_A.csv,1359,Skill,PropertyNameList,奥尔拉,$GrowValue1,$GrowValue1
+Skill_4393_AwakerSkillBackgroundStory,aNbD,j技能表_Skill_A.csv,1359,Skill,AwakerSkillBackgroundStory,奥尔拉,"诗歌首次出版的那天，花匠满怀雀跃地带来了一朵玫瑰。
+她小心翼翼地将玫瑰珍藏起来。在花园走向衰亡之前，那是这场幻梦最美好的高潮。","On the day the poem was first published, the gardener joyfully brought a rose.
+She carefully preserved the rose. Before the garden's decline, it was the most beautiful climax of this dream."
+Skill_4758_Name,aOyA,j技能表_Skill_A.csv,1360,Skill,Name,奥尔拉,诡谲诗篇,Dirge Psalm
+Skill_4758_Desc,aOyy,j技能表_Skill_A.csv,1360,Skill,Desc,奥尔拉,获得 [Power:Arg1] 点<PowerIconKeywords:力量>，使所有敌人<PowerIconKeywords:力量>临时降低 [Exhaustion:Arg2] 点。<TransitionIconKeywords:跃迁>：切换至情绪「惧」。每消耗 1 层隐喻「惧」，额外获得 [Power:Arg3] 点<PowerIconKeywords:力量>。,"Gain [Power:Arg1] <PowerIconKeywords:STR>. Temporarily reduce all enemies' <PowerIconKeywords:STR> by [Exhaustion:Arg2]. <TransitionIconKeywords:Leap>: Switch emotion state to ""Fear"". For each stack of ""Fear"" Metaphor consumed, gain an additional [Power:Arg3] <PowerIconKeywords:STR>."
+Skill_4758_BattleDesc,aOyx,j技能表_Skill_A.csv,1360,Skill,BattleDesc,奥尔拉,获得 [Power:Arg1] 点<PowerIconKeywords:力量>，使所有敌人<PowerIconKeywords:力量>临时降低 [Exhaustion:Arg2] 点。<TransitionIconKeywords:跃迁>：切换至情绪「惧」。,"Gain [Power:Arg1] <PowerIconKeywords:STR> points. Temporarily reduce all enemies' <PowerIconKeywords:STR> by [Exhaustion:Arg2] points. <TransitionIconKeywords:Leap>: Switch to the ""Fear"" emotion state."
+Skill_4758_EffectNameList,aOyz,j技能表_Skill_A.csv,1360,Skill,EffectNameList,奥尔拉,"力量,力量降低,额外力量","STR,STR▼,Extra STR"
+Skill_4758_PropertyNameList,aOyC,j技能表_Skill_A.csv,1360,Skill,PropertyNameList,奥尔拉,"攻击力*GrowValue1,攻击力*GrowValue2,攻击力*GrowValue3","ATK*GrowValue1,ATK*GrowValue2,ATK*GrowValue3"
+Skill_4758_AwakerSkillBackgroundStory,aOyw,j技能表_Skill_A.csv,1360,Skill,AwakerSkillBackgroundStory,奥尔拉,"她以新的姓名重生于世间，遮掩容貌，不复轮廓。
+流传于世间的，只有以她的口吻述说的诗篇。
+如此便已足够。
+诗人不必拥有形貌……他们本应隐形于浓墨之中，书页之后。","She is reborn into the world with a new name, concealing her appearance, her features gone.
+What remains in the world are poems spoken in her voice.
+This is enough.
+A poet does not need a form... They should become invisible within dark ink and behind pages."
