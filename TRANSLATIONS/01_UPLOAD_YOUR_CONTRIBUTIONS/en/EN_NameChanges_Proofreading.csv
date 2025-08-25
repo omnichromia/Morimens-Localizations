@@ -1,0 +1,15 @@
+﻿AvgRole_1206_RoleName,aqVV,avg角色_AvgRole_C.csv,214,AvgRole,Character Name,,库姆,Koum
+Item_54126_Name,aDUd,d道具_Item_A.csv,1248,Item,Name,,相位通讯：库姆·失去言语,Phase Comm: Koum - Speech Lost
+CollectionHall_57646_Title,avKH,t图鉴_CollectionHall_A.csv,111,CollectionHall,Title,,库姆,Koum
+CollectionHall_57646_Desc,avKF,t图鉴_CollectionHall_A.csv,111,CollectionHall,Desc,,"<Title:简介>
+弗朗西斯饲喂的「宠物」。
+本是名为「丽莎」的活泼少女，经雕塑家协会的改造转变为人兽缝合的扭曲形态，后被莉莉收养，暂时生活在疯人院内。
+尽管丧失了人类的外貌和发声能力，库姆仍保留着丽莎的部分心智，能够通过简单的肢体动作传达自己的意图。
+她做出了自己的选择。","Francis's ""pet.""
+Originally a lively Maiden named ""Lisa,"" she was transformed by the Sculptors' Association into a Distorted human-animal hybrid, and later adopted by Lily, temporarily living within the asylum.
+Despite losing her human appearance and ability to speak, Koum retains part of Lisa's mind, capable of conveying her intention through simple physical gestures.
+She has made her own choice."
+MonsterConfig_14069_MonsterName,aHLi,g怪物_MonsterConfig_A.csv,50,MonsterConfig,MonsterName,,库姆,Koum
+MonsterConfig_14114_MonsterName,aHMS,g怪物_MonsterConfig_A.csv,51,MonsterConfig,MonsterName,,库姆,Koum
+MonsterConfig_14054_MonsterName,aHKE,g怪物_MonsterConfig_A.csv,52,MonsterConfig,MonsterName,,库姆,Koum
+MonsterConfig_14005_MonsterName,aHIO,g怪物_MonsterConfig_A.csv,53,MonsterConfig,MonsterName,,库姆,Koum
