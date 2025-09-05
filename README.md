@@ -133,6 +133,7 @@ Before each version update, @艾絲Ace will double check with all volunteers & m
 Goz
 Arkaether
 Sophie
+Omnichromia
 
 ### German
 ### French
