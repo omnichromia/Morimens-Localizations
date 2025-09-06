@@ -1,0 +1,33 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Character,CN,EN
+Skill_4717_Name,aOsI,j技能表_Skill_A.csv,968,Skill,Name,,晚期症状：暴虐,Rage
+Skill_3985_Name,aLYL,j技能表_Skill_A.csv,969,Skill,Name,,晚期症状：共感,Symbiosis
+Skill_4135_Name,aMtg,j技能表_Skill_A.csv,970,Skill,Name,,晚期症状：躁狂,Frenzy
+Skill_4119_Name,aMqy,j技能表_Skill_A.csv,971,Skill,Name,,症状：妄想,Delusions
+Skill_4496_Name,aNvv,j技能表_Skill_A.csv,972,Skill,Name,,症状：癫痫,Epilepsy
+Skill_4645_Name,aOjj,j技能表_Skill_A.csv,973,Skill,Name,,症状：疯狂,Madness
+Skill_3960_Name,aLVs,j技能表_Skill_A.csv,974,Skill,Name,,症状：衰弱,Weakness
+Skill_4569_Name,aNXN,j技能表_Skill_A.csv,975,Skill,Name,,症状：崩溃,Trauma
+Skill_4560_Name,aNSz,j技能表_Skill_A.csv,978,Skill,Name,,症状：幽闭,Claustrophobia
+Skill_4142_Name,aMue,j技能表_Skill_A.csv,979,Skill,Name,,症状：呓语,Somniloquy
+Skill_4142_Desc,aMuc,j技能表_Skill_A.csv,979,Skill,Desc,,抽 2 张牌，将 1 张「症状：呓语」加入弃牌堆中。无法出售。,"Draw 2 cards and add 1 ""Somniloquy"" to the Discard Pile. Cannot be sold."
+Skill_4625_Name,aOgl,j技能表_Skill_A.csv,980,Skill,Name,,症状：癔想,Hysteria
+Skill_4625_Desc,aOgj,j技能表_Skill_A.csv,980,Skill,Desc,,获得 1 点算力，将 1 张「症状：癔想」加入弃牌堆中。无法出售。,"Gain 1 Arithmetica, adds 1 ""Hysteria"" to the Discard Pile. Cannot be sold."
+Skill_4002_Name,aMaQ,j技能表_Skill_A.csv,981,Skill,Name,,症状：颓丧,Despondency
+Skill_4184_Name,aMzX,j技能表_Skill_A.csv,982,Skill,Name,,症状：休克,Shock
+Skill_4158_Name,aMwp,j技能表_Skill_A.csv,984,Skill,Name,,症状：盲从,Blind Obedience
+Skill_4078_Name,aMle,j技能表_Skill_A.csv,985,Skill,Name,,症状：多疑,Paranoia
+Skill_4741_Name,aOvT,j技能表_Skill_A.csv,986,Skill,Name,,症状：兴奋,Mania
+State_3294_Name,aWWP,z状态表_State_A.csv,2391,State,Name,,状态@诅咒多疑,State@Cursed Paranoia
+State_2757_Name,aWtL,z状态表_State_A.csv,2392,State,Name,,症状：多疑,Symptom: Paranoia
+State_3256_Name,aWUO,z状态表_State_A.csv,2393,State,Name,,状态@诅咒兴奋,State@Cursed Mania
+State_2617_Name,aWmu,z状态表_State_A.csv,2394,State,Name,,症状：兴奋,Symptom: Mania
+State_3216_Desc,aWSJ,z状态表_State_A.csv,1268,State,Desc,,战斗结束后，额外获得 100 黑印，但得到一张症状卡。,"After the battle, acquire an extra 100 Black Sigils, but develop a random Symptom."
+State_3216_WeaponDesc,aWSL,z状态表_State_A.csv,1268,State,WeaponDesc,,战斗结束后，额外获得 100 黑印，但得到一张症状卡。,"After the battle, acquire an extra 100 Black Sigils, but develop a random Symptom."
+State_3027_Desc,aWIg,z状态表_State_A.csv,1426,State,Desc,,战斗结束后，额外获得 50 黑印和 1 张症状卡。,"After the battle, acquire an extra 50 Black Sigils, but develop a random Symptom."
+State_2876_Desc,aWAc,z状态表_State_A.csv,1427,State,Desc,,战斗结束后，额外获得 50 黑印和 1 张症状卡。,"After the battle, acquire an extra 50 Black Sigils, but develop a random Symptom."
+State_44713_Desc,aXSq,z状态表_State_A.csv,1428,State,Desc,,战斗结束后，额外获得 100 黑印和 2 张症状卡。,"After the battle, acquire an extra 100 Black Sigils, but develop 2 random Symptoms."
+State_44711_Desc,aXSk,z状态表_State_A.csv,1429,State,Desc,,"造物上限+5, [融痕]中刷新次数+1。战斗结束后，获得 125 黑印，拾取时可以选择最多 6 张症状卡删除。","Relic Capacity +5, +1 refresh in [D-Mark]. After battle, acquire 125 Black Sigils. When picked up, you can choose to destroy up to 6 Symptom cards."
+State_3620_Desc,aXvv,z状态表_State_A.csv,1626,State,Desc,,每当获得症状卡后，使最大生命提高 [Arg1] 点。,"Whenever you develop a Symptom, increase Max HP by [Arg1]."
+State_76286_Desc,babo,z状态表_State_A.csv,1726,State,Desc,,休息处额外提供一个选项：消除至多 3 张症状，获得 <WeaponEffect_Num:[StateArg1]> 点黑印。在星辰篇中，效果改为「使装备者的维度影像造物出现的可能性提高 100％」。,"Rest Areas provide an additional option: Destroy up to 3 Symptom cards, acquire <WeaponEffect_Num:[StateArg1]> Black Sigils. In ""Astral Reign"", this effect changes to ""100% chance for wielder's Dimension Image Relic to appear""."
+State_76286_WeaponDesc,babq,z状态表_State_A.csv,1726,State,WeaponDesc,,休息处额外提供一个选项：消除至多 3 张症状，获得 <WeaponEffect_Num:[StateArg1]> 点黑印。在星辰篇中，效果改为「使装备者的维度影像造物出现的可能性提高 100％」。,"Rest Areas provide an additional option: Destroy up to 3 Symptom cards, acquire <WeaponEffect_Num:[StateArg1]> Black Sigils. In ""Astral Reign"", this effect changes to ""100% chance for wielder's Dimension Image Relic to appear""."
+Skill_4746_Desc,aOwG,j技能表_Skill_A.csv,137,Skill,Desc,,降低所有敌人 [Arg2] 点临时力量，将一张<DerivativeCardKeywords_28:症状：「崩溃」>置入手牌。“很痛吗？真可怜……哭出来就好啦！”,"Reduce all enemies' [Arg2] Temporary STR and place a <DerivativeCardKeywords_28:""Trauma""> into hand. ""Does it hurt? So pitiful... Just cry it out!"""

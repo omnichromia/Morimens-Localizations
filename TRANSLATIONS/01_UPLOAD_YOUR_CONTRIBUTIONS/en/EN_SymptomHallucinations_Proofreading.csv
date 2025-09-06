@@ -1,0 +1,10 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Character,CN,EN
+Skill_4508_Name,aNxk,j技能表_Skill_A.csv,983,Skill,Name,,症状：谵妄,Hallucinations
+Skill_23473_Desc,aLpv,j技能表_Skill_A.csv,1613,Skill,Desc,,将「症状：谵妄」与「症状：盲从」洗入抽牌堆。,"Shuffle one of each of the Symptoms ""Hallucinations"" and ""Blind Obedience"" into the Draw Pile."
+Skill_23469_Desc,aLoT,j技能表_Skill_A.csv,1617,Skill,Desc,达芙黛尔,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次。将「症状：谵妄」与「症状：盲从」洗入抽牌堆。,"Deal <Damage:[Damage:Arg1]> DMG [AttackTimes:Arg2] times. Shuffle the Symptoms ""Hallucinations"" and ""Blind Obedience"" into the Draw Pile."
+Skill_23494_Desc,aLsm,j技能表_Skill_A.csv,1620,Skill,Desc,达芙黛尔,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次。降低所有唤醒体 [Arg3] 点狂气，施加 [Arg4] 层<BleedingIconKeywords:出血>，将「症状：谵妄」与「症状：盲从」洗入抽牌堆。,"Deal <Damage:[Damage:Arg1]> DMG [AttackTimes:Arg2] times. Reduce all Awakeners' Aliemus by [Arg3], inflict [Arg4] stacks of <BleedingIconKeywords:Bleed>, and shuffle the Symptoms ""Hallucinations"" and ""Blind Obedience"" into the Draw Pile."
+Skill_23485_Desc,aLrb,j技能表_Skill_A.csv,1632,Skill,Desc,达芙黛尔,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，施加 [Arg3] 层<BleedingIconKeywords:出血>，塞入2张「症状：谵妄」。,"Deal <Damage:[Damage:Arg1]> DMG [AttackTimes:Arg2] times, inflict [Arg3] stacks of <BleedingIconKeywords:Bleed>, and add 2 ""Hallucinations"" Symptom cards."
+Skill_23486_Desc,aLri,j技能表_Skill_A.csv,1634,Skill,Desc,达芙黛尔,造成 <Damage:[Damage:Arg1]> 点伤害 [AttackTimes:Arg2] 次，降低所有唤醒体 [Arg3] 点狂气，塞入 2 张「症状：谵妄」。,"Deal <Damage:[Damage:Arg1]> DMG [AttackTimes:Arg2] times, reduce all Awakeners' [Arg3] Aliemus, and insert 2 ""Hallucinations"" Symptom cards."
+State_3017_Name,aWHG,z状态表_State_A.csv,2399,State,Name,,状态@诅咒谵妄,State@Cursed Hallucinations
+State_2927_Name,aWCU,z状态表_State_A.csv,2400,State,Name,,状态@诅咒谵妄变化,State@Cursed Hallucinations Change
+State_3153_Name,aWPs,z状态表_State_A.csv,2401,State,Name,,状态@诅咒谵妄还原,State@Curse Hallucinations Restoration
