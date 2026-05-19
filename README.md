@@ -16,8 +16,6 @@
     <a href="https://discord.gg/erbwzNdsHv">Morimens Official Discord</a>
     ·
     <a href="https://x.com/MorimensOfcl">Morimens Official Twitter</a>
-    ·
-    <a href="https://discord.gg/m4JU2d6ce3">Morimens Volunteer Translation Server</a>
   </p>
 </p>
 
