@@ -66,17 +66,17 @@ Task_48735_CompleteCondDesc,beFW,r任务_Task_A.csv,344,Task,CompleteCondDesc,,�
 ,,,—,,,,,
 Task_48734_Name,beFT,r任务_Task_A.csv,345,Task,Name,,调查任务：先验理论,ภารกิจ: ทฤษฎีเชิงประจักษ์
 Task_48734_Desc,beFR,r任务_Task_A.csv,345,Task,Desc,,忘掉你的认知，忘掉你的目的。\n真相是什么，它们会告诉你。,จงลืมเลือนการรับรู้ของเจ้าเสีย จงลืมเลือนจุดประสงค์ของเจ้าไป\nความจริงคือสิ่งใด พวกมันจะเป็นผู้บอกเจ้าเอง
-Task_48734_UnlockCondDesc,beFV,r任务_Task_A.csv,345,Task,UnlockCondDesc,,守密人 30 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 25
+Task_48734_UnlockCondDesc,beFV,r任务_Task_A.csv,345,Task,UnlockCondDesc,,守密人 30 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 30
 Task_48734_CompleteCondDesc,beFQ,r任务_Task_A.csv,345,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
 ,,,—,,,,,
 Task_48733_Name,beFN,r任务_Task_A.csv,346,Task,Name,,调查任务：泛神信仰,ภารกิจ: สรรพเทวนิยม
 Task_48733_Desc,beFL,r任务_Task_A.csv,346,Task,Desc,,从倒塌的教堂和破碎的文物中，博物馆获得它们的珍藏，你获得你的珍藏。\n你们各取所需。,จากโบสถ์ที่พังทลายและโบราณวัตถุที่แตกสลาย พิพิธภัณฑ์ได้สิ่งล้ำค่าของพวกเขาไป ส่วนคุณก็ได้สิ่งล้ำค่าของคุณมา\nต่างฝ่ายต่างก็ได้ในสิ่งที่ตนต้องการ
-Task_48733_UnlockCondDesc,beFP,r任务_Task_A.csv,346,Task,UnlockCondDesc,,守密人 40 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 25
+Task_48733_UnlockCondDesc,beFP,r任务_Task_A.csv,346,Task,UnlockCondDesc,,守密人 40 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 40
 Task_48733_CompleteCondDesc,beFK,r任务_Task_A.csv,346,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
 ,,,—,,,,,
 Task_48736_Name,beGf,r任务_Task_A.csv,347,Task,Name,,调查任务：秘境幻影,ภารกิจ: ดินแดนลวงตา
 Task_48736_Desc,beGd,r任务_Task_A.csv,347,Task,Desc,,收获两段不可信任的承诺，和一场难以忘怀的梦。,ได้รับมาซึ่งคำสัญญาที่ไม่อาจเชื่อถือได้สองครา และความฝันที่ยากจะลืมเลือนอีกหนึ่งตื่น
-Task_48736_UnlockCondDesc,beGh,r任务_Task_A.csv,347,Task,UnlockCondDesc,,守密人 50 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 25
+Task_48736_UnlockCondDesc,beGh,r任务_Task_A.csv,347,Task,UnlockCondDesc,,守密人 50 级开放,ปลดล็อกเมื่อผู้พิทักษ์ความลับ ระดับ 50
 Task_48736_CompleteCondDesc,beGc,r任务_Task_A.csv,347,Task,CompleteCondDesc,,派遣总等级>={s1},เลเวลรวมการมอบหมายภารกิจ ≥ {s1}
 ,,,—,,,,,
 PanelText_UI_Research_Panel_Dispatch_Item_Text_C_Unclickable_Content,aIWx,j界面文字表_PanelText_C.csv,901,PanelText,Content,,未解锁,ล็อก
