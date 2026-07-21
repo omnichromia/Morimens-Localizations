@@ -1808,7 +1808,7 @@ CollectionHall_94553_LockTip,byOx,t图鉴_CollectionHall_A.csv,120,CollectionHal
 CollectionHall_57623_LockTip,avJp,t图鉴_CollectionHall_A.csv,128,CollectionHall,LockTip,,通关异梦视界「亵渎」解锁,異夢視界「冒涜」クリアで解放
 CollectionHall_70839_LockTip,avPa,t图鉴_CollectionHall_A.csv,129,CollectionHall,LockTip,,通关第一章解锁,第一章クリアで解放
 CollectionHall_65503_Title,avMF,t图鉴_CollectionHall_A.csv,295,CollectionHall,Title,,艾尔沃斯的归人,雪山への帰還
-CollectionHall_81508_Title,btNM,t图鉴_CollectionHall_A.csv,304,CollectionHall,Title,,重临雾都,霧都再訪
+CollectionHall_81508_Title,btNM,t图鉴_CollectionHall_A.csv,304,CollectionHall,Title,,重临雾都,霧の都への再訪
 CollectionHall_90415_Title,bxYs,t图鉴_CollectionHall_A.csv,320,CollectionHall,Title,,天边之外·上,空の彼方・上
 CollectionHall_117619_Title,bIpM,t图鉴_CollectionHall_A.csv,322,CollectionHall,Title,,天边之外·下,空の彼方・下
 CollectionHall_100310_Title,bCuD,t图鉴_CollectionHall_A.csv,333,CollectionHall,Title,,不朽极昼,不朽の白夜
@@ -1960,7 +1960,7 @@ Stage_80271_Name,bsVt,g关卡_Stage_A.csv,402,Stage,Name,,蝴蝶飞,ドッペル
 Stage_80271_Desc,bsVs,g关卡_Stage_A.csv,402,Stage,Desc,,小小的蝴蝶，穿过梦境，飞向现实。\n或许它太过愚蠢，但蝴蝶的选择，与人不同。,私は私の友であり、同時に私の敵でもある。\nこの協力と殺し合いは、ただ一人が残るまで終わらない。
 Stage_80269_Name,bsVn,g关卡_Stage_A.csv,403,Stage,Name,,我有许多梦想,たくさんの夢
 Stage_80269_Desc,bsVm,g关卡_Stage_A.csv,403,Stage,Desc,,我对世界满怀梦想，希望鲜花一直盛开，希望微笑永恒长存。\n但生命只给了我一个梦。,私は世界に夢を抱いていた。\n花がいつまでも咲き続け、笑顔がいつまでも続くことを願っていた。\nしかし、人生は私にたった一つの夢しか与えてくれなかった。
-StageGroup_70939_Name,aRGW,g关卡组_StageGroup_A.csv,36,StageGroup,Name,,重临雾都,霧都再訪
+StageGroup_70939_Name,aRGW,g关卡组_StageGroup_A.csv,36,StageGroup,Name,,重临雾都,霧の都への再訪
 State_100542_Desc,bCCL,z状态表_State_A.csv,112,State,Desc,,皮克曼触发「发现」效果时额外增加「灵感迸发！」选项：消耗 1 层「狂想」，选择所有「发现」效果并获得 1 层「创意」。,ピックマンが「発見」効果を発動した場合、「ひらめきが湧き上がる！」の選択を追加：「狂想」を1点消費し、すべての効果を選択して1点の「創意」を獲得する。
 State_66359_Desc,aZix,z状态表_State_A.csv,3754,State,Desc,,随机产生若干个选项来进行选择。,ランダムに複数の選択肢を生成し、その中から選択する。
 State_90059_Desc,bxOF,z状态表_State_A.csv,4899,State,Desc,,本回合承受主动或触腕伤害时，移除等量侵蚀并失去移除量的 [DescArg1]％ 生命，承受其它伤害时移除 50% 伤害量的侵蚀。,このターンにアクティブダメージまたは触腕ダメージを受けた場合、同量の侵蝕を除去し、除去した量の300%のライフを失う。それ以外のダメージを受けた場合は、ダメージの50%の侵蝕を除去する。
