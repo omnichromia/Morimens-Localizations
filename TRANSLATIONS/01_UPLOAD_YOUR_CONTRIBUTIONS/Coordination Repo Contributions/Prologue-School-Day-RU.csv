@@ -1,0 +1,291 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Role,CN,RU
+StageGroup_15935_Name,aRcG,g关卡组_StageGroup_A.csv,8,StageGroup,Name,,入学日,День поступления
+StageGroup_15935_Desc,aRcF,g关卡组_StageGroup_A.csv,8,StageGroup,Desc,,启程日，钥冢细雨霏霏。在这里埋下你的墓碑、姓名和誓言。,"В день отправления на Кургане ключей моросит мелкий дождь. \nЗдесь суждено оказаться твоей могиле, твоему имени и твоим клятвам."
+StageGroup_15935_TypeText,aRcI,g关卡组_StageGroup_A.csv,8,StageGroup,TypeText,,调查,Расследование
+AvgDialog_10126_Content_1,adnc,avg序章_AvgDialog_C_M.csv,8,AvgDialog,Content,拉蒙娜战损版,生命衰减至0时，精神力将难以支持仪器继续探测<Yellow:密境>，为保证战斗人员的安全，仪器会将你强制拉出战斗。,"Когда ОЗ упадёт до 0, ментальных сил станет недостаточно чтобы поддерживать работу устройства для изучения <Yellow:Предела>. В целях обеспечения безопасности устройство принудительно выведет тебя из боя."
+AvgDialog_10126_Content_2,adnd,avg序章_AvgDialog_C_M.csv,9,AvgDialog,Content,拉蒙娜战损版,本次情况紧急，我调整了仪器的功率，它将按照守密人体征健康且狂气充盈的功率进行输出。,"Учитывая срочность ситуации, я отрегулировала устройство, чтобы мощность рассчитывала состояние здоровья Хранителя и количество Алиемуса."
+AvgDialog_10126_Content_3,adne,avg序章_AvgDialog_C_M.csv,10,AvgDialog,Content,拉蒙娜战损版,这种做法极为凶险，但我们不得不放手一搏。现在，使用狂气爆发来终结这一战吧！,"Это крайне опасная тактика, но нам остаётся лишь рискнуть. А теперь воспользуйся моим Вознесением, чтобы закончить этот бой!"
+AvgDialog_10142_Content_2,adpT,avg序章_AvgDialog_C_M.csv,13,AvgDialog,Content,拉蒙娜,别在这么重要的仪式上走神哦，<Yellow:守密人>，下一个就轮到你被授予银钥匙了。,"Не витай в облаках во время важной церемонии, <Yellow:Хранитель>. Следующий Серебряный Ключ вручать будут уже тебе."
+AvgDialog_10142_Content_3,adpU,avg序章_AvgDialog_C_M.csv,14,AvgDialog,Content,拉蒙娜,立下自己的墓碑，以此证明我们为<Yellow:对抗融蚀>献出生命的决意——这不仅是弥萨格的传统，也是我们结束预科学习、成为正式调查员的标志。,"Установление собственного надгробия в знак решимости отдать свою жизнь <Yellow:в борьбе с Растворением> — это не только традиция Мисага, но и символ завершения подготовительного курса и становление официальными исследователями."
+AvgDialog_10142_Content_4,adpV,avg序章_AvgDialog_C_M.csv,15,AvgDialog,Content,拉蒙娜,准备好了的话，就在墓碑上镌刻下你的名字吧。,"Когда подготовишься, высеки своё имя на надгробии."
+AvgDialog_10130_Content_2,adnJ,avg序章_AvgDialog_C_M.csv,18,AvgDialog,Content,拉蒙娜,欢迎你加入弥萨格大学，%player%。,"Добро пожаловать в университет «Мисаг», %player%."
+AvgDialog_10130_Content_3,adnO,avg序章_AvgDialog_C_M.csv,19,AvgDialog,Content,拉蒙娜,或者说……欢迎你，正式跨入世界的里侧。,"Или, скорее... добро пожаловать на изнанку мира."
+AvgDialog_10130_Content_4,adnP,avg序章_AvgDialog_C_M.csv,20,AvgDialog,Content,,我回来了。,Я дома.
+AvgDialog_10130_Content_5,adnQ,avg序章_AvgDialog_C_M.csv,21,AvgDialog,Content,拉蒙娜,你的加入可以说是众望所归。不出两天，威廉就要给我们分配<Yellow:灾厄调查任务>了。,Твоего поступления очень ждали. В течение дня или двух Уильям поручит нам <Yellow:расследование бедствия>.
+AvgDialog_10130_Content_6,adnR,avg序章_AvgDialog_C_M.csv,22,AvgDialog,Content,拉蒙娜,他可不会饶过你这个百年一遇的守密人。,"Он тебя жалеть не станет, будь ты хоть каким выдающимся Хранителем."
+AvgDialog_10130_Content_7,adnS,avg序章_AvgDialog_C_M.csv,23,AvgDialog,Content,拉蒙娜,希望你的@1 外勤课题不像微积分课程一样依赖我这个<Blue:助手>。,"Надеюсь, твоя @1 полевая работа не будет зависеть от меня столь же сильно, как когда я была твоим <Blue:ассистентом> на курсе математического анализа."
+AvgDialog_10130_Content_8,adnT,avg序章_AvgDialog_C_M.csv,24,AvgDialog,Content,,没想到会参加自己的葬礼。,"Кто бы мог подумать, что случится побывать на собственных похоронах."
+AvgDialog_10130_Content_9,adnU,avg序章_AvgDialog_C_M.csv,25,AvgDialog,Content,拉蒙娜,接纳死亡，让我们不再畏惧死亡。,Принятие смерти позволяет перестать её бояться.
+AvgDialog_10130_Content_10,adnz,avg序章_AvgDialog_C_M.csv,26,AvgDialog,Content,拉蒙娜,只要名字还镌刻在碑铭上，我们的存在就不会被@2抹去。,"Пока наши имена выгравированы на надгробии, @2 не сотрёт нас из истории."
+AvgDialog_10130_Content_11,adnA,avg序章_AvgDialog_C_M.csv,27,AvgDialog,Content,,温和的声音夹杂着扭曲的嘶鸣在脑海中回荡。,"В твоей голове эхом отзывается нежный голос, мягкий голос, смешивающийся с неестественным шипением."
+AvgDialog_10130_Content_12,adnB,avg序章_AvgDialog_C_M.csv,28,AvgDialog,Content,拉蒙娜,我将作为你的助手，陪你抵达这条道路的终点……<Yellow:愿银钥指引前路。>,"Я буду твоей помощницей, буду сопровождать до самого конца пути...<Yellow:Да осветит твой путь Серебряный ключ.>"
+AvgDialog_10130_Content_13,adnC,avg序章_AvgDialog_C_M.csv,29,AvgDialog,Content,拉蒙娜,"还好吗，%player%？
+从刚才开始，你的脸色就不太对劲。需要我送你去医务室吗？","Ты как, %player%?\nВыглядишь неважно. Может, отвести тебя в лазарет?"
+AvgDialog_10130_Content_14,adnD,avg序章_AvgDialog_C_M.csv,30,AvgDialog,Content,,她清冽的声音让头脑清晰了些许，眩晕的感觉也逐渐消退。,"Её чёткая речь немного проясняет твой разум, и головокружение постепенно сходит на нет."
+AvgDialog_10130_Content_15,adnE,avg序章_AvgDialog_C_M.csv,31,AvgDialog,Content,玩家,没事，只是一点头晕，已经缓解了。,"Не волнуйся, просто немного закружилась голова, сейчас пройдёт."
+AvgDialog_10130_Content_16,adnF,avg序章_AvgDialog_C_M.csv,32,AvgDialog,Content,拉蒙娜,"唔，保险起见，还是和我链接吧。
+作为助手，也作为你的搭档，时刻确认你的状态可是我的责任。","Тогда давай на всякий случай установим связь.\nКак твоя помощница и напарница, я обязана следить за твоим здоровьем."
+AvgDialog_10130_Content_17,adnG,avg序章_AvgDialog_C_M.csv,33,AvgDialog,Content,玩家,现在？就在这里？,Сейчас? Прямо здесь?
+AvgDialog_10130_Content_18,adnH,avg序章_AvgDialog_C_M.csv,34,AvgDialog,Content,拉蒙娜,稍微提前了一点点，不过没关系，不是吗？,"Немного рановато, но ничего страшного, верно?"
+AvgDialog_10130_Content_19,adnI,avg序章_AvgDialog_C_M.csv,35,AvgDialog,Content,拉蒙娜,从一年前开始，我就在期待今天了。,Я с нетерпением ждала этого дня весь прошлый год.
+AvgDialog_10130_Content_21,adnL,avg序章_AvgDialog_C_M.csv,37,AvgDialog,Content,,细雨将指尖濡湿，微弱的电流穿透手套，顺着你的皮肤和她的指尖隐秘流淌。,"Мелкие капли дождя промачивают ткань перчаток. Слабый разряд пробегает по материалу, незримо скользя между твоей кожей и её пальцами."
+AvgDialog_10130_Content_22,adnM,avg序章_AvgDialog_C_M.csv,38,AvgDialog,Content,,莫名的情绪顺着电流触动了你的神经，那是欣喜、雀跃、不安和……,"Следом за импульсом, по твоим нервом прокатываются необъяснимые чувства – радость, трепет, тревога и…"
+AvgDialog_10130_Content_23,adnN,avg序章_AvgDialog_C_M.csv,39,AvgDialog,Content,,……<Yellow:希望>。,…<Yellow:надежда>.
+AvgDialog_10127_Content_1,adnf,avg序章_AvgDialog_C_M.csv,40,AvgDialog,Content,拉蒙娜,多么温暖……精神链接非常稳定，你的精神与生命力从未如今天一般强韧。,"Как тепло... Духовная связь очень крепка, а твой дух и жизненная сила никогда ещё не были так сильны, как сегодня."
+AvgDialog_10127_Content_2,adng,avg序章_AvgDialog_C_M.csv,41,AvgDialog,Content,拉蒙娜,"你可不能轻易倒下哦，<Yellow:世界唯一>的守密人。
+我们还指望靠你来调查和记录所有被融蚀抹消的历史呢。","Тебе нельзя вот так просто падать, <Yellow:единственный в мире> Хранитель. \n Мы надеемся на тебя в расследовании и записи всего стёртого Растворением."
+AvgDialog_10127_Content_3,adnh,avg序章_AvgDialog_C_M.csv,42,AvgDialog,Content,,眼底的担忧散去，拉蒙娜半开玩笑地在嘴角勾起一个令人安心的弧度。,"Беспокойство в её взгляде постепенно рассеивается, и Рамона одаривает тебя ободряющей улыбкой."
+AvgDialog_10127_Content_4,adni,avg序章_AvgDialog_C_M.csv,43,AvgDialog,Content,,淅沥的雨声填满天地。,Шелест дождя заполняет весь мир.
+AvgDialog_10127_Content_5,adnj,avg序章_AvgDialog_C_M.csv,44,AvgDialog,Content,,<Red:不安、疼痛、窒息>却在某滴雨珠落下时，填满了胸口。,"Но падает очередная капля дождя, и <Red:тревога, боль и удушье> охватывают тебя."
+AvgDialog_10127_Content_7,adnl,avg序章_AvgDialog_C_M.csv,46,AvgDialog,Content,玩家,拉蒙娜！,Рамона!
+AvgDialog_10127_Content_9,adnn,avg序章_AvgDialog_C_M.csv,48,AvgDialog,Content,,钟声鸣响。,Раздаётся звон колокола.
+AvgDialog_10139_Content_1,adpG,avg序章_AvgDialog_C_M.csv,49,AvgDialog,Content,拉蒙娜战损版,"谢谢你，守密人，你又救了我一次。
+如果不是这链接，我现在大概命悬一线了。","Благодарю, Хранитель, ты снова {Male=спас,Female=спасла} меня.\nБез этой связи я бы сейчас, наверное, была на волосок от смерти."
+AvgDialog_10139_Content_2,adpH,avg序章_AvgDialog_C_M.csv,50,AvgDialog,Content,玩家,现在可不是说这些的时候——,Сейчас не до этого—
+AvgDialog_10139_Content_3,adpI,avg序章_AvgDialog_C_M.csv,51,AvgDialog,Content,,"交谈间，漆黑的异变已在你们身边蔓延。
+惨叫声连绵不绝，昨天课堂上的同学不断化为漆黑黏液。","Пока вы говорите, тёмное нечто уже расползается вокруг.\nБеспрестанно звучат крики: вчерашние одноклассники один за другим превращаются в чёрную слизь."
+AvgDialog_10139_Content_4,adpJ,avg序章_AvgDialog_C_M.csv,52,AvgDialog,Content,拉蒙娜战损版,我已经通过链接向你共享了银钥监测到的敌方<Yellow:意图>，小心，它要发动攻击了！,"Через связь я поделилась с тобой <Yellow:намерением> врага, которого обнаружил Серебряный Ключ. Осторожней, будет атаковать!"
+AvgDialog_10120_Content_1,adle,avg序章_AvgDialog_C_M.csv,53,AvgDialog,Content,拉蒙娜战损版,"保护好你手中的指令仪，小心融蚀污染。
+在接下来的战斗中，它不可或缺。","Защити командное устройство в своих руках, остерегайся загрязнения Растворением.\nВ предстоящем бою он незаменим."
+AvgDialog_10120_Content_2,adlf,avg序章_AvgDialog_C_M.csv,54,AvgDialog,Content,拉蒙娜战损版,按住<Yellow:指令卡>，拖动到<Yellow:中央指令区>，向我发出行动指令。,"Нажми и удерживай <Yellow:командную карту>, перетащи её в <Yellow:центр экрана>, чтобы отдать мне команду."
+AvgDialog_10138_Content_1,adpE,avg序章_AvgDialog_C_M.csv,55,AvgDialog,Content,拉蒙娜战损版,保持警惕，它要发动攻击了，这伤害对现在的我来说是致命的。,"Будь начеку, враг вот-вот нападёт. Слишком серьёзный урон, я так и погибнуть могу."
+AvgDialog_10138_Content_2,adpF,avg序章_AvgDialog_C_M.csv,56,AvgDialog,Content,拉蒙娜战损版,相信你会做出理智的选择。这回合的行动，就选择<Yellow:「防御」>吧。,"Я верю, что ты примешь разумное решение. А сейчас предлагаю предлагаю выбрать <Yellow:«Защиту»>."
+AvgDialog_10122_Content_1,adlj,avg序章_AvgDialog_C_M.csv,57,AvgDialog,Content,拉蒙娜战损版,拖延下去对我们不利，必须速战速决。,Промедление будет нам во вред; мы должны действовать быстро и решительно.
+AvgDialog_10122_Content_2,adlk,avg序章_AvgDialog_C_M.csv,58,AvgDialog,Content,拉蒙娜战损版,"这是我自幼修习的<Yellow:「女王之剑」>。
+就用这一击终结它吧！","Это <Yellow:«Меч Её Величества»>, который я оттачивала с детства.\nЗавершим бой одним ударом!"
+AvgDialog_10140_Content_1,adpK,avg序章_AvgDialog_C_M.csv,59,AvgDialog,Content,拉蒙娜战损版,"感觉到我身上流转的狂气了吗，守密人？
+多亏有你的精神力压制，否则它将会让我陷入和萝坦一样的疯狂。","Ты чувствуешь, как Алиемус разливается по моему телу, Хранитель?\nБлагодаря подавлению твоей ментальной энергией меня не постигнет то же безумие, что и Лотан."
+AvgDialog_10140_Content_2,adpL,avg序章_AvgDialog_C_M.csv,60,AvgDialog,Content,拉蒙娜战损版,不过现在，它能够为我们所用。,Однако сейчас мы можем воспользоваться им во благо.
+AvgDialog_10140_Content_3,adpM,avg序章_AvgDialog_C_M.csv,61,AvgDialog,Content,拉蒙娜战损版,看向狂气流转的方向……对，看向指令仪的<Blue:左上角>。,"Взгляни на вихрь Алиемуса... Да, он в <Blue:левом верхнем углу> от командного устройства."
+AvgDialog_10140_Content_4,adpN,avg序章_AvgDialog_C_M.csv,62,AvgDialog,Content,拉蒙娜战损版,"释放狂气爆发，贯彻我的<Yellow:「世界演绎法」>吧！
+在对抗融蚀的过程中，<Yellow:只有合理应对攻势，才能谋得最大的生机>。","Используй моё Вознесение и примени <Yellow:«Указ мироздания»>!\nВ борьбе с Растворением <Yellow:только должным образом отреагировав на действия врага, мы сможем обеспечить себе наибольшие шансы на выживание>."
+AvgDialog_10141_Content_1,adpO,avg序章_AvgDialog_C_M.csv,63,AvgDialog,Content,玩家,糟糕，萝坦将要释放<Yellow:狂气爆发>……只靠这些指令的话……,"Беда, Лотан сейчас использует своё <Yellow:Вознесение>... Если мы будем полагаться только на эти команды..."
+AvgDialog_10141_Content_2,adpP,avg序章_AvgDialog_C_M.csv,64,AvgDialog,Content,拉蒙娜战损版,银钥匙与你精神相连，你的强烈感悟，乃至回忆，都能让它震荡出别具一格的力量。,Серебряный ключ связан с твоим духом; твои сильные чувства и даже воспоминания могут наделить его уникальной силой.
+AvgDialog_10141_Content_3,adpQ,avg序章_AvgDialog_C_M.csv,65,AvgDialog,Content,拉蒙娜战损版,快看指令仪的<Blue:左下角>！银钥之能已经充盈，<Yellow:钥令>已经就绪。,"Посмотри в <Blue:нижний левый угол> командного устройства! Сила Серебряного ключа восполнена, <Yellow:Зов> готов."
+AvgDialog_10141_Content_4,adpR,avg序章_AvgDialog_C_M.csv,66,AvgDialog,Content,拉蒙娜战损版,握紧银钥匙，唱诵密文……释放<Yellow:钥令>，为我争取到更多的战术空间！,"Крепко сожми Серебряный ключ, воспой тайный текст... Используй <Yellow:Зов>, чтобы обеспечить мне больше пространства для манёвра!"
+AvgDialog_10136_Content_1,adpu,avg序章_AvgDialog_C_M.csv,67,AvgDialog,Content,拉蒙娜战损版,这是……萝坦引以为傲的的<Yellow:「桀骜之刃」>，会瞬间发起多段攻击！,"Это... Гордость Лотан, <Yellow:«Вольный клинок»>, который может мгновенно нанести несколько ударов!"
+AvgDialog_10136_Content_2,adpv,avg序章_AvgDialog_C_M.csv,68,AvgDialog,Content,拉蒙娜战损版,应对这一招……用<Yellow:「攻势推演」>避开关键弱点，这样更稳妥。,Чтобы справиться с этим приёмом...используй <Yellow:«Тезис наступления»> — так ты обойдёшь ключевые слабые места. Это будет надёжнее.
+AvgDialog_10124_Content_1,adme,avg序章_AvgDialog_C_M.csv,69,AvgDialog,Content,拉蒙娜战损版,看来你已经找到状态了。接下来指挥就交给你了，守密人！,"Похоже, ты {Male=нашёл,Female=нашла} свой ритм. Теперь командование на тебе, Хранитель!"
+AvgDialog_10134_Content_1,adpa,avg序章_AvgDialog_C_M.csv,70,AvgDialog,Content,萝坦,喂，你这家伙，快点，让我释放<Yellow:「桀骜之刃」>。,"Эй, человечишки, поторопитесь уже и дайте мне использовать <Yellow:«Вольный клинок»>."
+AvgDialog_10134_Content_2,adpb,avg序章_AvgDialog_C_M.csv,71,AvgDialog,Content,朵尔唤醒体,"慢着，守密人。
+先释放「打击」，激发萝坦的血性，能够降低<Yellow:「桀骜之刃」>的算力消耗。","Подожди, Хранитель.\nСначала используй «Удар», чтобы пробудить боевой дух Лотан, что снизит расход Арифметики для <Yellow:«Вольного клинка»>."
+AvgDialog_10134_Content_3,adpc,avg序章_AvgDialog_C_M.csv,72,AvgDialog,Content,朵尔唤醒体,"合适的指令组合能让我们的攻击事半功倍。
+战术就在指令中，守密人。好好想想。","Правильный порядок команд может значительно повысить эффективность наших атак.\nВ этом суть тактики, Хранитель. Хорошо подумай."
+AvgDialog_10128_Content_1,adno,avg序章_AvgDialog_C_M.csv,73,AvgDialog,Content,拉蒙娜战损版,小心，对方进入强攻态势了！,"Осторожно, противник перешёл в наступление!"
+AvgDialog_10128_Content_2,adnp,avg序章_AvgDialog_C_M.csv,74,AvgDialog,Content,朵尔唤醒体,"怕什么，我还在这里呢。
+守密人，让我执行<Yellow:「外域手术」>。","Не бойся, я всё ещё здесь.\nХранитель, позволь мне выполнить <Yellow:«Наружнюю хирургию»>."
+AvgDialog_10125_Content_1,admf,avg序章_AvgDialog_C_M.csv,75,AvgDialog,Content,拉蒙娜战损版,呼，抱歉，现在没时间等你适应了。,"Фух, извини, сейчас нет времени ждать, пока ты адаптируешься."
+AvgDialog_10125_Content_2,admq,avg序章_AvgDialog_C_M.csv,76,AvgDialog,Content,拉蒙娜战损版,异变体在警钟敲响之前抵达钥冢，弥萨格外围的<Blue:迷雾屏障>多半已经失效。,"Мутанты добрались до Кургана ключей прежде, чем прозвучал сигнал тревоги, а <Blue:туманный барьер> вокруг Мисага скорее всего больше не работает."
+AvgDialog_10125_Content_3,admB,avg序章_AvgDialog_C_M.csv,77,AvgDialog,Content,拉蒙娜战损版,"<Blue:威廉>学长知道今天钥冢有仪式，但援兵一直没来，加上钟声……
+我们必须想办法和他们会合，<Yellow:消灭异变的源头>。","Старший <Blue:Уильям> знает о сегодняшней церемонии в Кургане ключей, но подкрепление еще не прибыло, а колокола звонят...\nМы должны найти способ перегруппироваться и <Yellow:устранить источник аномалии>."
+AvgDialog_10125_Content_4,admM,avg序章_AvgDialog_C_M.csv,78,AvgDialog,Content,拉蒙娜战损版,那是？！,Что это?!
+AvgDialog_10125_Content_6,admY,avg序章_AvgDialog_C_M.csv,80,AvgDialog,Content,,视线尽头，金发少年抬着与身量不相称的黑色巨盾，正在抵抗身姿矫健的双剑战士的攻击。,"На периферии твоего зрения светловолосый мальчик с массивным чёрным щитом, непропорционально большим для его роста, отражает атаки ловкой воительницы с двумя мечами."
+AvgDialog_10125_Content_7,admZ,avg序章_AvgDialog_C_M.csv,81,AvgDialog,Content,,他用护盾牢牢挡住身后的粉色长发少女，被逼得节节后退。,"Он загораживает собой розововолосую девушку, но каждая атака вынуждает Ожье смещаться на шаг назад."
+AvgDialog_10125_Content_8,adna,avg序章_AvgDialog_C_M.csv,82,AvgDialog,Content,拉蒙娜战损版,等等……正在发动袭击的人……是<Yellow:唤醒体>萝坦？！,Минуточку... Его атакует... <Yellow:Пробуждённая> Лотан?!
+AvgDialog_10125_Content_9,adnb,avg序章_AvgDialog_C_M.csv,83,AvgDialog,Content,拉蒙娜战损版,朵尔？<Blue:钟楼>失控了？！,Долл? <Blue:Колокольня> больше неподконтрольна?!
+AvgDialog_10125_Content_10,admg,avg序章_AvgDialog_C_M.csv,84,AvgDialog,Content,,拉蒙娜大惊失色，在记忆中，你似乎从未见过她如此慌乱的模样。,"Рамона в ужасе; никогда прежде ты не {Male=видел,Female=видела} её такой взволнованной."
+AvgDialog_10125_Content_11,admh,avg序章_AvgDialog_C_M.csv,85,AvgDialog,Content,,被劈头盖脸砸了问题的少女声音颤抖，看上去有些疲惫。,"Девушка, заваленная вопросами, отвечает слегка дрожащим голосом и выглядит при этом очень уставшей."
+AvgDialog_10125_Content_12,admi,avg序章_AvgDialog_C_M.csv,86,AvgDialog,Content,,你认识她，她是以难交流著称的教授朵尔，隶属于<Blue:唤醒系科研所>。换句话说，是非战斗人员。,"Ты её знаешь: профессор Долл, известная своим трудным характером. Она из <Blue:Института исследований Пробуждения> Иными словами — не боец."
+AvgDialog_10125_Content_13,admj,avg序章_AvgDialog_C_M.csv,87,AvgDialog,Content,朵尔唤醒体,不然我、来这里度假吗？,"По-твоему, я здесь на отдыхе?"
+AvgDialog_10125_Content_14,admk,avg序章_AvgDialog_C_M.csv,88,AvgDialog,Content,,她闭了闭眼，振作起来。,"Она закрывает глаза, чтобы собраться с мыслями."
+AvgDialog_10125_Content_15,adml,avg序章_AvgDialog_C_M.csv,89,AvgDialog,Content,朵尔唤醒体,钥冢居然也受到了袭击？这里离后门近，你们抓紧时间离开。,Курган ключей тоже подвергся нападению? Здесь близко к чёрному ходу. Вам нужно срочно покинуть это место.
+AvgDialog_10125_Content_16,admm,avg序章_AvgDialog_C_M.csv,90,AvgDialog,Content,拉蒙娜战损版,我们能帮上忙！%player%可以链接我们所有人，然后指挥——,Мы поможем! %player% может создать связь с нами всеми и принять командование—
+AvgDialog_10125_Content_17,admn,avg序章_AvgDialog_C_M.csv,91,AvgDialog,Content,朵尔唤醒体,"拉蒙娜。
+那些是我们的义务，%player%只是个刚读完预科的新人。","Рамона.\nЭто наша обязанность, %player% совсем недавно {Male=завершил,Female=завершила} подготовительные курсы."
+AvgDialog_10125_Content_18,admo,avg序章_AvgDialog_C_M.csv,92,AvgDialog,Content,拉蒙娜战损版,但%player%已经和我链接了，我知道%heorshe%可以……我相信%heorshe%可以！,"Но %player% уже {Male=установил,Female=установила} связь со мной, и я знаю, что {Male=он,Female=она} может... Я верю, в {Male=него,Female=неё}!"
+AvgDialog_10125_Content_19,admp,avg序章_AvgDialog_C_M.csv,93,AvgDialog,Content,,朵尔上下打量你，板起脸朝向拉蒙娜。,"Долл оценивающе осмотривает тебя, а затем хмурится и поворачивается к Рамоне."
+AvgDialog_10125_Content_20,admr,avg序章_AvgDialog_C_M.csv,94,AvgDialog,Content,朵尔唤醒体,"如果我没猜错，宣誓仪式应该尚未完成。
+%heorshe%，还没有被授予银钥匙吧？","Если я не ошибаюсь, церемония присяги ещё не закончилась.\n{Male=Он,Female=Она} ведь ещё не {Male=удостоился,Female=удостоилась} Серебряного ключа?"
+AvgDialog_10125_Content_21,adms,avg序章_AvgDialog_C_M.csv,95,AvgDialog,Content,朵尔唤醒体,接下来我们会深入弥萨格禁区，未经授权者擅入禁区是什么级别的事故，我以为你自幼在此长大，心里是有数的。,"Мы углубляемся в закрытую зону Мисага. Полагаю, вы, выросшие здесь, понимаете, насколько серьёзными последствиями может обернуться несанкционированное проникновение сюда, учитывая уровень опасности."
+AvgDialog_10125_Content_22,admt,avg序章_AvgDialog_C_M.csv,96,AvgDialog,Content,拉蒙娜战损版,"情况紧急，我们别无选择，不是吗？
+而且，%player%不是普通的新生，%heorshe%是我们唯一的守密人。","Ситуация критическая. У нас нет другого выхода, верно?\nК тому же, %player% не {Male=обычный новичок,Female=обычная новенькая}, {Male=он,Female=она} — наш единственный Хранитель."
+AvgDialog_10125_Content_23,admu,avg序章_AvgDialog_C_M.csv,97,AvgDialog,Content,拉蒙娜战损版,你应该还记得吧，一年前的<Yellow:阿库特大爆炸>。 当时如果不是%heorshe%以一己之力链接所有唤醒体，我现在也不可能站在这里与你争论。,"Ты наверняка помнишь <Yellow:взрыв в Якутске>, произошедший год назад. Если бы {Male=он,Female=она} тогда в одиночку не {Male=связал,Female=связала} воедино всех Пробуждённых, я бы сейчас не спорила с тобой."
+AvgDialog_10125_Content_24,admv,avg序章_AvgDialog_C_M.csv,98,AvgDialog,Content,,粉色头发的少女没有回答，反而转向了你。,"Девушка с розовыми волосами не отвечает ей, и вместо этого поворачивается к тебе."
+AvgDialog_10125_Content_25,admw,avg序章_AvgDialog_C_M.csv,99,AvgDialog,Content,朵尔唤醒体,我知道你曾经窥见过<Yellow:「门」>内之物。但无论是世界的未来，还是弥萨格的内核，或许都比你想象得更为残酷。,"Я знаю, ты {Male=видел,Female=видела}, что находится за <Yellow:«Вратами»>. Но будущее мира и суть Мисага, возможно, гораздо более жестоки, чем ты можешь себе представить."
+AvgDialog_10125_Content_26,admx,avg序章_AvgDialog_C_M.csv,100,AvgDialog,Content,朵尔唤醒体,我们面对的是会毁灭物质存在本身的现象，一旦被<Yellow:融蚀>污染，你的一切都会烟消云散。,"Мы сражаемся с явлением, что изничтожает само существование. Как только ты подвергнешься <Yellow:Растворению>, все оставленные тобою в мире следы неизбежно исчезнут."
+AvgDialog_10125_Content_27,admy,avg序章_AvgDialog_C_M.csv,101,AvgDialog,Content,朵尔唤醒体,你在宣誓仪式中刻在墓碑上的名字，也会化作一滩黑泥，无人铭记。,Высеченное на надгробии во время церемонии имя превратится в чёрное нечто и будет забыто всеми.
+AvgDialog_10125_Content_28,admz,avg序章_AvgDialog_C_M.csv,102,AvgDialog,Content,朵尔唤醒体,回答我，你真的做好觉悟了吗？,"Так скажи мне. Ты действительно {Male=готов,Female=готова}?"
+AvgDialog_10125_Content_29,admA,avg序章_AvgDialog_C_M.csv,103,AvgDialog,Content,,朵尔冷冰冰地望着你，语调毫无起伏。,"Долл холодно смотрит на тебя, и тон её абсолютно лишён эмоций."
+AvgDialog_10125_Content_30,admC,avg序章_AvgDialog_C_M.csv,104,AvgDialog,Content,,她看上去没什么表情，但你从那冰霜般的瞳孔底部，窥见了熊熊燃烧的火焰。,"Она казажется невозмутимой, но в глубине её ледяных глаз бушует пламя."
+AvgDialog_10125_Content_31,admD,avg序章_AvgDialog_C_M.csv,105,AvgDialog,Content,,你的回答是——,Твой ответ—
+AvgDialog_10125_Content_32,admE,avg序章_AvgDialog_C_M.csv,106,AvgDialog,Content,,我的墓碑，现在正伫立于钥冢之中。,Теперь моё надгробие стоит на Кургане ключей.
+AvgDialog_10125_Content_33,admF,avg序章_AvgDialog_C_M.csv,107,AvgDialog,Content,,"你是弥萨格的一员。
+或许早在阿库特时，你就已经是了。","Ты член Мисага.\nВозможно, ты им {Male=был,Female=была} ещё со времён Якутска."
+AvgDialog_10125_Content_34,admG,avg序章_AvgDialog_C_M.csv,108,AvgDialog,Content,,这里有只有我能做到的事情。,Только я могу это сделать.
+AvgDialog_10125_Content_35,admH,avg序章_AvgDialog_C_M.csv,109,AvgDialog,Content,,这决定或许稍显仓促，但谁能保证人生的每个时刻都是准备万全的呢？,"Возможно, это решение немного поспешное, но кто может быть готов ко всему в жизни?"
+AvgDialog_10125_Content_36,admI,avg序章_AvgDialog_C_M.csv,110,AvgDialog,Content,朵尔唤醒体,好。,Хорошо.
+AvgDialog_10125_Content_37,admJ,avg序章_AvgDialog_C_M.csv,111,AvgDialog,Content,朵尔唤醒体,我代弥萨格第六任校长<Blue:奥利弗·艾尔西>授予你这枚银钥匙，编号K-0617。,"От имени <Blue:Оливера Элси>, шестого директора Мисага, я вручаю тебе этот Серебряный ключ под номером К-0617."
+AvgDialog_10125_Content_39,admL,avg序章_AvgDialog_C_M.csv,113,AvgDialog,Content,,"朵尔从精密的小盒中取出银钥匙，佩戴在你的胸口。
+银钥匙闪过荧光，熟悉的感觉充盈胸腔。","Долл достаёт Серебряный ключ из изящной шкатулки и вешает его на твою грудь.\nСеребряный ключ вспыхнул флуоресцентным свечением, и знакомое чувство наполняет твою грудь."
+AvgDialog_10125_Content_40,admN,avg序章_AvgDialog_C_M.csv,114,AvgDialog,Content,朵尔唤醒体,从今往后，你将以守密人的称号，与万万千千的弥萨格师生同在。,"С этого дня ты будешь {Male=известен,Female=известна} как Хранитель среди бесчисленного множества учителей и учеников Мисага."
+AvgDialog_10125_Content_41,admO,avg序章_AvgDialog_C_M.csv,115,AvgDialog,Content,朵尔唤醒体,……,...
+AvgDialog_10125_Content_42,admP,avg序章_AvgDialog_C_M.csv,116,AvgDialog,Content,朵尔唤醒体,现在，和我链接吧。,А теперь установи связь со мной.
+AvgDialog_10125_Content_43,admQ,avg序章_AvgDialog_C_M.csv,117,AvgDialog,Content,,"你依照训练谨慎地发动银钥匙。
+银辉闪烁，精神链接如千缕无形丝线将你和朵尔的感官联系起来。","Следуя выученным инструкциям, ты осторожно активируешь Серебряный ключ.\nМерцает серебристый свет, и духовная связь, словно тысяча невидимых нитей, соединяет твои чувства с чувствами Долл."
+AvgDialog_10125_Content_44,admR,avg序章_AvgDialog_C_M.csv,118,AvgDialog,Content,,"仿佛电流接通，“啪”地一声，无数光影讯息传入脑海。
+你被强烈的心悸震慑，几乎站立不稳。","Подобно электрическому току, в голове разом проносятся бесчисленные образы.\nТвоё сердце бешенно бьётся, и удержать равновесие оказывается непросто."
+AvgDialog_10125_Content_45,admS,avg序章_AvgDialog_C_M.csv,119,AvgDialog,Content,玩家,朵尔，你……,"Долл, ты..."
+AvgDialog_10125_Content_46,admT,avg序章_AvgDialog_C_M.csv,120,AvgDialog,Content,朵尔唤醒体,"你来得很及时，守密人。
+我和奥吉尔……都已经是强弩之末了。","Ты вовремя, Хранитель.\nЯ и Ожье... уже на пределе."
+AvgDialog_10125_Content_47,admU,avg序章_AvgDialog_C_M.csv,121,AvgDialog,Content,玩家,你留在原地休息，我和拉蒙娜参战支援奥吉尔。,"Оставайся здесь и отдыхай. Мы с Рамоной вступим в бой, чтобы помочь Ожье."
+AvgDialog_10125_Content_48,admV,avg序章_AvgDialog_C_M.csv,122,AvgDialog,Content,朵尔唤醒体,冷静。就算你的精神能够承受，拉蒙娜的伤势也不适合立即投入战斗。,"Успокойся. Даже если ты в состоянии справиться, раны Рамоны не позволят ей сражаться."
+AvgDialog_10125_Content_49,admW,avg序章_AvgDialog_C_M.csv,123,AvgDialog,Content,朵尔唤醒体,那孩子还能坚持一会儿，先跟我来。,"Этот мальчик, Ожье, может продержаться ещё немного. Следуй за мной."
+AvgDialog_10135_Content_1,adpd,avg序章_AvgDialog_C_M.csv,124,AvgDialog,Content,奥吉尔,小心，别靠近！我的盾要撑不住了！,"Осторожно, не подходите! Мой щит больше не выдержит!"
+AvgDialog_10135_Content_2,adpm,avg序章_AvgDialog_C_M.csv,125,AvgDialog,Content,,只听“咣”地一声，萝坦的双剑再次击碎了黑色粘液凝固成的巨盾。,"С громким «бум» парные мечи Лотан снова разбивают гигантский щит, созданный из затвердевшей чёрной слизи."
+AvgDialog_10135_Content_3,adpn,avg序章_AvgDialog_C_M.csv,126,AvgDialog,Content,萝坦,不够看不够看！掀起狂浪吧！给我一场酣畅淋漓的战斗吧！,Этого недостаточно! Дай волю ярости! Подари мне по-настоящему захватывающую битву!
+AvgDialog_10135_Content_4,adpo,avg序章_AvgDialog_C_M.csv,127,AvgDialog,Content,,名为萝坦的唤醒体挥舞着双刀，一次又一次地袭向奥吉尔，那威力昭示着无情的现实——她已经彻底失控了。,"Пробуждённая Лотан размахивает парными клинками, снова и снова атакуя Ожье. Сила её ударов обнажает безжалостную реальность: она полностью потеряла контроль."
+AvgDialog_10135_Content_5,adpp,avg序章_AvgDialog_C_M.csv,128,AvgDialog,Content,拉蒙娜战损版,看这情形，我们只能……,В сложившейся ситуации мы можем только...
+AvgDialog_10135_Content_6,adpq,avg序章_AvgDialog_C_M.csv,129,AvgDialog,Content,玩家,拉蒙娜，帮我压制萝坦！,"Рамона, помоги мне усмирить Лотан!"
+AvgDialog_10135_Content_7,adpr,avg序章_AvgDialog_C_M.csv,130,AvgDialog,Content,拉蒙娜战损版,你不会是要……,Ты же не собираешься...
+AvgDialog_10135_Content_8,adps,avg序章_AvgDialog_C_M.csv,131,AvgDialog,Content,玩家,我去链接她！,Я установлю связь с ней!
+AvgDialog_10135_Content_9,adpt,avg序章_AvgDialog_C_M.csv,132,AvgDialog,Content,拉蒙娜战损版,别开玩笑了，唤醒体的失控会通过链接与调查员高频共振，即使是你也——,"Не говори глупостей. Срыв Пробуждённого будет резонировать через связь, даже с тобой..."
+AvgDialog_10135_Content_10,adpe,avg序章_AvgDialog_C_M.csv,133,AvgDialog,Content,,除了我没人能做到这点，你知道的。,"Никто, кроме меня, не справится. Ты же знаешь."
+AvgDialog_10135_Content_11,adpf,avg序章_AvgDialog_C_M.csv,134,AvgDialog,Content,玩家,夸我的时候“百年一遇”，真面临危机了就把我当花瓶，这不太合适。,"Меня хвалят, как талант, который появляется раз в столетие, но с наступлением кризиса я вдруг {Male=стал,Female=стала} не более чем украшением? Так не пойдёт."
+AvgDialog_10135_Content_12,adpg,avg序章_AvgDialog_C_M.csv,135,AvgDialog,Content,,有些风险总得面对。,С некоторыми рисками приходится мириться.
+AvgDialog_10135_Content_13,adph,avg序章_AvgDialog_C_M.csv,136,AvgDialog,Content,玩家,我们别无他法。这里失控的人太多了，不反抗的话，只会被疯狂吞没。,"У нас нет другого выбора. Здесь слишком много сходящих с ума людей; если мы не будем сопротивляться, нас просто поглотит безумие."
+AvgDialog_10135_Content_14,adpi,avg序章_AvgDialog_C_M.csv,137,AvgDialog,Content,玩家,"况且，就凭你我二人，根本不可能突破钟楼那边的包围。
+我们需要帮助，需要支配唤醒体的力量。","Кроме того, у нас двоих нет шансов прорваться с другой стороны колокольни.\nНам нужна помощь; нам нужно использовать силу Пробуждённых."
+AvgDialog_10135_Content_15,adpj,avg序章_AvgDialog_C_M.csv,138,AvgDialog,Content,玩家,拉蒙娜，支援我。,"Рамона, мне нужна твоя помощь."
+AvgDialog_10135_Content_16,adpk,avg序章_AvgDialog_C_M.csv,139,AvgDialog,Content,拉蒙娜战损版,既然你执意如此……作为“搭档”，我也没有更多阻止你的理由。,"Раз уж ты настаиваешь... как твой напарник, не стану тебя останавливать."
+AvgDialog_10135_Content_17,adpl,avg序章_AvgDialog_C_M.csv,140,AvgDialog,Content,拉蒙娜战损版,拉蒙娜，随时应战！,"Рамона, готова к бою!"
+AvgDialog_10129_Content_1,adnq,avg序章_AvgDialog_C_M.csv,141,AvgDialog,Content,朵尔唤醒体,发动银钥匙，%player%。,"Активируй Серебряный ключ, %player%."
+AvgDialog_10129_Content_2,adnr,avg序章_AvgDialog_C_M.csv,142,AvgDialog,Content,,银钥匙闪烁，一阵虚幻的景象突然浮现，并渐渐和眼前的现实重合。,"Серебряный ключ сверкает. Внезапно возникает иллюзорное видение, которое постепенно накладывается на реальность перед глазами."
+AvgDialog_10129_Content_3,adns,avg序章_AvgDialog_C_M.csv,143,AvgDialog,Content,,眩晕感让思维变得生涩，脑内似有警笛尖鸣，朵尔的声音也开始变得渺远起来……,"Головокружение делает мысли тягучими, в голове словно воет сирена, а голос Долл начинает казаться далёким…"
+AvgDialog_10129_Content_4,adnt,avg序章_AvgDialog_C_M.csv,144,AvgDialog,Content,,你竭力镇定心神，从嘈杂琐碎的乱语中分辨朵尔提供的信息。,"Ты изо всех сил пытаешься успокоить разум и среди хаотичного, сбивчивого бормотания различить информацию от Долл."
+AvgDialog_10129_Content_5,adnu,avg序章_AvgDialog_C_M.csv,145,AvgDialog,Content,朵尔唤醒体,看见了吗？你眼前的就是密境——一个由<Yellow:幻梦维度>和<Yellow:现实维度>共同构成的特殊区域。,"Видишь? Перед тобой та самая особая Область, совместно образованная <Yellow:Измерением грёз> и <Yellow:Реальным измерением>."
+AvgDialog_10129_Content_6,adnv,avg序章_AvgDialog_C_M.csv,146,AvgDialog,Content,朵尔唤醒体,弥萨格在密境中投射了一部分<Blue:联络点>，以稳定调查员趋于疯狂的心智，为唤醒体弥合伤口。,"Мисаг проецирует в Область часть <Blue:пунктов связи>, чтобы стабилизировать сходящих с ума исследователей и залечивать раны пробуждённых."
+AvgDialog_10129_Content_7,adnw,avg序章_AvgDialog_C_M.csv,147,AvgDialog,Content,朵尔唤醒体,然而，人为干预在密境里效果有限，我们无法保证<Blue:联络点>出现的位置，一切还要依靠你的随机应变。,"Однако искусственное вмешательство в Область ограничено, мы не можем гарантировать, где именно появится <Blue:пункт связи>. Так что всё зависит от твоих способностей."
+AvgDialog_10129_Content_8,adnx,avg序章_AvgDialog_C_M.csv,148,AvgDialog,Content,朵尔唤醒体,现在，就去最近的<Blue:联络点>，帮拉蒙娜治愈伤口吧。,А теперь отправляйся к ближайшему <Blue:пункту связи> и помоги Рамоне залечить раны.
+AvgDialog_10121_Content_1,adlg,avg序章_AvgDialog_C_M.csv,149,AvgDialog,Content,拉蒙娜战损版,<Yellow:银芯>？没想到在这里……,"<Yellow:Серебро>? Не {Male=ожидал,Female=ожидала} наткнуться на него здесь..."
+AvgDialog_10121_Content_2,adlh,avg序章_AvgDialog_C_M.csv,150,AvgDialog,Content,拉蒙娜战损版,"制造银钥匙，链接唤醒体，提供精神能源……
+弥萨格的一切活动都与<Yellow:银芯>息息相关。","Создание Серебряных ключей, связь с Пробуждёнными, обеспечение духовной энергией... Вся деятельность Мисага неразрывно связана с <Yellow:серебром>."
+AvgDialog_10121_Content_3,adli,avg序章_AvgDialog_C_M.csv,151,AvgDialog,Content,拉蒙娜战损版,"哪怕是极微量的<Yellow:银芯>，对弥萨格的研究也有着超乎寻常的价值。
+尽量把它们都收集起来吧。",Даже ничтожно малое количество <Yellow:серебра> обладает для исследований Мисага необычайной ценностью. Постарайся собрать как можно больше.
+AvgDialog_10137_Content_1,adpw,avg序章_AvgDialog_C_M.csv,152,AvgDialog,Content,萝坦,你们阻拦不了我！……无耻的人类……,Вам не остановить меня!.. Бессовестные людишки...
+AvgDialog_10137_Content_2,adpx,avg序章_AvgDialog_C_M.csv,153,AvgDialog,Content,,你触摸着刚刚获得的银钥匙，微弱的震动传来，催促你完成与萝坦的共鸣。,"Ты прикасаешься к только что обретённому Серебряному ключу. Слабая вибрация возвещает, что пора резонировать с Лотан."
+AvgDialog_10137_Content_4,adpz,avg序章_AvgDialog_C_M.csv,155,AvgDialog,Content,萝坦,<Shake:早知如此……绝不与你们定下约定……>,<Shake:Знала бы заранее… ни за что бы не заключила с вами договор…>
+AvgDialog_10137_Content_5,adpA,avg序章_AvgDialog_C_M.csv,156,AvgDialog,Content,,拉蒙娜走近萝坦，向她伸出手。,Рамона приближается к Лотан и протягивает ей руку.
+AvgDialog_10137_Content_6,adpB,avg序章_AvgDialog_C_M.csv,157,AvgDialog,Content,拉蒙娜战损版,我知道，当年你被唤醒时，弥萨格曾许诺你，会与你一起战斗……战斗至这个星球的末日。,"Я знаю, когда тебя пробудили, Мисаг обещал, что будет сражаться с тобой плечом к плечу… бороться до последнего дня этой планеты."
+AvgDialog_10137_Content_7,adpC,avg序章_AvgDialog_C_M.csv,158,AvgDialog,Content,拉蒙娜战损版,我们从未打算过违背约定，这个三百年，下一个三百年，我们都将为此负重前行。,"Мы никогда не намеревались нарушать договорённость. Мы несли это бремя триста лет, и будем делать это и следующие три сотни, двигаясь вперёд."
+AvgDialog_10137_Content_8,adpD,avg序章_AvgDialog_C_M.csv,159,AvgDialog,Content,拉蒙娜战损版,萝坦，你期待的酣畅淋漓的战斗，近在眼前。,"Лотан, долгожданная тобой полная напряжения битва совсем рядом."
+AvgDialog_10132_Content_1,adoc,avg序章_AvgDialog_C_M.csv,160,AvgDialog,Content,萝坦,呵，就凭你们，也想毁灭这颗星球？,"Ха, и вы, ничтожные, хотите уничтожить эту планету?"
+AvgDialog_10132_Content_2,adod,avg序章_AvgDialog_C_M.csv,161,AvgDialog,Content,萝坦,还远远不够！无论还有多少，统统放马过来吧！,"Этого совсем не достаточно! Приводите всех остальных, сколько бы их ни было!"
+AvgDialog_10131_Content_1,adnV,avg序章_AvgDialog_C_M.csv,162,AvgDialog,Content,朵尔唤醒体,现在，我和奥吉尔也出战。,Теперь я и Ожье тоже вступаем в бой.
+AvgDialog_10131_Content_2,adnW,avg序章_AvgDialog_C_M.csv,163,AvgDialog,Content,玩家,我能通过链接感受到，你和奥吉尔的状况还不足以……,"Я чувствую через связь, что ваше с Ожье состояние ещё не позволяет…"
+AvgDialog_10131_Content_3,adnX,avg序章_AvgDialog_C_M.csv,164,AvgDialog,Content,奥吉尔,"没关系的，守密人。
+骑士就是为了守护大家而存在的，奥吉尔可以撑住！","Ничего страшного, Хранитель. Рыцарь существует, чтобы защищать, я выдержу!"
+AvgDialog_10131_Content_4,adnY,avg序章_AvgDialog_C_M.csv,165,AvgDialog,Content,朵尔唤醒体,不必担心，现在有你来稳定心神，我们不会失控，可以最大限度地利用狂气。,"Не беспокойся, теперь, когда ты стабилизируешь наше сознание, мы не выйдем из-под контроля и сможем максимально использовать Алиемус."
+AvgDialog_10131_Content_5,adnZ,avg序章_AvgDialog_C_M.csv,166,AvgDialog,Content,朵尔唤醒体,只要积攒足够的狂气，我就能恢复状态。,"Как только его накопится достаточно, и я восстановлю силы."
+AvgDialog_10131_Content_6,adoa,avg序章_AvgDialog_C_M.csv,167,AvgDialog,Content,朵尔唤醒体,"别再犹豫了，守密人。
+接下来能否突破围堵，就看你的指挥了。","Хватит колебаться, Хранитель. Удастся ли прорвать окружение дальше — зависит только от твоего командования."
+AvgDialog_10131_Content_7,adob,avg序章_AvgDialog_C_M.csv,168,AvgDialog,Content,萝坦,就让我来见证一下吧——弥萨格的未来，究竟寄托在了怎样的指挥上。,"Позволь же мне узреть, на какой талант возложено будущее Мисага."
+AvgDialog_10123_Content_1,adll,avg序章_AvgDialog_C_M.csv,169,AvgDialog,Content,,你们穿过钟楼下的小门，进入一处隐蔽的封闭通道。,Вы проходите через маленькую дверь под колокольней и попадаете в скрытый коридор.
+AvgDialog_10123_Content_2,adlw,avg序章_AvgDialog_C_M.csv,170,AvgDialog,Content,,朵尔在前方引路，脚步敲击在金属路面，发出空洞的回响。,"Долл идёт впереди, и звук её шагов по металлическому полу эхом разносится в пространстве."
+AvgDialog_10123_Content_3,adlH,avg序章_AvgDialog_C_M.csv,171,AvgDialog,Content,奥吉尔,我还是第一次知道，钟楼下还有这样的密道……,"Я впервые узнаю, что под колокольней есть тайный ход…"
+AvgDialog_10123_Content_4,adlS,avg序章_AvgDialog_C_M.csv,172,AvgDialog,Content,朵尔唤醒体,"尽人皆知的，我猜就不叫密道了。
+通道连接的是<Yellow:黑池>，那是弥萨格的立身之本。","Знай о нём все, он бы перестал быть тайным. Этот коридор ведёт к <Yellow:Чёрному пруду> — основе существования Мисага."
+AvgDialog_10123_Content_5,adlZ,avg序章_AvgDialog_C_M.csv,173,AvgDialog,Content,朵尔唤醒体,如果没有黑池底的被称为<Yellow:核>的<Yellow:巨型银芯>，仅靠孱弱的人类精神来维持唤醒体现世，弥萨格的唤醒体技术不知道要比现在落后几十年。,"Если бы не покоящееся на дне Чёрного пруда <Yellow:гигантское серебряное ядро>, называемое <Yellow:Сердцевиной>, технология Пробуждённых Мисага отставала бы от нынешней на десятки лет. Слабого человеческого духа для этого недостаточно."
+AvgDialog_10123_Content_6,adma,avg序章_AvgDialog_C_M.csv,174,AvgDialog,Content,奥吉尔,所以不允许未链接唤醒体离开弥萨格，也是担心我们会陷入疯狂吗？,"Получается, что запрет на выход из Мисага для Пробуждённых, не имеющих связи, тоже связан с риском потери рассудка?"
+AvgDialog_10123_Content_7,admb,avg序章_AvgDialog_C_M.csv,175,AvgDialog,Content,朵尔唤醒体,"那倒不完全是。
+如果每个唤醒体都像你一样省心就好了，奥吉尔。","Не совсем. Были бы все Пробуждённые такими же беспроблемными как ты, Ожье."
+AvgDialog_10123_Content_8,admc,avg序章_AvgDialog_C_M.csv,176,AvgDialog,Content,朵尔唤醒体,好了，我们到了。,"Ну вот, мы пришли."
+AvgDialog_10123_Content_9,admd,avg序章_AvgDialog_C_M.csv,177,AvgDialog,Content,,"说着，朵尔按下了通道侧面一个不显眼的按钮。
+叮的一声，门洞敞开，你们迈入光线幽暗的狭小空间。","С этими словами Долл нажимает неприметную кнопку на стене. Раздаётся звон, распахивается дверь, и вы ступаете в тесное, залитое тусклым светом помещение."
+AvgDialog_10123_Content_10,adlm,avg序章_AvgDialog_C_M.csv,178,AvgDialog,Content,,……,...
+AvgDialog_10123_Content_11,adln,avg序章_AvgDialog_C_M.csv,179,AvgDialog,Content,,大门缓缓开启，禁忌之所的景象初次展现在你们眼前。,"Врата медленно открываются, и перед вашими глазами впервые предстаёт вид Области."
+AvgDialog_10123_Content_13,adlp,avg序章_AvgDialog_C_M.csv,181,AvgDialog,Content,,祂的下身浸于黑色的泥沼中，那吞噬一切的黑暗衬得祂更加光耀夺目，洁白无瑕。,"Нижняя часть Её тела погружена в чёрное болото, и эта тьма, пожирающая всё вокруг, делает Её ещё более ослепительно лучезарной, безупречно чистой"
+AvgDialog_10123_Content_14,adlq,avg序章_AvgDialog_C_M.csv,182,AvgDialog,Content,,恍惚间，你眼前非人的身影，与你在钥冢中出神时看到的年轻女性的轮廓悄然重合。,"В минутном забытьи нечеловеческий силуэт перед тобой таинственно совпадает с очертаниями молодой женщины, которые ты {Male=видел,Female=видела} в оцепенении на Кургане ключей."
+AvgDialog_10123_Content_15,adlr,avg序章_AvgDialog_C_M.csv,183,AvgDialog,Content,,祂没有面孔，你却从祂伫立的身姿中读出了某种悲悯。,"У Неё нет лица, но в Её неподвижной позе тебе видится сострадание."
+AvgDialog_10123_Content_16,adls,avg序章_AvgDialog_C_M.csv,184,AvgDialog,Content,,至高、至洁、至善、至美。,"Всевышний, чистейший, всеблагой, совершеннейший."
+AvgDialog_10123_Content_17,adlt,avg序章_AvgDialog_C_M.csv,185,AvgDialog,Content,塔薇,<Shake:你……来了……>,"<Shake:Ты... {Male=пришёл,Female=пришла}...>"
+AvgDialog_10123_Content_18,adlu,avg序章_AvgDialog_C_M.csv,186,AvgDialog,Content,,白色的怪物发出喑哑的声音，似是嘶吼，又似是悲鸣。,"Белое чудовище издаёт хриплый звук, похожий то ли на рык, то ли на стон."
+AvgDialog_10123_Content_19,adlv,avg序章_AvgDialog_C_M.csv,187,AvgDialog,Content,,那绝非人类的语言，你却理解了祂话语中的含义。,"Это определённо не человеческий язык, но ты понимаешь смысл Её слов."
+AvgDialog_10123_Content_20,adlx,avg序章_AvgDialog_C_M.csv,188,AvgDialog,Content,,眼前的一切突然变得模糊，你眨了眨眼睛，温热的液体从你脸颊滑过。,"Всё перед глазами внезапно становится расплывчатым, ты моргаешь, и по твоим щекам скользит тёплая влага."
+AvgDialog_10123_Content_21,adly,avg序章_AvgDialog_C_M.csv,189,AvgDialog,Content,,那是泪水吗？可是为什么？是什么让你感到胸口发紧，眼眶酸涩？,Это слёзы? Но почему? Отчего у тебя сжимается грудь и щиплет глаза?
+AvgDialog_10123_Content_22,adlz,avg序章_AvgDialog_C_M.csv,190,AvgDialog,Content,朵尔唤醒体,……<Yellow:塔薇>？,...<Yellow:Тавиль>?
+AvgDialog_10123_Content_23,adlA,avg序章_AvgDialog_C_M.csv,191,AvgDialog,Content,,朵尔口中喃喃出的字句让拉蒙娜神色一变。,"Имя, прошёптанное Долл, заставляет Рамону перемениться в лице."
+AvgDialog_10123_Content_24,adlB,avg序章_AvgDialog_C_M.csv,192,AvgDialog,Content,拉蒙娜战损版,塔薇？是创始人之一的那个，唤醒体塔薇吗？,"Тавиль? Одна из основателей, та самая Пробуждённая Тавиль?"
+AvgDialog_10123_Content_25,adlC,avg序章_AvgDialog_C_M.csv,193,AvgDialog,Content,,"你也记得。
+在<Blue:《弥萨格校史》>中，这个名字和另外两个名字是一同出现的。",Ты тоже помнишь. В <Blue:«истории университета Мисаг»> это имя появляется вместе с двумя другими.
+AvgDialog_10123_Content_26,adlD,avg序章_AvgDialog_C_M.csv,194,AvgDialog,Content,,洪积90年，<Blue:华德·菲利普斯>，<Blue:刻拉尔克什>和<Blue:塔薇>成立了<Blue:弥萨格学院（Mythag College）>。,"В 90 год Дилювия <Blue:Говард Филлипс>, <Blue:Кларкаш> и <Blue:Тавиль> основали <Blue:колледж Мисаг>."
+AvgDialog_10123_Content_27,adlE,avg序章_AvgDialog_C_M.csv,195,AvgDialog,Content,,那正是你现在所在的，<Blue:弥萨格大学（Mythag University）>的前身。,"Это и есть предшественник <Blue:университета Мисаг>, где ты сейчас находишься."
+AvgDialog_10123_Content_28,adlF,avg序章_AvgDialog_C_M.csv,196,AvgDialog,Content,朵尔唤醒体,守密人。,Хранитель.
+AvgDialog_10123_Content_29,adlG,avg序章_AvgDialog_C_M.csv,197,AvgDialog,Content,玩家,我在。,Я здесь.
+AvgDialog_10123_Content_30,adlI,avg序章_AvgDialog_C_M.csv,198,AvgDialog,Content,朵尔唤醒体,你现在能站在这里，而不是被塔薇驱逐出去，就说明你的命运已经与弥萨格的未来紧紧相连了。,"То, что ты сейчас стоишь здесь, а не {Male=был изгнан,Female=была изгнана} Тавиль, означает, что твоя судьба накрепко связана с будущим Мисага."
+AvgDialog_10123_Content_31,adlJ,avg序章_AvgDialog_C_M.csv,199,AvgDialog,Content,朵尔唤醒体,所以，你有资格听我接下来说的信息。,Поэтому ты имеешь право услышать следующую информацию.
+AvgDialog_10123_Content_32,adlK,avg序章_AvgDialog_C_M.csv,200,AvgDialog,Content,朵尔唤醒体,"这是弥萨格大学隐藏最深的秘密。
+塔薇——这位弥萨格大学创始人——既非人类，也不是唤醒体。","Это — глубочайшая тайна университета. Тавиль, одна из трёх основателей, не является ни человеком, ни Пробуждённой."
+AvgDialog_10123_Content_33,adlL,avg序章_AvgDialog_C_M.csv,201,AvgDialog,Content,朵尔唤醒体,祂是来自其他维度的生物，最初出现时，只是初代校长菲利普斯聆听到的一缕絮语。,"Она — существо из иного измерения. Когда она впервые появилась, это был лишь шёпот, который услышал первый директор Филлипс."
+AvgDialog_10123_Content_34,adlM,avg序章_AvgDialog_C_M.csv,202,AvgDialog,Content,朵尔唤醒体,与“塔薇是唤醒体”这个认知恰好相反，提炼银芯、<Yellow:唤醒与上位意志共鸣的亡者>的唤醒体技术，是在塔薇的引导下诞生的。,"Вопреки представлению о том, что «Тавиль — Пробуждённая», технология, заключающаяся в <Yellow:очищении серебряного ядра и пробуждении умерших, резонирующих с высшей волей>, родилась именно под её руководством."
+AvgDialog_10123_Content_35,adlN,avg序章_AvgDialog_C_M.csv,203,AvgDialog,Content,朵尔唤醒体,塔薇预言了融蚀的降临和世界毁灭的未来，传递了最初的「真理」，并在弥萨格学院建立后陷入沉睡。,"Тавиль предсказала пришествие Растворения и гибель мира в будущем, передала самую первую «истину», а после основания колледжа Мисаг погрузилась в сон."
+AvgDialog_10123_Content_36,adlO,avg序章_AvgDialog_C_M.csv,204,AvgDialog,Content,朵尔唤醒体,根据菲利普斯先生的记载，这是塔薇为了避免「受到注视」，而选择的一种「非存在的」存在方式。,"Согласно записям господина Филлипса, она избрала такое состояние несуществования, чтобы избежать взора."
+AvgDialog_10123_Content_37,adlP,avg序章_AvgDialog_C_M.csv,205,AvgDialog,Content,朵尔唤醒体,只有当「变数」出现，祂才会以「苏醒」的方式「重生」——,"И только когда появится «переменная», она «возродится» путём «Пробуждения»—"
+AvgDialog_10123_Content_38,adlQ,avg序章_AvgDialog_C_M.csv,206,AvgDialog,Content,拉蒙娜战损版,快看！,Смотри!
+AvgDialog_10123_Content_39,adlR,avg序章_AvgDialog_C_M.csv,207,AvgDialog,Content,,仿佛预兆着某种禁忌与灾厄的降临，「塔薇」发出一声刺破耳膜的尖啸。,"Словно предвещая пришествие чего-то запретного и гибельного, Тавиль издаёт пронзительный, раздирающий барабанные перепонки крик."
+AvgDialog_10123_Content_40,adlT,avg序章_AvgDialog_C_M.csv,208,AvgDialog,Content,,伴随雏鸟破壳般的颤抖，六扇银色巨型羽翼自祂的身躯向两侧伸展开来。,"С трепетом, похожим на то, как птенец разбивает скорлупу, шесть серебряных гигантских крыльев расправляются по бокам Её тела."
+AvgDialog_10123_Content_41,adlU,avg序章_AvgDialog_C_M.csv,209,AvgDialog,Content,,羽翼的末梢不断滴落银色的液滴，淅淅沥沥地落入黑色的池水。,"Серебряные капли непрерывно сбегают по кончикам её перьев, с шорохом падая в непроглядную воду."
+AvgDialog_10123_Content_42,adlV,avg序章_AvgDialog_C_M.csv,210,AvgDialog,Content,,银色液体融入黑池的瞬间，池中波纹激荡，漆黑扭曲的融蚀体纷纷涌出。,"В тот миг, когда капающая с крыльев жидкость касается Чёрного пруда, по его воде пробегает рябь, и из глубин чёрного омута вздымаются существа Растворения."
+AvgDialog_10123_Content_43,adlW,avg序章_AvgDialog_C_M.csv,211,AvgDialog,Content,,畸形的怪物无视物理规律冲出黑池，有些向你们扑来，有些向钟楼外的广场而去。,"Уродливые монстры, игнорируя законы физики, вырываются из Чёрного пруда: некоторые бросаются на вас, некоторые — на площадь за пределами колокольни."
+AvgDialog_10123_Content_44,adlX,avg序章_AvgDialog_C_M.csv,212,AvgDialog,Content,塔薇,<Shake:终于……找到……你……了……>,<Shake:Наконец... нашла... тебя...>
+AvgDialog_10123_Content_45,adlY,avg序章_AvgDialog_C_M.csv,213,AvgDialog,Content,朵尔唤醒体,阻止祂！只有让祂停下，才能切断怪物的源头！,"Остановите Её! Только заставив Её замереть, можно остановить появление новых чудищ!"
+AvgDialog_10133_Content_1,adoe,avg序章_AvgDialog_C_M.csv,214,AvgDialog,Content,拉蒙娜战损版,结束……了……吗……？,Всё... кончено?..
+AvgDialog_10133_Content_2,adop,avg序章_AvgDialog_C_M.csv,215,AvgDialog,Content,,「塔薇」仍静立原地，只是姿态已不似之前从容。,"«Тавиль» по-прежнему неподвижно стоит на месте, но её поза уже не столь безмятежна, как прежде."
+AvgDialog_10133_Content_3,adoA,avg序章_AvgDialog_C_M.csv,216,AvgDialog,Content,,在其他所有人反应过来之前，祂猛然张开银色的羽翼，向拉蒙娜扑去。,"Не успевают остальные опомниться, как Она внезапно распахивает крылья и бросается на Рамону."
+AvgDialog_10133_Content_4,adoL,avg序章_AvgDialog_C_M.csv,217,AvgDialog,Content,,时间像是凝固了,Время словно застывает.
+AvgDialog_10133_Content_5,adoV,avg序章_AvgDialog_C_M.csv,218,AvgDialog,Content,,你爆发出能够达到的最快速度，勉强挡在了拉蒙娜的面前。,"Ты, развив максимально возможную скорость, едва успеваешь встать перед Рамоной."
+AvgDialog_10133_Content_6,adoW,avg序章_AvgDialog_C_M.csv,219,AvgDialog,Content,,白色的怪物直视着你。,Белое чудище всматривается в тебя.
+AvgDialog_10133_Content_7,adoX,avg序章_AvgDialog_C_M.csv,220,AvgDialog,Content,,用它那没有面孔的苍白身躯，静静地凝视着你。,"Бледное, безликое тело взирает в молчании."
+AvgDialog_10133_Content_9,adoZ,avg序章_AvgDialog_C_M.csv,222,AvgDialog,Content,,在你面前出现的，是神情淡漠的女性面庞。,"В поле зрения вдруг возникает женское лицо, лишённое всякого выражения."
+AvgDialog_10133_Content_10,adof,avg序章_AvgDialog_C_M.csv,223,AvgDialog,Content,,她伸出手来，轻轻点了点你胸口的银钥匙。,Она протягивает руку и легонько касается Серебряного ключа у тебя на груди.
+AvgDialog_10133_Content_11,adog,avg序章_AvgDialog_C_M.csv,224,AvgDialog,Content,,银钥匙闪过回应的微光。,Ключ слабо мерцает в ответ.
+AvgDialog_10133_Content_12,adoh,avg序章_AvgDialog_C_M.csv,225,AvgDialog,Content,“塔薇”,你就是变数，是原初也是终末的答案。,"Ты — и есть переменная, ответ, который является одновременно и началом, и концом."
+AvgDialog_10133_Content_13,adoi,avg序章_AvgDialog_C_M.csv,226,AvgDialog,Content,“塔薇”,但愿你，是一切的转机……,"Надеюсь, что ты станешь переломным моментом..."
+AvgDialog_10133_Content_15,adok,avg序章_AvgDialog_C_M.csv,228,AvgDialog,Content,,洁白的六翼怪物，神情淡漠的女性，四散奔袭的淤泥魔物，扭曲啸叫的唤醒体黑影……,"Белое шестикрылое чудовище, женщина с безучастным лицом, разбегающиеся во все стороны грязевые монстры, искажённые силуэты Пробуждённых, заходящиеся в пронзительном крике…"
+AvgDialog_10133_Content_16,adol,avg序章_AvgDialog_C_M.csv,229,AvgDialog,Content,,全都化成了一滩黑水，随后消失不见。,Один за другим они обращаются обратно чёрной жидкостью и исчезают в водах Пруда.
+AvgDialog_10133_Content_17,adom,avg序章_AvgDialog_C_M.csv,230,AvgDialog,Content,,不顾拉蒙娜和朵尔的呼喊，你握着银钥匙眺望高处，眺望向「塔薇」退回的「门」之内。,"Не обращая внимания на крики Рамоны и Долл, ты, сжимая Серебряный ключ, смотришь ввысь. Туда, внутрь «врат», за которые отступила Тавиль."
+AvgDialog_10133_Content_18,adon,avg序章_AvgDialog_C_M.csv,231,AvgDialog,Content,,"你清晰地记得刚才看到的面容。
+无论是淡漠的神色，眉眼的轮廓，还是嘴唇的弧度，都与拉蒙娜——","Ты отчётливо помнишь только что увиденное лицо. И равнодушное выражение, и очертания бровей и глаз, и изгиб губ — всё как у..."
+AvgDialog_10133_Content_19,adoo,avg序章_AvgDialog_C_M.csv,232,AvgDialog,Content,,——一模一样。,...Рамоны.
+AvgDialog_10133_Content_20,adoq,avg序章_AvgDialog_C_M.csv,233,AvgDialog,Content,,"两天后
+
+钥冢",Два дня спустя\n\nКурган ключей
+AvgDialog_10133_Content_21,ador,avg序章_AvgDialog_C_M.csv,234,AvgDialog,Content,诃勒特,……弥萨格大学是对抗融蚀的先行者，是守望人类未来的重要防线。,"…университет Мисаг — это первопроходец в борьбе с Растворением, важный рубеж, охраняющий будущее человечества."
+AvgDialog_10133_Content_22,ados,avg序章_AvgDialog_C_M.csv,235,AvgDialog,Content,诃勒特,三百年来，弥萨格大学为解决融蚀，在暗中守护人类的平静生活，付出了沉重的代价。,"За триста лет мы, чтобы искоренить Растворение и тайно оберегать спокойную жизнь человечества, заплатили тяжёлую цену."
+AvgDialog_10133_Content_23,adot,avg序章_AvgDialog_C_M.csv,236,AvgDialog,Content,诃勒特,这片墓园，是我们提前准备的归宿，也是弥萨格师生为人类存续献出生命的觉悟。,"Этот курган — загодя уготованное нам последнее пристанище, а также подтверждение готовности преподавателей и студентов Мисага отдать свои жизни ради спасения человечества."
+AvgDialog_10133_Content_24,adou,avg序章_AvgDialog_C_M.csv,237,AvgDialog,Content,,演说还在继续，诃勒特合眼，叹了口气，呵出的白色水雾消散在雨丝中。,Речь ещё не окончена. Чорт закрывает глаза и вздыхает; её дыхание белым паром тает в дожде.
+AvgDialog_10133_Content_25,adov,avg序章_AvgDialog_C_M.csv,238,AvgDialog,Content,诃勒特,……我想，在众多届新生中，没有谁比你们更能体会这段话的沉重。,"...я полагаю, что среди множества поколений студентов никто не сможет прочувствовать тяжесть этих слов глубже, чем вы."
+AvgDialog_10133_Content_26,adow,avg序章_AvgDialog_C_M.csv,239,AvgDialog,Content,诃勒特,这三百年间，黑池中曾经几度浮起过银芯、融蚀异变体等异常存在，但这种级别的异变，还是第一次发生。,"За эти триста лет на дне Чёрного пруда несколько раз всплывали аномальные сущности — серебряные ядра, мутанты Растворения, — но инцидент такого порядка происходит впервые."
+AvgDialog_10133_Content_27,adox,avg序章_AvgDialog_C_M.csv,240,AvgDialog,Content,诃勒特,有很多人再也没能回来。,Многие так и не вернулись.
+AvgDialog_10133_Content_28,adoy,avg序章_AvgDialog_C_M.csv,241,AvgDialog,Content,,说话的人是弥萨格生命科学院代理院长诃勒特，传说中她能够看见异种生物，是前任院长最钟爱的学生。,"Говорящая — исполняющая обязанности декана факультета наук о жизни, Чорт. Легенда гласит, что она способна видеть чужеродных существ. И что была самой любимой ученицей предыдущего декана."
+AvgDialog_10133_Content_29,adoz,avg序章_AvgDialog_C_M.csv,242,AvgDialog,Content,诃勒特,与融蚀相关的事件总是伴随着意外、疯狂和死亡，这就是我们这条道路上必然的经历。,"События, связанные с Растворением, всегда сопровождаются случайностями, безумием и смертью — такова неизбежная часть нашего пути."
+AvgDialog_10133_Content_30,adoB,avg序章_AvgDialog_C_M.csv,243,AvgDialog,Content,,"你理解诃勒特话语中的含义。
+你前方的墓碑下空无一人。","Ты понимаешь смысл, прячущийся за словами Чорт; могила перед тобой — пуста."
+AvgDialog_10133_Content_31,adoC,avg序章_AvgDialog_C_M.csv,244,AvgDialog,Content,,墓碑之上，黑色的黏液缓缓流淌。,По надгробному камню медленно течёт чёрная слизь.
+AvgDialog_10133_Content_32,adoD,avg序章_AvgDialog_C_M.csv,245,AvgDialog,Content,,……,...
+AvgDialog_10133_Content_33,adoE,avg序章_AvgDialog_C_M.csv,246,AvgDialog,Content,,仪式结束后，德克斯特勋爵将你邀请到了他的办公室。,После церемонии лорд Декстер приглашает тебя к себе в кабинет.
+AvgDialog_10133_Content_34,adoF,avg序章_AvgDialog_C_M.csv,247,AvgDialog,Content,,"“德克斯特”这个名字你很熟悉，这是拉蒙娜的姓氏。
+这位“德克斯特勋爵”是你的教授，也是拉蒙娜的养父。","Фамилия «Декстер» тебе хорошо знакома, ведь она принадлежит Рамоне. А лорд Декстер — твой профессор, а также приёмный отец девушки."
+AvgDialog_10133_Content_35,adoG,avg序章_AvgDialog_C_M.csv,248,AvgDialog,Content,德克斯特,我在报告中看到了这部分内容，有件事需要拜托你。,По поводу части твоего доклада… Я должен попросить тебя кое о чём.
+AvgDialog_10133_Content_36,adoH,avg序章_AvgDialog_C_M.csv,249,AvgDialog,Content,德克斯特,关于“塔薇”的容貌……能否请你对拉蒙娜保密？,"Не {Male=мог,Female=могла} бы ты… сохранить в тайне от Рамоны всё, что касается внешности «Тавиль»?"
+AvgDialog_10133_Content_37,adoI,avg序章_AvgDialog_C_M.csv,250,AvgDialog,Content,玩家,为什么？,Почему?
+AvgDialog_10133_Content_38,adoJ,avg序章_AvgDialog_C_M.csv,251,AvgDialog,Content,德克斯特,怎么说呢……背后的因果相当复杂，一时半刻有点难以表述。,"Как бы сказать… причинно-следственные связи здесь довольно сложные, и непросто будет объяснить всё в двух словах."
+AvgDialog_10133_Content_39,adoK,avg序章_AvgDialog_C_M.csv,252,AvgDialog,Content,德克斯特,不过，我迟早会让她知道的，只是不是现在。,"Однажды я ей об этом расскажу, но не сейчас."
+AvgDialog_10133_Content_40,adoM,avg序章_AvgDialog_C_M.csv,253,AvgDialog,Content,德克斯特,这并非弥萨格保密需求考虑，而是一位希望保护女儿的父亲的请求。,"Это не из-за требований секретности Мисага, просто просьба отца, желающего защитить свою дочь."
+AvgDialog_10133_Content_41,adoN,avg序章_AvgDialog_C_M.csv,254,AvgDialog,Content,德克斯特,拜托，给我们一点时间，可以吗？,"Пожалуйста, дай нам немного времени, хорошо?"
+AvgDialog_10133_Content_42,adoO,avg序章_AvgDialog_C_M.csv,255,AvgDialog,Content,,虽然你希望知道真相，但还是点头答应。,"Хотя тебе хочется узнать правду, ты всё же киваешь в знак согласия."
+AvgDialog_10133_Content_43,adoP,avg序章_AvgDialog_C_M.csv,256,AvgDialog,Content,德克斯特,"感谢你的理解。
+说起来，最近正好有一批御用调和威士忌送到，我央人偷偷留了两瓶。","Благодарю за понимание. К слову, недавно как раз завезли партию казённого купажированного виски, и мне удалось умыкнуть пару бутылок."
+AvgDialog_10133_Content_44,adoQ,avg序章_AvgDialog_C_M.csv,257,AvgDialog,Content,德克斯特,拿去吧，叫上拉蒙娜一起，品尝一下大人的味道——就当是你的专属迎新仪式，怎么样？,"Возьми одну. Пригласи Рамону выпить, попробуете вкус взрослой жизни. Будет эдакая особая церемония посвящения. Что скажешь?"
+AvgDialog_10133_Content_45,adoR,avg序章_AvgDialog_C_M.csv,258,AvgDialog,Content,威廉,"只怕不合适吧，德克斯特勋爵。
+融蚀可不会在我们休息的时候停止扩散。","Боюсь, это неуместно, лорд Декстер. Растворение не перестанет распространяться, пока мы отдыхаем."
+AvgDialog_10133_Content_46,adoS,avg序章_AvgDialog_C_M.csv,259,AvgDialog,Content,德克斯特,"哎呀，威廉还是找到这里来了。
+那我可救不了你了，小家伙。","Что ж, Уильям до нас таки добрался! Извини, дальше я тебе не помощник."
+AvgDialog_10133_Content_47,adoT,avg序章_AvgDialog_C_M.csv,260,AvgDialog,Content,威廉,卷宗已经整理完毕，可以准备出勤了，新晋守密人。,"Досье уже подготовлено. Можно готовиться к выезду, новоиспечённый Хранитель."
+AvgDialog_10133_Content_48,adoU,avg序章_AvgDialog_C_M.csv,261,AvgDialog,Content,威廉,愿银钥指引前路。,Да осветит твой путь Серебряный ключ.
+AvgDialog_81620_Content_1,aqyJ,avg序章_AvgDialog_C_M.csv,263,AvgDialog,Content,拉蒙娜,好难缠的敌人……别害怕，守密人，弥萨格早就为这种危机状况准备好了对策。,"Неприятный противник… Не бойся, Хранитель, Мисаг уже давно подготовил контрмеры на такие критические ситуации."
+AvgDialog_81620_Content_2,aqyK,avg序章_AvgDialog_C_M.csv,264,AvgDialog,Content,拉蒙娜,点击激活手中的应急灵知体吧，里面珍贵的精神力量会瞬间激发唤醒体的潜力，让大家恢复最佳状态。,"Нажми, чтобы активировать находящийся у тебя Экстренный гнозис. Содержащаяся в нём драгоценная духовная сила мгновенно приведёт Пробуждённых в лучшее состояние."
+AvgDialog_81620_Content_3,aqyL,avg序章_AvgDialog_C_M.csv,265,AvgDialog,Content,拉蒙娜,在战斗的关键时刻使用应急灵知体，是可以让局面反败为胜的最终手段，请谨慎选择使用吧，你的安危始终是最重要的。,"Использование Экстренного гнозиса в ключевой момент битвы — это крайнее средство, способное переломить ход сражения и привести к победе. Пожалуйста, применяй его с осторожностью. Твоя безопасность всегда важнее всего."
+AvgDialog_84354_Content_1,bvTx,avg序章_AvgDialog_C_M.csv,266,AvgDialog,Content,拉蒙娜,守密人，在遭遇致命伤害时，有可能触发死亡抵抗。就像现在这样。,"Хранитель, при получении смертельного урона есть вероятность активировать сопротивление смерти. Вот как сейчас."
+AvgDialog_84354_Content_2,bvTy,avg序章_AvgDialog_C_M.csv,267,AvgDialog,Content,拉蒙娜,那是唤醒体在躯体濒临崩解时强行爆发了自身能量。它能帮助你免疫该致命伤害，并保留1点生命。,Это когда Пробуждённый на грани разрушения тела силой взрывает собственную энергию. Такой манёвр поможет тебе выжить после смертельного удара и сохранить 1 ОЗ.
+AvgDialog_84354_Content_3,bvTz,avg序章_AvgDialog_C_M.csv,268,AvgDialog,Content,拉蒙娜,<Blue:成功后，死亡抵抗的触发难度会不断增加。>我必须提醒你，与其依赖运气，不如将命运掌握在手中。,"<Blue:После успешного применения сложность активации сопротивления смерти будет постоянно возрастать.> Я должна тебя предупредить: лучше держать судьбу в своих руках, чем полагаться на удачу."
+AvgDialog_84354_Content_4,bvTA,avg序章_AvgDialog_C_M.csv,269,AvgDialog,Content,拉蒙娜,继续前行吧，守密人。不要害怕，无论前路如何，我都会永远陪伴着你。,"Продолжай путь, Хранитель. Не бойся. Что бы ни ждало нас впереди, я всегда буду с тобой."
