@@ -1,0 +1,375 @@
+﻿Key,ShortKey,Source,Row,Module,Field,Role,CN,VN
+Item_9536_Name,aFPl,d道具_Item_A.csv,8,Item,Name,,源液,Bạc Tinh Chất
+Item_9536_Desc,aFPj,d道具_Item_A.csv,8,Item,Desc,,自融蚀浆中提取的高纯度源液，极为珍贵。可提炼、衰变为银芯。,"Dung dịch lỏng tinh khiết cao được chiết xuất từ Slime Phân Rã, vô cùng quý giá. Có thể tinh chế hoặc phân rã thành bạc."
+Item_9567_Name,aFRx,d道具_Item_A.csv,9,Item,Name,,银芯,Bạc
+Item_9567_Desc,aFRv,d道具_Item_A.csv,9,Item,Desc,,蕴含强大精神力量的类银物质，稀有而昂贵。,"Chất liệu bạc hiếm và đắt đỏ, chứa đựng lượng linh lực mạnh mẽ."
+Item_10108_Name,aCQJ,d道具_Item_A.csv,10,Item,Name,,蔷薇金券,Ngân Phiếu
+Item_10108_Desc,aCQH,d道具_Item_A.csv,10,Item,Desc,,王国货币的优雅代称。处处皆可获取，事事皆需使用。,"Là tên gọi thanh lịch của tiền tệ được lưu hành trong Vương quốc. Nơi nào cũng có, nơi nào cũng cần."
+Item_9578_Desc,aFSj,d道具_Item_A.csv,11,Item,Desc,,温柯尔小姐研制的神秘制剂，帮助调查员在密境中保持理智。副作用未知，请谨慎使用。\n当前数量小于300时，每5分钟将自动补充1支；超出300时，每15分钟自动补充1支。\n最多可持有3000支。,"Chế phẩm bí ẩn do Winkle phát triển nhằm giúp điều tra viên giữ được lý trí trong huyễn cảnh. Tác dụng phụ không rõ, xin sử dụng cẩn thận. \n Khi lượng Menophine hiện tại nhỏ hơn 300, chúng sẽ được tự động bổ sung 1 Menophine mỗi 5 phút; Vượt quá 300, sẽ tự động bổ sung 1 Menophine mỗi 15 phút. \n Tối đa có thể giữ 3000 Menophine."
+Item_9556_Name,aFQJ,d道具_Item_A.csv,12,Item,Name,,经验,Kinh Nghiệm
+Item_9556_Desc,aFQH,d道具_Item_A.csv,12,Item,Desc,,经验达到一定值时，守密人等级提升。可在调查关卡、幕间演习等玩法中消耗灵啡肽获得。,"Khi kinh nghiệm đạt đến một mức nhất định, cấp độ của Người Giữ Khóa sẽ được nâng lên. Có thể tiêu thụ Menophin để nhận thêm  trong các chế độ chơi như Điều Tra, Thực Hành , v.v."
+Item_9916_Name,aGqV,d道具_Item_A.csv,13,Item,Name,,灵知制剂,Thuốc Tri Trức
+Item_9916_Desc,aGqT,d道具_Item_A.csv,13,Item,Desc,,由弥萨格大学创始人研究出的，能够提升唤醒体能力的制剂。\n由银芯与秘药调配而成，呈现出一种特殊的颜色。,"Dược phẩm được nghiên cứu bởi người sáng lập Đại học Misaque, có thể tăng cường khả năng của Thể Thức Tỉnh. \n Được pha chế từ bạc và thuốc bí truyền, nó toả ra một màu sắc đặc biệt."
+Item_10056_Name,aCMJ,d道具_Item_A.csv,14,Item,Name,,同调率,Độ Hảo Cảm
+Item_10056_Desc,aCMH,d道具_Item_A.csv,14,Item,Desc,,你们将彼此信任。\n守密人与唤醒体的精神同调程度。可以解锁更多唤醒体的档案故事。,Bạn sẽ tin tưởng lẫn nhau. \nĐộ Hảo Cảm giữa Người Giữ Khóa và Thể Thức Tỉnh có thể mở khóa thêm về hồ sơ và những câu chuyện.
+Item_10053_Name,aCMB,d道具_Item_A.csv,15,Item,Name,,演习徽章,Huy Hiệu Đối Kháng
+Item_10053_Desc,aCMz,d道具_Item_A.csv,15,Item,Desc,,简洁的银质徽章，上面篆刻弥萨格的标志。\n用以表彰在相位对弈中取得优异成绩的守密人，用以在交换商店中兑换物资。,Một chiếc huy hiệu bạc khắc dấu ấn của Mythag.\nPhần thưởng cho Người Giữ Khóa làm tốt trong Đối Kháng. Có thể đổi phần thưởng tại cửa hàng.
+Item_9615_Name,aFVd,d道具_Item_A.csv,17,Item,Name,,根源沉淀,Tinh Hoa Lắng Đọng
+Item_9615_Desc,aFVb,d道具_Item_A.csv,17,Item,Desc,,它沉淀未知。\n根源浮沫脱水后的沉淀物。仔细保管，这可是弥萨格商店的硬通货。,"Thành phần cụ thể của nó chưa được phân tích rõ ràng. \nĐây là những tinh hoa đọng lại từ Hồ Đen. Bảo quản thật kỹ, bởi nó là thứ luôn được Cửa Hàng Mythag săn đón. "
+Item_9607_Name,aFUx,d道具_Item_A.csv,18,Item,Name,,课题证明,EXP Môn Học
+Item_9607_Desc,aFUv,d道具_Item_A.csv,18,Item,Desc,,一些繁琐却不得不做的日常工作。\n批示报告所用的红色印章，用于提升课题纪录的进度，证明你是个从不偷懒的好学生。,"Là những công việc nhàm chán nhưng không thể thiếu. \nCon dấu màu đỏ dùng để phê duyệt báo cáo, giúp tăng tiến độ Nhật Ký, chứng minh rằng bạn là một học sinh chăm chỉ và không bao giờ lười biếng."
+Item_119012_Name,bJxg,d道具_Item_A.csv,19,Item,Name,,预组经验,EXP Chọn Tất Cả
+Item_119012_Desc,bJxf,d道具_Item_A.csv,19,Item,Desc,,预组经验达到一定值时，预组等级提升。可在相位对弈预组模式中获得。,"Kinh nghiệm ở chế độ Chọn Tất Cả. Khi đủ, sẽ nâng cấp. Nhận được thông qua chơi Đối Kháng chế độ Chọn Tất Cả."
+Item_119011_Name,bJxe,d道具_Item_A.csv,20,Item,Name,,轮选经验,EXP Chọn Theo Lượt
+Item_119011_Desc,bJxd,d道具_Item_A.csv,20,Item,Desc,,轮选经验达到一定值时，轮选等级提升。可在相位对弈轮选模式中获得。,"Kinh nghiệm ở chế độ Chọn Theo Lượt. Khi đủ, sẽ nâng cấp. Nhận được thông qua chơi Đối Kháng chế độ Chọn Theo Lượt."
+Item_118305_Name,bJxc,d道具_Item_A.csv,21,Item,Name,,深潜经验,EXP Huyễn Cảnh
+Item_118305_Desc,bJxb,d道具_Item_A.csv,21,Item,Desc,,深潜经验达到一定值时，深潜等级提升。可在幻梦深潜中获得。,"Kinh nghiệm ở chế độ Huyễn Cảnh. Khi đủ, sẽ nâng cấp. Nhận được thông qua chơi chế độ Huyễn Cảnh."
+Item_9542_Name,aFPJ,d道具_Item_A.csv,23,Item,Name,,融蚀之珠,Ngọc Phân Rã
+Item_9542_Desc,aFPH,d道具_Item_A.csv,23,Item,Desc,,被灾厄打磨的奇迹。\n通过每周试炼获得的稀有融蚀结晶，通体散发月光般的光泽。用以在交换商店中兑换物资。,Điều kỳ diệu sót lại sau những thảm họa. \n Loại tinh thể Phân Rã có thể rơi ra ở Thử Thách Hàng Tuần. Thứ tỏa sáng như ánh trăng này có thể dùng để đổi tại Cửa Hàng Mythag.
+Item_20482_Name,aCRV,d道具_Item_A.csv,24,Item,Name,,调查徽章,Huy Hiệu Điều Tra
+Item_20482_Desc,aCRT,d道具_Item_A.csv,24,Item,Desc,,金闪闪的徽章，上面篆刻象征雷欧王国的蔷薇。在地下市场能卖个不错的好价钱。\n用以表彰在调查行动中取得优异成绩的守密人，用以在交换商店中兑换物资。,"Là một huy chương vàng lấp lánh khắc bông hoa hồng tượng trung cho Vương quốc Leo. Có thể được bán với giá rất cao trên chợ đen.\n Huy hiệu này dùng để trao thưởng cho những Người Giữ Khóa có thành tích xuất sắc trong các cuộc điều tra, và cũng có thể dùng để đổi những vật phẩm khác ở Cửa Hàng Mythag."
+Item_20481_Name,aCRR,d道具_Item_A.csv,25,Item,Name,,黑色贡物,Hắc Thạch
+Item_20481_Desc,aCRP,d道具_Item_A.csv,25,Item,Desc,,扑通，扑通。\n散落在无光之境中的小小心脏，是「祂们」最爱的食物。\n用以交换命轮和无垢之芯等物资。,"Bịch bịch. \n Những trái tim nhỏ bé rơi rớt trong Vùng Đất Bóng Đêm là thức ăn yêu thích của ""Họ"".\n Có thể đổi chúng cho những phần thưởng khác nhau tại Cửa Hàng Mythag."
+Item_10072_Name,aCNV,d道具_Item_A.csv,31,Item,Name,,应急灵知体,Thẻ Khẩn Cấp
+Item_10072_Desc,aCNT,d道具_Item_A.csv,31,Item,Desc,,「别担心，我们永远是你最坚实的后盾。」\n弥萨格大学珍贵的特殊装置。内含极强的精神力量，能在瞬间激发唤醒体的潜力，恢复其状态。\n每日 9 点，如果当前剩余次数小于 5，则可自动获得 1 次。,"""Đừng lo, chúng tôi sẽ luôn là chỗ dựa vững chắc nhất của bạn."" \nĐại học Mythag luôn có sẵn những thiết bị chuyên dụng quý giá. Với lượng linh trí có sẵn ở bên trong, nó có thể ngay lập tức hồi phục năng lực đồng thời cường hóa sức mạnh các Thể Thức Tỉnh ngay lập tức. \nMỗi ngày vào lúc 9 giờ, nếu số lần còn lại hiện tại nhỏ hơn 5, sẽ tự động nhận được 1 lần."
+Item_9803_Name,aGjh,d道具_Item_A.csv,32,Item,Name,,特批药剂,Thuốc An Thần
+Item_9803_Desc,aGjf,d道具_Item_A.csv,32,Item,Desc,,非常时期，当用非常手段。\n温柯尔特批的一批灵啡肽试剂，可帮助守密人快速恢复理智。\n使用后，补充120灵啡肽,"Thời khó thì cần những biện pháp hay. \nMột lô thuốc an thần giúp hồi phục Menophin do Winkle phê chuẩn nhằm giúp Người Giữ Khóa nhanh chóng khôi phục lý trí trong nhiệm vụ. \nSau khi sử dụng, bổ sung 120 Menophin."
+Item_9719_Name,aGcR,d道具_Item_A.csv,33,Item,Name,,无垢之芯,Lõi Nguyên Chất
+Item_9719_Desc,aGcP,d道具_Item_A.csv,33,Item,Desc,,无瑕的银芯结晶。\n提纯银芯后获得，可链接高位存在的意志。,Tinh thể bạc không tì vết. \n Nhận được sau khi chiết xuất từ bạc. Nó có thể được dùng để liên kết với ý chí của những thực thể cấp cao.
+Item_9802_Name,aGjd,d道具_Item_A.csv,34,Item,Name,,流明之芯,Lõi Tuyệt Chất
+Item_10064_Name,aCNp,d道具_Item_A.csv,37,Item,Name,,灵知制剂Ⅰ,Thuốc Tri ThứcⅠ
+Item_10064_Desc,aCNn,d道具_Item_A.csv,37,Item,Desc,,由弥萨格大学创始人研究出的，能够提升唤醒体能力的制剂。\n由银芯与秘药调配而成，呈现出一种奇异的色泽。\n可以为唤醒体提供500经验值。,"Dược phẩm được nghiên cứu bởi người sáng lập Đại học Misaque, có thể tăng cường khả năng của Thể Thức Tỉnh. \n Được pha chế từ bạc và thuốc bí truyền, nó toả ra một màu sắc đặc biệt.\n Có thể cung cấp 500 điểm kinh nghiệm cho Thể Thức Tỉnh."
+Item_9834_Name,aGkZ,d道具_Item_A.csv,38,Item,Name,,灵知制剂Ⅱ,Thuốc Tri ThứcⅡ
+Item_9834_Desc,aGkX,d道具_Item_A.csv,38,Item,Desc,,由弥萨格大学创始人研究出的，能够提升唤醒体能力的制剂。由银芯与秘药调配而成，呈现出一种奇异的色泽。\n可以为唤醒体提供2000经验值。,"Dược phẩm được nghiên cứu bởi người sáng lập Đại học Misaque, có thể tăng cường khả năng của Thể Thức Tỉnh. \n Được pha chế từ bạc và thuốc bí truyền, nó toả ra một màu sắc đặc biệt.\n Có thể cung cấp 2000 điểm kinh nghiệm cho Thể Thức Tỉnh."
+Item_9762_Name,aGfZ,d道具_Item_A.csv,39,Item,Name,,灵知制剂Ⅲ,Thuốc Tri Thức Ⅲ
+Item_9762_Desc,aGfX,d道具_Item_A.csv,39,Item,Desc,,由弥萨格大学创始人研究出的，能够提升唤醒体能力的制剂。由银芯与秘药调配而成，呈现出一种奇异的色泽。\n可以为唤醒体提供10000经验值。,"Dược phẩm được nghiên cứu bởi người sáng lập Đại học Misaque, có thể tăng cường khả năng của Thể Thức Tỉnh. \n Được pha chế từ bạc và thuốc bí truyền, nó toả ra một màu sắc đặc biệt.\n Có thể cung cấp 10000 điểm kinh nghiệm cho Thể Thức Tỉnh."
+Item_10030_Name,aCLd,d道具_Item_A.csv,40,Item,Name,,淬制本能,Bản Năng Tinh Luyện
+Item_10030_Desc,aCLb,d道具_Item_A.csv,40,Item,Desc,,是的，万物皆可淬制。\n你的本能、你的理智，甚至你的心……\n到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_9758_Name,aGfJ,d道具_Item_A.csv,41,Item,Name,,淬制理智,Lý Trí Tinh Luyện
+Item_9758_Desc,aGfH,d道具_Item_A.csv,41,Item,Desc,,是的，万物皆可淬制。\n你的本能、你的理智，甚至你的心……\n到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_9971_Name,aGuN,d道具_Item_A.csv,42,Item,Name,,淬制心灵,Linh Trí Tinh Luyện
+Item_9971_Desc,aGuL,d道具_Item_A.csv,42,Item,Desc,,是的，万物皆可淬制。\n你的本能、你的理智，甚至你的心……\n到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_9755_Name,aGfx,d道具_Item_A.csv,43,Item,Name,,记忆副本,Bản Sao Ký Ức
+Item_9755_Desc,aGfv,d道具_Item_A.csv,43,Item,Desc,,为了人类存续。\n被保存在画框里的记忆。用以升格血肉界域唤醒体的材料。,Để duy trì và bảo vệ cho sự tồn vong của loài người. \n Ký Ức được bảo tồn trong một chiếc khung. Dùng làm nguyên liệu Đánh Thức cho Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9740_Name,aGet,d道具_Item_A.csv,44,Item,Name,,情感副本,Bản Sao Cảm Xúc
+Item_9740_Desc,aGer,d道具_Item_A.csv,44,Item,Desc,,为了人类存续。\n被保存在画框里的情感。用以升格血肉界域唤醒体的材料。,Để duy trì và bảo vệ cho sự tồn vong của loài người. \n Cảm xúc được bảo tồn trong một chiếc khung. Dùng làm nguyên liệu Đánh Thức cho Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9925_Name,aGrF,d道具_Item_A.csv,45,Item,Name,,意识副本,Bản Sao Ý Thức
+Item_9925_Desc,aGrD,d道具_Item_A.csv,45,Item,Desc,,为了人类存续。\n被保存在画框里的意识。用以升格血肉界域唤醒体的材料。,Để duy trì và bảo vệ cho sự tồn vong của loài người. \n Ý Thức được bảo tồn trong một chiếc khung. Dùng làm nguyên liệu Đánh Thức cho Thể Thức Tỉnh cõi Huyết Nhục.
+Item_10044_Name,aCMd,d道具_Item_A.csv,46,Item,Name,,认知模板,Mô Hình Nhận Thức
+Item_10044_Desc,aCMb,d道具_Item_A.csv,46,Item,Desc,,给予我们未可知晓的认知。\n源自菲林诗社的特殊胶片，能转写人的认知。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi nhận thức về những điều chưa thể biết. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại nhận thức của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9904_Name,aGqd,d道具_Item_A.csv,47,Item,Name,,精神模板,Mô Hình Tinh Thần
+Item_9904_Desc,aGqb,d道具_Item_A.csv,47,Item,Desc,,给予我们未可知晓的精神。\n源自菲林诗社的特殊胶片，能转写人的精神。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi tinh thần mà chưa thể thấu. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại tinh thần của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9768_Name,aGgx,d道具_Item_A.csv,48,Item,Name,,灵知模板,Mô Hình Linh Tri Thức
+Item_9768_Desc,aGgv,d道具_Item_A.csv,48,Item,Desc,,给予我们未可知晓的灵知。\n源自菲林诗社的特殊胶片，能转写人的灵知。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi linh hồn vô hình, tri thức vô biên. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại cội nguồn của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9940_Name,aGsx,d道具_Item_A.csv,49,Item,Name,,纯白残片,Mảnh Giấy Trắng
+Item_9940_Desc,aGsv,d道具_Item_A.csv,49,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的残页，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Trang giấy này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9793_Name,aGit,d道具_Item_A.csv,50,Item,Name,,纯白文书,Tập Giấy Trắng
+Item_9793_Desc,aGir,d道具_Item_A.csv,50,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的文书，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Tập giấy này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9799_Name,aGiR,d道具_Item_A.csv,51,Item,Name,,纯白秘篇,Bí Thư Trắng
+Item_9799_Desc,aGiP,d道具_Item_A.csv,51,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的秘篇，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Bí thư này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9825_Name,aGkx,d道具_Item_A.csv,52,Item,Name,,失色晶蝶,Bướm Pha Lê Đục
+Item_9825_Desc,aGkv,d道具_Item_A.csv,52,Item,Desc,,它并非工艺品，而是蝴蝶撞上炼金术师后的悲惨结局。\n平凡的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Tưởng chừng là một tác phẩm nghệ thuật, nào ngờ nó chỉ là một kết cục bi thương khi con bướm ấy va phải những quá trình luyện kim.\n Cánh bướm pha lê bình thường. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hỗn Mang"
+Item_9621_Name,aFVx,d道具_Item_A.csv,53,Item,Name,,闪耀晶蝶,Bướm Pha Lê Sáng
+Item_9621_Desc,aFVv,d道具_Item_A.csv,53,Item,Desc,,翅膀只负责提供美丽，价值五片什。\n闪耀的水晶蝴蝶。身体大部分已被结晶化。\n用于提升混沌界域唤醒体的技能等级。,"Đôi cánh ấy giờ chẳng còn giá trị gì, có lẽ là hơn năm đồng… gì đó.\n Cánh bướm pha lê lấp lánh. Phần lớn thân thể đã bị kết tinh hóa. \n Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hỗn Mang"
+Item_9769_Name,aGgB,d道具_Item_A.csv,54,Item,Name,,混沌结晶,Đàn Bướm Hỗn Mang
+Item_9769_Desc,aGgz,d道具_Item_A.csv,54,Item,Desc,,扇动的翅膀有助于产生龙卷风，或是花粉过敏。\n成群的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Chỉ là một đôi cánh, nhưng khi vỗ có thể hô biến ra lốc xoáy càn quét, thảm họa vô biên, hoặc chỉ là dị ứng phấn hoa. \nLà một bầy bướm pha lê bí ẩn. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9771_Name,aGgJ,d道具_Item_A.csv,55,Item,Name,,低茎海百合,Huệ Biển Lùn
+Item_9771_Desc,aGgH,d道具_Item_A.csv,55,Item,Desc,,花语：离我远点。\n低茎海百合的化石。用于提升深海界域唤醒体的技能等级。,"Ở Ngôn ngữ của loài hoa, chúng có nghĩa rằng: Hãy tránh xa tôi. \n Là hóa thạch của hoa huệ biển thấp. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực."
+Item_10117_Name,aCRp,d道具_Item_A.csv,56,Item,Name,,高茎海百合,Huệ Biển Cao
+Item_10117_Desc,aCRn,d道具_Item_A.csv,56,Item,Desc,,数亿年前，它们在温暖的海洋中称霸一方。\n高茎海百合的化石。用于提升深海界域唤醒体的技能等级。,"Hàng triệu năm về trước, chúng mọc đầy rẫy khắp nơi ở vùng nước ấm. \n Hóa thạch của hoa huệ biển cao. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực."
+Item_9812_Name,aGjJ,d道具_Item_A.csv,57,Item,Name,,尤因他百合,Huệ Biển Uinta
+Item_9812_Desc,aGjH,d道具_Item_A.csv,57,Item,Desc,,他们相约一起杀戮，在海百合盛开的春天。\n尤因他海百合的化石。用于提升深海界域唤醒体的技能等级。,Họ đã hẹn với nhau. Họ đã hứa sẽ cùng nhau thảm sát vào mùa xuân khi hoa huệ biển nở rộ. \n Dựa trên hóa thạch của huệ biển cổ đại. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực.
+Item_9549_Name,aFQh,d道具_Item_A.csv,58,Item,Name,,风干虫蛹,Kén Nhộng Khô
+Item_9549_Desc,aFQf,d道具_Item_A.csv,58,Item,Desc,,漏风的家。总比没有的好。\n被遗留的蛹壳。用于提升血肉界域唤醒体的技能等级。,Nhà có gió lùa vẫn tốt hơn không. \nVỏ kén khô còn sót lại. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9601_Name,aFTZ,d道具_Item_A.csv,59,Item,Name,,原生虫蛹,Kén Nhộng Tươi
+Item_9601_Desc,aFTX,d道具_Item_A.csv,59,Item,Desc,,蠕动，扭曲，我们阴暗爬行……嘶……嘶……\n被寄生的虫蛹。用于提升血肉界域唤醒体的技能等级。,"Bò lết, lăn lê, vặn vẹo, chúng ta trở mình trong bóng tối… rít… rít…\nMột chiếc kén đã bị kí sinh. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục."
+Item_9671_Name,aFZl,d道具_Item_A.csv,60,Item,Name,,芽孢聚合物,Kén Nhộng Bào Tử
+Item_9671_Desc,aFZj,d道具_Item_A.csv,60,Item,Desc,,芽孢又做错了什么呢，它们只是想有个家罢了。\n虫蛹和它的芽孢邻居。用于提升血肉界域唤醒体的技能等级。,Các bào tử đã làm gì sao? Họ chỉ đơn giản muốn một ngôi nhà mà thôi. \n Kén nhộng và các bào tử bao quanh. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9726_Name,aGdt,d道具_Item_A.csv,61,Item,Name,,残破矿晶,Mảnh Vỡ Khoáng Thạch
+Item_9726_Desc,aGdr,d道具_Item_A.csv,61,Item,Desc,,这下没人敢用它来占卜吉凶了吧。\n被融蚀浆覆盖的紫色水晶，用于提升超维界域唤醒体的技能等级。,"Nó không còn giá trị sử dụng để chiêm tinh nữa rồi. \n Tinh thể màu tím bị bao phủ bởi Slime Phân Rã, được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_10013_Name,aCJV,d道具_Item_A.csv,62,Item,Name,,陨星碎块,Mảnh Vỡ Thiên Thạch
+Item_10013_Desc,aCJT,d道具_Item_A.csv,62,Item,Desc,,闪烁着神秘的紫色辉光，据说是陨石坠落在坎布里安河谷时残留的碎块。\n用于提升超维界域唤醒体的技能等级。,"Khoáng thạch lấp lánh ánh tím huyền bí, được cho là mảnh vỡ còn lại khi một thiên thạch rơi xuống thung lũng sông Cambrian. \nDùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9756_Name,aGfB,d道具_Item_A.csv,63,Item,Name,,尤卡坦之星,Thiên Thạch Yucatan
+Item_9756_Desc,aGfz,d道具_Item_A.csv,63,Item,Desc,,在某些平行宇宙里，它拥有毁天灭地的力量。\n来自遥远热带的完美矿晶，用于提升超维界域唤醒体的技能等级。,"Ở một vũ trụ song song, nó đã hủy diệt cả một hành tinh. \n Là khoáng thạch tinh khiết từ vùng nhiệt đới xa xôi, được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9776_Name,aGhd,d道具_Item_A.csv,64,Item,Name,,幸运糖果,Kẹo May Mắn
+Item_9776_Desc,aGhb,d道具_Item_A.csv,64,Item,Desc,,甜甜的，硬硬的。它们在孩童的絮语间传递，成为友谊的象征，童年的珍藏。\n小孩爱吃的糖果。用以提升唤醒体技能等级。,"Ngọt ngào, hơi cứng, dùng để ngậm. Chúng được truyền qua tay nhau, gắn liền với những lời đàm tiếu của lũ trẻ con. Qua năm tháng, nó đã trở thành biểu tượng của tri kỷ và những kỷ niệm thơ ấu. \nLà loại kẹo mà đứa trẻ nào cũng thích. Dùng để nâng cao cấp độ kỹ năng Thể Thức Tỉnh."
+Item_9779_Name,aGhp,d道具_Item_A.csv,65,Item,Name,,蜡像泥坯,Phôi Tượng Sáp
+Item_9779_Desc,aGhn,d道具_Item_A.csv,65,Item,Desc,,所有蜡像最初都只是粗糙的坯体。它们不会哭，也不会笑。\n未完的蜡像泥坯。用以提升唤醒体技能等级。,Tất cả bức tượng nến đều xuất phát từ một chiếc phôi thô. Chúng chẳng biết khóc cũng không thể cười.  \nLà một tác phẩm chưa hoàn thành. Dùng để nâng cao cấp độ kỹ năng của Thể Thức Tỉnh.
+Item_9778_Name,aGhl,d道具_Item_A.csv,66,Item,Name,,漆黑锁扣,Gông Xích Nhúng Chàm
+Item_9778_Desc,aGhj,d道具_Item_A.csv,66,Item,Desc,,吾名希洛，是永不屈从之人。从今往后，我将打破枷锁，踏上旅程。\n漆黑的金属锁扣。用以提升唤醒体技能等级。,"Ta tên là Helot. Và ta sẽ không bao giờ khuất phục. Chính ngày hôm nay, ta sẽ phá vỡ xiềng xích này để tự bước trên hành trình của riêng mình. \n Một chiếc khóa có màu đen. Dùng để nâng cao cấp độ kỹ năng của Thể Thức Tỉnh."
+Item_9781_Name,aGhx,d道具_Item_A.csv,67,Item,Name,,维度凝晶,Tinh Thể Đa Chiều
+Item_9781_Desc,aGhv,d道具_Item_A.csv,67,Item,Desc,,掉落自名为刻耳柏洛斯的高维生物。以人类当前文明发展程度，尚无法解析其成分。\n神秘的紫色晶体。用以提升唤醒体技能等级。,"Một vật phẩm rơi ra từ sinh vật Siêu Chiều có tên là Cerberus. Với nền khoa học hiện tại, loài người chưa thể phân tích được thành phần của nó. \n Tinh thể óng ánh màu tím huyền bí. Dùng để nâng cao cấp độ kỹ năng Thể Thức Tỉnh."
+Item_9780_Name,aGht,d道具_Item_A.csv,68,Item,Name,,虔诚圣心,Trái Tim Thành Kính
+Item_9780_Desc,aGhr,d道具_Item_A.csv,68,Item,Desc,,纵使胚胎诞生之刻即是消亡之时，她亦当甘之如饴。\n闪耀着虔诚之心的神秘摆件。用以提升唤醒体技能等级。,"Kể cả khi cái Thánh Phôi ấy sẽ chết khi nó được sinh ra, cô ấy vẫn sẽ vui vẻ đón nhận và âu yếm nó.  \nĐồ trang trí huyền bí với một trái tim thành kính lấp lánh được gắn ở trên. Dùng để nâng cao cấp độ kỹ năng của Thể Thức Tỉnh."
+Item_9783_Name,aGhF,d道具_Item_A.csv,69,Item,Name,,圣胎冠冕,Vương Miện Thánh Thai
+Item_9783_Desc,aGhD,d道具_Item_A.csv,69,Item,Desc,,天生佩戴王冠之人，难以理解竞逐者的热衷。\n沉重的冠冕。用以提升唤醒体技能等级。,Kẻ sinh ra với vương miện khó có thể hiểu được khát khao của những kẻ thèm muốn tranh giành. \nLà một chiếc vương miện nhỏ nặng nề. Dùng để nâng cao cấp độ kỹ năng Thể Thức Tỉnh.
+Item_9782_Name,aGhB,d道具_Item_A.csv,70,Item,Name,,母树遗骸,Di Cốt Của Cây Mẹ
+Item_9782_Desc,aGhz,d道具_Item_A.csv,70,Item,Desc,,一截树的遗骨，时至今日，或可象征亚兰文明的残骸。\n丰穰母树折断的枝桠。用于提升唤醒体技能等级。,Một đoạn xương của cây. Và chỉ một đoạn tàn dư này mà người ta có thể hình dung ra cả một nền văn minh người Aram. \nMột chiếc cành bị gãy từ Cây Mẹ. Dùng để nâng cao cấp độ kỹ năng của Thể Thức Tỉnh.
+Item_9785_Name,aGhN,d道具_Item_A.csv,71,Item,Name,,梦呓捕手,Lưới Bắt Mộng
+Item_9785_Desc,aGhL,d道具_Item_A.csv,71,Item,Desc,,象征着不详的捕梦网，传说能够链接通向永恒的大门。\n提灯教会用来捕捉神明梦中呓语的工具。用于提升唤醒体技能等级。,"Là một chiếc bẫy những giấc mơ, là điềm dữ. Truyền thuyết cho rằng nó là chìa khóa dẫn đến cánh cửa của sự vĩnh hằng. \n Là công cụ của Giáo Hội Minh Quang dùng để bắt giữ những lời sấm truyền trong giấc mơ. Dùng để nâng cao cấp độ kỹ năng Thể Thức Tỉnh."
+Item_9966_Name,aGut,d道具_Item_A.csv,73,Item,Name,,拟态凝晶,Pha Lê Mô Phỏng
+Item_9966_Desc,aGur,d道具_Item_A.csv,73,Item,Desc,,不要小看这一颗冰冰凉的眼泪——它能创造世界。\n泪滴状的液态晶体，可用于合成「超验存在」中的掉落物。,"Đừng coi thường giọt pha lê lạnh giá này. Một giọt của thứ chất lỏng này có thể cấu thành nên cả một thế giới.\nPha lê dạng giọt nước, có thể sử dụng để Chế Tạo những vật liệu nâng cao cấp độ kỹ năng Thể Thức Tỉnh."
+Item_9676_Name,aFZF,d道具_Item_A.csv,74,Item,Name,,贤石碎屑,Mảnh Đá Đỏ
+Item_9676_Desc,aFZD,d道具_Item_A.csv,74,Item,Desc,,一百二十分之一的奇迹。\n暗红色的宝石碎屑，可用于合成贤者之石。,"Một phép màu chỉ có thể tạo ra với tỉ lệ dưới 0.0833%. \nMảnh đá vụn ánh đỏ sẫm, dùng để chế tạo Đá Triết Gia."
+Item_9543_Name,aFPN,d道具_Item_A.csv,75,Item,Name,,贤者之石,Đá Triết Gia
+Item_9543_Desc,aFPL,d道具_Item_A.csv,75,Item,Desc,,无数战争因它而起。\n被称作「第五元素」的红色晶体，其炼造方式早已失传。\n通用的唤醒体技能提升材料。,"Vô số cuộc chiến đã nổ ra vì nó.\n Là thứ tinh thể được gọi là ""Nguyên Tố Thứ Năm"". Giờ đây chẳng còn ai biết cách chính xác để chế tạo nó nữa cả. \n Vật liệu cần thiết để tăng cường kĩ năng của các Thể Thức Tỉnh lên mức tối đa."
+Item_9619_Name,aFVp,d道具_Item_A.csv,76,Item,Name,,千面印章,Dấu Ấn Vạn Diện
+Item_9619_Desc,aFVn,d道具_Item_A.csv,76,Item,Desc,,符号、文字、记忆……它将篡改一切。\n用于密契升级和转录，密契升级可以提升密契的主属性，密契转录会使密契随机获得副属性。,"Bất kể là những biểu tượng, dòng chữ hay ký ức,… nó sẽ thay đổi tất cả. \nDùng cho việc nâng cấp Khế Ước và Hoàn Ký. Khế Ước khi được nâng cấp sẽ tăng thuộc tính chính. Khi Hoàn Ký sẽ nhận được ngẫu nhiên thuộc tính phụ với cấp độ khác nhau."
+Item_9522_Name,aFOh,d道具_Item_A.csv,77,Item,Name,,追念羽笔,Bút Lông Hoài Cổ
+Item_9522_Desc,aFOf,d道具_Item_A.csv,77,Item,Desc,,用于密契转录时锁定两个副属性，也可以在材料置换中置换为密契残本。\n\n直到今天，它依然眷念着笔下的轨迹。,"Dùng để khóa tối đa hai thuộc tính phụ khi Hoàn Ký, ngoài ra cũng thể dùng để đổi lại thành tàn dư của những Khế Ước. \nCho đến tận bây giờ, ngòi bút vẫn còn vương vấn những nét mực uốn lượn ngày xưa."
+Item_9791_Name,aGil,d道具_Item_A.csv,84,Item,Name,,循环母版,Vòng Lặp Luân Mệnh
+Item_9791_Desc,aGij,d道具_Item_A.csv,84,Item,Desc,,每个命轮都渴望回归，亦或是新生。\n被记载于教科书内的轨迹规律。用以进行命轮叠位。,Mỗi Luân Mệnh đều khao khát được trở về hoặc được tía sinh. \nQuỹ đạo quy luật của chúng đã được ghi chép trong sách giáo khoa. Đây là thứ sẽ được dùng để đột phá Luân Mệnh bởi khả năng mô phỏng lại những Luân Mệnh khác.
+Item_9597_Name,aFTJ,d道具_Item_A.csv,85,Item,Name,,原型视界,Nguyên Mẫu Vạn Năng
+Item_9597_Desc,aFTH,d道具_Item_A.csv,85,Item,Desc,,请勿以手触碰。\n封装在特制培养皿内的珍惜灵识。可从中选择1个已解锁SSR角色的唤醒体残片。,Không được chạm tay vào.\n Bên trong là một nhận thức linh tri được bảo quản cẩn thận trong đĩa kính. Có thể dùng để chọn một Mảnh Khai Trí của một Thể Thức Tỉnh SSR đã mở khóa.
+Item_21775_Name,aCSd,d道具_Item_A.csv,86,Item,Name,,原质乐园,Hiệu Triệu Cơ Bản
+Item_21775_Desc,aCSb,d道具_Item_A.csv,86,Item,Desc,,它们的肉体、灵识和记忆都被封装于此，直到被唤醒的那一刻。\n可从中选择1个「界域研习」中的以下唤醒体唤醒：\n诺缔拉、宁菲亚、潘狄娅、艾尔瓦、珈伦；戈利亚、法洛思、凯刻斯、珊、希莱斯特；希洛、阿格里帕、尤乌哈希、雷娅、菲茵特；莉兹、汀克特、温柯尔、詹金、卡茜亚。,"Thân thể, linh hồn và ký ức của chúng đều được phong ấn ở bên trong. Cho đến khoảnh khắc ấy, chúng sẽ được sống lại. \n Có thể chọn một trong các Thể Thức Tỉnh sau đây, vốn có ở phần ""Nghiên Cứu Giới Vực"": \nNautila, Nymphaea, Pandia, Alva, Karen; Goliath, Faros, Caecus, Sâng, Celeste; Helot,Agrippa, Uvhash, Leigh, Faint; Liz, Tinct, Winkle, Jenkin, Casiah."
+Item_21898_Name,aCSl,d道具_Item_A.csv,87,Item,Name,,轮转之书,Sách Luân Mệnh
+Item_21898_Desc,aCSj,d道具_Item_A.csv,87,Item,Desc,,记载了珍稀命轮的神秘古籍。\n可从中选择1个「轮转之相」中的以下SSR命轮获得：\n记忆螺旋、腐朽赠礼、欲海浮沉、坚韧意志、无声欢宴；巨人之刃、于暴雨之中、伤痛之鳍、珊瑚女之死、引舵之帆；挣脱锁链之日、苍白后裔、血肉狂宴、饕餮寓言、吞噬摇篮曲；旋转，旋转、被缚的歌谣、无法完成的演算、迷失的道路、快乐魔法秀。,"Là cuốn sách với những ghi chếp cổ đại về Luân Mệnh.\n Có thể chọn một trong các Luân Mệnh SSR thuộc ""Luân Chuyển Dòng Mệnh"": \n Vòng Xoáy Ký Ức, Món Quà Úa Tàn, Lạc Trôi Trong Dục Vọng, Ý Chí Bất Khuất, Yến Tiệc Lặng Yên; Thanh Kiếm Khổng Lồ, Giữa Tâm Bão Táp, Vảy Cá Đau Thương, Cái Chết Của San Hô Ngọc Nữ, Cánh Buồm Bảo Hộ; Đập Tan Gông Xích, Hậu Duệ Bạch Tạng, Đại Tiệc Đẫm Máu, Ngụ Ngôn Về Kẻ Phàm Ăn, Kẻ Nuốt Chửng Lời Ru; Fouetté, Họa Mi Trong Lồng Sắt, Biến Số Không Xác Định, Con Đường Lạc Lối, Buổi Diễn Ảo Thuật Vui Vẻ."
+Item_95513_Name,bzTJ,d道具_Item_A.csv,88,Item,Name,,原质捕获·忘却篇,Lọ Chứa Linh Thức: Hồi Ức Lãng Quên
+Item_95513_Desc,bzTI,d道具_Item_A.csv,88,Item,Desc,,将唤醒设备于精神维度中的锚点定位删除，仅用精神链接装置进行原质捕获，即可引起一刹那未知的共振。\n可从中免费唤醒1个「忘却篇」中的随机限定唤醒体。,"Thi triển liên kết tinh thần nhằm lôi kéo Thể Thức Tỉnh đang ngủ yên ở trong chiều không gian linh thức, sẽ có hiện tượng cộng chấn trong một khoản khắc.\n Nhận miễn phí một Thể Thức Tỉnh ngẫu nhiên trong phần ""Hồi Ức Lãng Quên""."
+Item_95517_Name,bzTR,d道具_Item_A.csv,89,Item,Name,,宿命定格·忘却篇,Sách Luân Mệnh: Hồi Ức Lãng Quên
+Item_95517_Desc,bzTQ,d道具_Item_A.csv,89,Item,Desc,,记载了这个宇宙中无数命运缩影的神秘古籍。\n可从中免费获得1个「忘却篇」中的随机限定命轮。,"Một cuốn bí thư ghi chép về tất cả mảnh ghép vận mệnh trong vũ trụ này.\nSử dụng để nhận miễn phí 1 Luân Mệnh ngẫu nhiên thuộc ""Hồi Ức Lãng Quên""."
+Item_95515_Name,bzTN,d道具_Item_A.csv,90,Item,Name,,超维映射·忘却篇,Siêu Chiều Hiệu Triệu: Hồi Ức Lãng Quên
+Item_95515_Desc,bzTM,d道具_Item_A.csv,90,Item,Desc,,于你熟悉的世界中，定向到超维界域进行唤醒的原质捕获技术。 \n可从中选择1个「忘却篇」中的「超维」界域限定唤醒体免费唤醒。,"Là một lọ chứa linh thức nhưng được liên kết tới một không gian quen thuộc trong cõi Siêu Chiều để thức tỉnh. \nCó thể chọn 1 Thể Thức Tỉnh Giới Hạn cõi Siêu Chiều thuộc ""Hồi Ức Lãng Quên"". "
+Item_95512_Name,bzTH,d道具_Item_A.csv,91,Item,Name,,血肉诞临·忘却篇,Huyết Nhục Hiệu Triệu: Hồi Ức Lãng Quên
+Item_95512_Desc,bzTG,d道具_Item_A.csv,91,Item,Desc,,于你熟悉的世界中，定向到血肉界域进行唤醒的原质捕获技术。 \n可从中选择1个「忘却篇」中的「血肉」界域限定唤醒体免费唤醒。,"Là một lọ chứa linh thức nhưng được liên kết tới một không gian quen thuộc trong cõi Huyết Nhục để thức tỉnh. \nCó thể chọn 1 Thể Thức Tỉnh Giới Hạn cõi Huyết Nhục thuộc ""Hồi Ức Lãng Quên"". "
+Item_95519_Name,bzTV,d道具_Item_A.csv,92,Item,Name,,深海迷影·忘却篇,Hải Vực Hiệu Triệu: Hồi Ức Lãng Quên
+Item_95519_Desc,bzTU,d道具_Item_A.csv,92,Item,Desc,,于你熟悉的世界中，定向到深海界域进行唤醒的原质捕获技术。 \n可从中选择1个「忘却篇」中的「深海」界域限定唤醒体免费唤醒。,"Là một lọ chứa linh thức nhưng được liên kết tới một không gian quen thuộc trong cõi Hải Vực để thức tỉnh. \nCó thể chọn 1 Thể Thức Tỉnh Giới Hạn cõi Hải Vực thuộc ""Hồi Ức Lãng Quên"". "
+Item_95511_Name,bzTF,d道具_Item_A.csv,93,Item,Name,,混沌回声·忘却篇,Hỗn Mang Hiệu Triệu
+Item_95511_Desc,bzTE,d道具_Item_A.csv,93,Item,Desc,,于你熟悉的世界中，定向到混沌界域进行唤醒的原质捕获技术。 \n可从中选择1个「忘却篇」中的「混沌」界域限定唤醒体免费唤醒。,"Là một lọ chứa linh thức nhưng được liên kết tới một không gian quen thuộc trong cõi Hỗn Mang để thức tỉnh. \nCó thể chọn 1 Thể Thức Tỉnh Giới Hạn cõi Hỗn Mang thuộc ""Hồi Ức Lãng Quên"". "
+Item_95514_Name,bzTL,d道具_Item_A.csv,94,Item,Name,,超维预言·忘却篇,Siêu Chiều Tiên Liệu: Hồi Ức Lãng Quên
+Item_95514_Desc,bzTK,d道具_Item_A.csv,94,Item,Desc,,记载了来自奇异维度的预言的神秘古籍。\n可从中选择1个「忘却篇」中的「超维」界域中的限定命轮免费获得。,"Là một bí thư ghi chép những lời tiên tri đến từ chiều không gian kỳ lạ. \nCó thể chọn miễn phí một Luân Mệnh giới hạn cõi Siêu Chiều thuộc ""Hồi Ức Lãng Quên""."
+Item_95518_Name,bzTT,d道具_Item_A.csv,95,Item,Name,,血肉密语·忘却篇,Huyết Nhục Tiên Liệu: Hồi Ức Lãng Quên
+Item_95518_Desc,bzTS,d道具_Item_A.csv,95,Item,Desc,,记载了书写于血肉皮肤的密语的神秘古籍。\n可从中选择1个「忘却篇」中的「血肉」界域中的限定命轮免费获得。,"Là một cổ thư huyền bí ghi chép lại những mật ngữ được khắc ghi trên làn da máu thịt .\nCó thể chọn miễn phí 1 Luân Mệnh giới hạn cõi Huyết Nhục thuộc ""Hồi Ức Lãng Quên""."
+Item_95510_Name,bzTD,d道具_Item_A.csv,96,Item,Name,,深海秘典·忘却篇,Hải Vực Tiên Liệu: Hồi Ức Lãng Quên
+Item_95510_Desc,bzTC,d道具_Item_A.csv,96,Item,Desc,,记载了深海中亘古流传的秘闻的神秘古籍。\n可从中选择1个「忘却篇」中的「深海」界域中的限定命轮免费获得。,"Là một cổ thư ghi chép lại những văn bản huyền bí được lưu truyền dưới đáy biển sâu.\nCó thể chọn miễn phí 1 Luân Mệnh giới hạn cõi Hải Vực thuộc ""Hồi Ức Lãng Quên""."
+Item_95516_Name,bzTP,d道具_Item_A.csv,97,Item,Name,,混沌实验·忘却篇,Hỗn Mang Tiên Liệu
+Item_95516_Desc,bzTO,d道具_Item_A.csv,97,Item,Desc,,记载了在混沌空间进行的绝密实验的神秘古籍。\n可从中选择1个「忘却篇」中的「混沌」界域中的限定命轮免费获得。,"Là một bí thư ghi chép về những thí nghiệm tuyệt mật được lưu lại trong không gian Hỗn Mang.\nCó thể chọn miễn phí 1 Luân Mệnh giới hạn cõi Hỗn Mang thuộc ""Hồi Ức Lãng Quên""."
+Item_119151_Name,bJxm,d道具_Item_A.csv,98,Item,Name,,原质捕获·星辰篇,Lọ Chứa Linh Thức: Thiên Ngự
+Item_119151_Desc,bJxl,d道具_Item_A.csv,98,Item,Desc,,将唤醒设备于精神维度中的锚点定位删除，仅用精神链接装置进行原质捕获，即可引起一刹那未知的共振。\n可从中免费唤醒1个「星辰篇」中的随机限定唤醒体。,"Thi triển liên kết tinh thần nhằm lôi kéo Thể Thức Tỉnh đang ngủ yên ở trong chiều không gian linh thức, sẽ có hiện tượng cộng chấn trong một khoản khắc.\n Nhận miễn phí một Thể Thức Tỉnh ngẫu nhiên trong phần ""Thiên Ngự""."
+Item_119150_Name,bJxk,d道具_Item_A.csv,99,Item,Name,,宿命定格·星辰篇,Sách Luân Mệnh: Thiên Ngự
+Item_119150_Desc,bJxj,d道具_Item_A.csv,99,Item,Desc,,记载了这个宇宙中无数命运缩影的神秘古籍。\n可从中免费获得1个「星辰篇」中的随机限定命轮。,"Một cuốn bí thư ghi chép về tất cả mảnh ghép vận mệnh trong vũ trụ này.\nSử dụng để nhận miễn phí 1 Luân Mệnh ngẫu nhiên thuộc ""Thiên Ngự""."
+Item_119152_Name,bJxo,d道具_Item_A.csv,100,Item,Name,,超维映射·星辰篇,Siêu Chiều Hiệu Triệu: Thiên Ngự
+Item_119152_Desc,bJxn,d道具_Item_A.csv,100,Item,Desc,,于你熟悉的世界中，定向到超维界域进行唤醒的原质捕获技术。 \n可从中选择1个「星辰篇」中的「超维」界域限定唤醒体免费唤醒。,"Là một lọ chứa linh thức nhưng được liên kết tới một không gian quen thuộc trong cõi Siêu Chiều để thức tỉnh. \nCó thể chọn 1 Thể Thức Tỉnh Giới Hạn cõi Siêu Chiều thuộc ""Thiên Ngự"". "
+Item_119157_Name,bJxy,d道具_Item_A.csv,101,Item,Name,,血肉诞临·星辰篇,Huyết Nhục Hiệu Triệu: Thiên Ngự
+Item_119157_Desc,bJxx,d道具_Item_A.csv,101,Item,Desc,,于你熟悉的世界中，定向到血肉界域进行唤醒的原质捕获技术。 \n可从中选择1个「星辰篇」中的「血肉」界域限定唤醒体免费唤醒。,"Là một lọ chứa linh thức nhưng được liên kết tới một không gian quen thuộc trong cõi Huyết Nhục để thức tỉnh. \nCó thể chọn 1 Thể Thức Tỉnh Giới Hạn cõi Huyết Nhục thuộc ""Thiên Ngự"". "
+Item_119159_Name,bJxC,d道具_Item_A.csv,102,Item,Name,,深海迷影·星辰篇,Hải Vực Hiệu Triệu: Thiên Ngự
+Item_119159_Desc,bJxB,d道具_Item_A.csv,102,Item,Desc,,于你熟悉的世界中，定向到深海界域进行唤醒的原质捕获技术。 \n可从中选择1个「星辰篇」中的「深海」界域限定唤醒体免费唤醒。,"Là một lọ chứa linh thức nhưng được liên kết tới một không gian quen thuộc trong cõi Hải Vực để thức tỉnh. \nCó thể chọn 1 Thể Thức Tỉnh Giới Hạn cõi Hải Vực thuộc ""Thiên Ngự"". "
+Item_119158_Name,bJxA,d道具_Item_A.csv,103,Item,Name,,混沌回声·星辰篇,Hỗn Mang Hiệu Triệu
+Item_119158_Desc,bJxz,d道具_Item_A.csv,103,Item,Desc,,于你熟悉的世界中，定向到混沌界域进行唤醒的原质捕获技术。 \n可从中选择1个「星辰篇」中的「混沌」界域限定唤醒体免费唤醒。,"Là một lọ chứa linh thức nhưng được liên kết tới một không gian quen thuộc trong cõi Hỗn Mang để thức tỉnh. \nCó thể chọn 1 Thể Thức Tỉnh Giới Hạn cõi Hỗn Mang thuộc ""Thiên Ngự"". "
+Item_119156_Name,bJxw,d道具_Item_A.csv,104,Item,Name,,超维预言·星辰篇,Siêu Chiều Tiên Liệu: Thiên Ngự
+Item_119156_Desc,bJxv,d道具_Item_A.csv,104,Item,Desc,,记载了来自奇异维度的预言的神秘古籍。\n可从中选择1个「星辰篇」中的「超维」界域中的限定命轮免费获得。,"Là một bí thư ghi chép những lời tiên tri đến từ chiều không gian kỳ lạ. \nCó thể chọn miễn phí một Luân Mệnh giới hạn cõi Siêu Chiều thuộc ""Thiên Ngự""."
+Item_119153_Name,bJxq,d道具_Item_A.csv,105,Item,Name,,血肉密语·星辰篇,Huyết Nhục Tiên Liệu: Thiên Ngự
+Item_119153_Desc,bJxp,d道具_Item_A.csv,105,Item,Desc,,记载了书写于血肉皮肤的密语的神秘古籍。\n可从中选择1个「星辰篇」中的「血肉」界域中的限定命轮免费获得。,"Là một cổ thư huyền bí ghi chép lại những mật ngữ được khắc ghi trên làn da máu thịt .\nCó thể chọn miễn phí 1 Luân Mệnh giới hạn cõi Huyết Nhục thuộc ""Thiên Ngự""."
+Item_119154_Name,bJxs,d道具_Item_A.csv,106,Item,Name,,深海秘典·星辰篇,Hải Vực Tiên Liệu: Thiên Ngự
+Item_119154_Desc,bJxr,d道具_Item_A.csv,106,Item,Desc,,记载了深海中亘古流传的秘闻的神秘古籍。\n可从中选择1个「星辰篇」中的「深海」界域中的限定命轮免费获得。,"Là một cổ thư ghi chép lại những văn bản huyền bí được lưu truyền dưới đáy biển sâu.\nCó thể chọn miễn phí 1 Luân Mệnh giới hạn cõi Hải Vực thuộc ""Thiên Ngự""."
+Item_119149_Name,bJxi,d道具_Item_A.csv,107,Item,Name,,混沌实验·星辰篇,Hỗn Mang Tiên Liệu
+Item_119149_Desc,bJxh,d道具_Item_A.csv,107,Item,Desc,,记载了在混沌空间进行的绝密实验的神秘古籍。\n可从中选择1个「星辰篇」中的「混沌」界域中的限定命轮免费获得。,"Là một bí thư ghi chép về những thí nghiệm tuyệt mật được lưu lại trong không gian Hỗn Mang.\nCó thể chọn miễn phí 1 Luân Mệnh giới hạn cõi Hỗn Mang thuộc ""Thiên Ngự""."
+Item_9553_Name,aFQx,d道具_Item_A.csv,108,Item,Name,,遗失的振响,Âm Vang Thất Lạc
+Item_9553_Desc,aFQv,d道具_Item_A.csv,108,Item,Desc,,用于呼唤「环行·拉蒙娜」回头的道具，使用后可解锁「拉蒙娜」的本源形态。\n完成意识潜游「环行·拉蒙娜」普通模式后获取。\n\n你不会成为她新的梦魇，只因你不会离她而去。,"Dùng để gọi ""Ramona: Thời Quy"" quay lại. Sau khi sử dụng sẽ được hình thái Khởi Nguyên của Ramona.\nNhận được sau khi hoàn thành Viễn Chinh Huyễn Cảnh ""Một Bước Nữa Thôi"" ở chế độ thường.\nCô ấy sẽ không còn mơ thấy ác mộng về bạn nữa. Bởi vì giờ đây, ở bên cô ấy luôn có bạn."
+Item_25218_Name,aCXp,d道具_Item_A.csv,109,Item,Name,,原初灵核,Đá Căn Nguyên
+Item_25218_Desc,aCXn,d道具_Item_A.csv,109,Item,Desc,,它将改写世界的规则。不可直视，不可接触。\n产自弥萨格地底黑池的神秘灵核，能帮助唤醒体提升至难以想象的高度，唤醒体达到60级后可使用。,"Nó sẽ viết lại quy luật của thế giới. Tuyệt đối không được phép lại gần, kể cả nhìn trực tiếp.\nMột  lõi bí ẩn đến từ Hồ Đen ở dưới Mythag, với khả năng nâng cao cấp độ của Thể Thức Tỉnh tới mức cực hạn. Có thể sử dụng khi Thể Thức Tỉnh đạt cấp 60."
+Item_25219_Name,aCXt,d道具_Item_A.csv,110,Item,Name,,灵核碎片,Mảnh Căn Nguyên
+Item_25219_Desc,aCXr,d道具_Item_A.csv,110,Item,Desc,,它们散落在黑池中，渴望着神圣完整的伟大时刻。\n产自弥萨格地底的神秘碎片，能合成原初灵核。,"Chúng rơi rớt khắp nơi trong Hồ Đen, khao khát khoảnh khắc vĩ đại khi mà chúng được hoàn chỉnh.\nNhững mảnh vỡ huyền bí bên dưới lòng đất Mythag. Có thể dùng để Chế Tạo thành Căn Nguyên Thạch. "
+Item_69985_Name,aFip,d道具_Item_A.csv,111,Item,Name,,精粹原初灵核,Căn Nguyên Tinh Luyện
+Item_69985_Desc,aFin,d道具_Item_A.csv,111,Item,Desc,,穷极的门扉开启，带来更加接近原初的力量——无人不畏惧祂，无人不向往祂。\n产自弥萨格地底黑池的神秘灵核，受到门扉之后力量的精炼，更加接近原初的本质，能帮助唤醒体提升至难以想象的高度。,"Cánh Cổng mở ra. Mang nó đến gần hơn với sức mạnh nguyên thủy. Không ai sợ hãi Ngài, không ai không khao khát Ngài.\nMột lõi huyền bí từ Hồ Đên bên dưới Mythag, được tinh luyện bởi sức mạnh của Cánh Cửa. Với sức mạnh gần hơn với bản chất nguyên thủy này, nó sẽ giúp các Thể Thức Tỉnh cường hóa sức mạnh của bản thân tới cảnh giới tối thượng. "
+Item_69986_Name,aFit,d道具_Item_A.csv,112,Item,Name,,精粹灵核碎片,Mảnh Tinh Nguyên
+Item_69986_Desc,aFir,d道具_Item_A.csv,112,Item,Desc,,散落于黑池中的碎片，在穷极门扉的照耀中，等待着来自原初的力量诞临的时刻。\n产自弥萨格地底的神秘碎片，受到门扉之后力量的精炼，能合成精粹原初灵核。,"Những mảnh vụn rơi rớt bên trong Hồ Đen, chờ chực đến khoảnh khắc sức mạnh tuyệt đối ra đời đằng sau Cánh Cửa.\nLà mảnh vỡ của căn nguyên huyền bí dưới lòng đất Mythag sau khi được tinh luyện bởi sức mạnh đằng sau Cánh Cửa. Dùng để Chế Tạo Căn Nguyên Tinh Luyện."
+Item_74093_Name,aFzx,d道具_Item_A.csv,113,Item,Name,,碎裂余梦,Mảnh Mộng Lưu
+Item_74093_Desc,aFzv,d道具_Item_A.csv,113,Item,Desc,,遥远群星于闪烁时留下的破碎梦境。感知其中的灵性，便能窥见肉眼无法观测的未来。,"Những ngôi sao xa xôi vụt qua, để lại những giấc mơ vỡ vụn. Nhờ cảm nhận linh trí ở trong đó, ta có thể thấy được tương lai mắt thường không thể nhìn được. "
+Item_74143_Name,aFzB,d道具_Item_A.csv,114,Item,Name,,群星余梦,Đá Mộng Lưu
+Item_74143_Desc,aFzz,d道具_Item_A.csv,114,Item,Desc,,遥远群星于闪烁时留下的完整梦境。那些亘古的灵性，昭示着命定的未来——群星即将正位。,Một giấc mơ hoàn chỉnh để lại bởi những ngôi sao xa lấp lánh. Các linh hồn cổ xưa ở bên trong đã đưa ra lời tiên liệu bất thay đổi: Những vì sao chuẩn bị thẳng hàng. 
+Item_36863_Name,aDaZ,d道具_Item_A.csv,116,Item,Name,,现实起点,Nguyên Điểm Thời Gian
+Item_36863_Desc,aDaX,d道具_Item_A.csv,116,Item,Desc,,触摸它，然后投身一场新的冒险；\n拥抱它，然后沉入最荒诞的梦境。\n保存未提纯银芯的新装置，用于解锁特遣纪录和意识潜游。,"Một thiết bị đặc biệt được thiết kế từ vật liệu kỳ lạ, dùng để đặt lại toàn bộ nâng cấp của Thể Thức Tỉnh và Luân Mệnh.\n Nó sẽ rửa sạch những vết nhơ trong tâm trí, những vết sẹo trong tâm hồn, trả lại mọi thứ về điểm khởi đầu. \nDùng để mở chức năng đặt lại cho Thể Thức Tỉnh hoặc Luân Mệnh."
+Item_44809_Name,aDiZ,d道具_Item_A.csv,117,Item,Name,,代理凭证,Ranh Giới Thực Tại
+Item_44809_Desc,aDiX,d道具_Item_A.csv,117,Item,Desc,,外勤期间，可申请每日试训代理计划。\n出示代理凭证便可直接领取每日试训奖励。\n注意，请勿长期缺席试炼，以免遗忘战斗技巧。,"Chạm vào nó, ta bước lên một chuyến phiêu lưu kì thú. Ôm lấy nó, ta chìm vào những giấc mơ không tưởng. \nThiết bị dùng để bảo quản bạc thô sơ. Dùng để mở khóa các màn Thâm Nhập Tiềm Thức hoặc Nhiệm Vụ Đặc Biệt."
+Item_9594_Name,aFTx,d道具_Item_A.csv,840,Item,Name,,千面印章,Dấu Ấn Vạn Diện
+Item_9594_Desc,aFTv,d道具_Item_A.csv,840,Item,Desc,,符号、文字、记忆……它将篡改一切。\n用于转录密契。转录后密契会随机生成新的副属性。,"Bất kể là những biểu tượng, dòng chữ hay ký ức,… nó sẽ thay đổi tất cả. \nDùng cho việc nâng cấp Khế Ước và Hoàn Ký. Khế Ước khi được nâng cấp sẽ tăng thuộc tính chính. Khi Hoàn Ký sẽ nhận được ngẫu nhiên thuộc tính phụ với cấp độ khác nhau."
+Item_34706_Name,aCYd,d道具_Item_A.csv,185,Item,Name,,灵魂回溯之芯,Lõi Thức Tỉnh
+Item_34706_Desc,aCYb,d道具_Item_A.csv,185,Item,Desc,,与灵魂共鸣之物。用于唤醒特定唤醒体。\n或许是它的形状，或许是它的材质本身——这个冰冷之物能够穿透帷幕，将沉睡的精神拉入现实之中。\n使用时可从中选择1个「界域研习」、往期角色活动唤醒和当期角色活动唤醒中的唤醒体。,"Là một vật phẩm cộng hưởng với linh hồn.\n Có thể là nhờ hình dạng, cũng có thể là nhờ chất liệu mà chính vật thể lạnh lẽo này có thể phóng qua tấm màn đang ngủ say của Thể Thức Tỉnh, rồi kéo linh thức đó về với thực tại. \n Khi sử dụng, có thể chọn 1 Thể Thức Tỉnh bất kì thuộc ""Nghiên Cứu Giới Vực"", các sự kiện Thể Thức Tỉnh giới hạn cũ và sự kiện Thể Thức Tỉnh đang diễn ra."
+Item_34699_Name,aCXB,d道具_Item_A.csv,186,Item,Name,,命途回溯之芯,Lõi Luân Mệnh
+Item_34699_Desc,aCXz,d道具_Item_A.csv,186,Item,Desc,,可以窥见命运碎片的螺旋视窗。用于兑换命轮。\n黄金、稀土、银芯……与期望的命运相比，再昂贵的材料也变得微不足道。\n使用时可从中选择1个「轮转之相」、往期命轮活动唤醒和当期命轮活动唤醒中的SSR命轮。,"Một chiếc cửa sổ xoắn ốc mở ra những mảnh vụn của định mệnh.\n Vàng, Bạc, đất hiếm,... chúng bỗng trở nên chẳng có giá trị gì khi so với hoài bão của bánh xe định mệnh. \n Khi sử dụng, có thể chọn 1 Luân Mệnh SSR bất kì trong ""Luân Chuyển Dòng Mệnh"", các sự kiện Luân Mệnh SSR giới hạn cũ và sự kiện Luân Mệnh SSR đang diễn ra."
+Item_67377_Name,aEWp,d道具_Item_A.csv,193,Item,Name,,无形者的礼券,Thẻ Quà Tặng Vô Dạng
+Item_67377_Desc,aEWn,d道具_Item_A.csv,193,Item,Desc,,对于守密人来说，无论是身份标识、抑或是银芯通讯中表达情绪的造像，都与精神力同样重要——无形者如是说道。\n收集一定数量后使用，可随机获得一个专属的头像、对战表情，或往期课题纪录和相位对弈赛季的头像、对战表情。,"Đối với Người Giữ Khóa, bất kể là những dấu ấn định danh hay là những biểu tượng cảm xúc thể hiện qua Liên Lạc Lõi Bạc đều quan trọng như sức khỏe tinh thần, Kẻ Vô Dạng đã nói thế.\n Sau khi thu thập đủ một số lượng nhất định, có thể sử dụng để nhận ngẫu nhiên một Ảnh Đại Diện giới hạn, Biểu Cảm Đối Kháng hiện tại và từ những mùa Nhật Ký, Đối Kháng cũ."
+Item_67378_Name,aEWt,d道具_Item_A.csv,194,Item,Name,,无形者的请柬,Lời Mời Từ Kẻ Vô Dạng
+Item_67378_Desc,aEWr,d道具_Item_A.csv,194,Item,Desc,,狡黠，善变。你向无形者证明了你的价值。很快，祂将向你发来邀请，邀请你一同成为世间万物的化身，无影无质的终极。\n收集一定数量后使用，可选择一个「无形者的礼券」中的未获得的头像或对战表情。,"Khó đoán, xảo quyệt. Bản đã chứng minh được bản thân với Kẻ Vô Dạng. Sớm thôi, Ngài sẽ gửi cho bạn một lời mời để cùng hóa thân thành muôn vàn vật thể thế gian, và rồi hòa mình vào hư không quên lãng. \nSau khi thu thập một số lượng nhất định, bạn có thể sử dụng để chọn một trong các Ảnh Đại Diện hoặc Biểu Cảm chưa nhận được trong Thẻ Quà Tặng Vô Dạng."
+Item_91157_Name,bymG,d道具_Item_A.csv,197,Item,Name,,银钥辉光,Đốm Sáng Từ Chìa Khóa Bạc
+Item_91157_Desc,bymF,d道具_Item_A.csv,197,Item,Desc,,胸前的银钥匙忽然亮起，似乎在与这个宇宙之外的某处遥相呼应，你知道这是两个灵魂共鸣的证明。,"Chiếc Chìa Khóa Bạc trên ngực bạn bỗng rực sáng, dường như đang đáp lại từ một nơi nào đó bên ngoài vũ trụ. Bên biết rằng đây là minh chứng cho hai linh hồn cộng hưởng với nhau."
+Item_23731_Name,aCSR,d道具_Item_A.csv,1641,Item,Name,,经验,EXP
+Item_23731_Desc,aCSP,d道具_Item_A.csv,1641,Item,Desc,,通过「幻梦深潜」和「相位对弈」可以获取守密人经验，每日通过该途径最多可以获取{s1}点，今日已获取{s2}点。,"Nhận được thông qua ""Thám Hiểm Huyễn Cảnh"" và ""Đối Kháng"". Mỗi ngày, bạn có thể nhận tối đa {s1} EXP thông qua cách này, hôm nay đã nhận được {s2} EXP."
+Item_66386_Name,aERR,d道具_Item_A.csv,1642,Item,Name,,同调率,Độ Hảo Cảm
+Item_66386_Desc,aERP,d道具_Item_A.csv,1642,Item,Desc,,你们将彼此信任。\n守密人与唤醒体的精神同调程度。可以解锁更多唤醒体的档案故事。,Bạn sẽ tin tưởng lẫn nhau. \nĐộ Hảo Cảm giữa Người Giữ Khóa và Thể Thức Tỉnh sẽ mở khóa thêm nhiều phần trong hồ sơ và những câu chuyện.
+Item_54581_Name,aDXp,d道具_Item_A.csv,1643,Item,Name,,至高礼赞·Ⅰ,Ân Điển Tối Cao Ⅰ
+Item_54581_Desc,aDXn,d道具_Item_A.csv,1643,Item,Desc,,获得守密人经验时，额外获得10%的守密人经验。多个效果时取最高值，不可叠加。\n\n据《源液的精神影响报告》，参与源液提取工作的个体，会在工作结束后表现出一定程度的精力、智力等方面的加强。提取时间越长，提取的源液量越多，效果越明显。\n即使只是逸散的颗粒，源液蕴含的力量依旧不容小觑。,"Nhận thêm 10% EXP. Nếu có trùng hiệu ứng, sẽ tính giá trị cao nhất. Không cộng dồn.\nCác nghiên cứu cho thấy những cá nhân tham gia việc trích xuất Bạc Tinh Chất sẽ thể hiện năng lực tăng cường về hiệu suất làm việc và trí tuệ. Thời gian trích xuất, lượng Bạc Tinh Chất được tạo ra sẽ là yếu tố quan trọng nhất.\nNgay cả khi chỉ là những hạt vụn, sức mạnh chứa đựng trong Bạc Tinh Chất vẫn vô cùng đáng gờm."
+Item_54578_Name,aDXd,d道具_Item_A.csv,1644,Item,Name,,至高礼赞·Ⅱ,Ân Điển Tối Cao  Ⅱ
+Item_54578_Desc,aDXb,d道具_Item_A.csv,1644,Item,Desc,,获得守密人经验时，额外获得20%的守密人经验。多个效果时取最高值，不可叠加。\n\n据《源液的精神影响报告》，参与源液提取工作的个体，会在工作结束后表现出一定程度的精力、智力等方面的加强。提取时间越长，提取的源液量越多，效果越明显。\n即使只是逸散的颗粒，源液蕴含的力量依旧不容小觑。,"Nhận thêm 20% EXP. Nếu có trùng hiệu ứng, sẽ tính giá trị cao nhất. Không cộng dồn.\nCác nghiên cứu cho thấy những cá nhân tham gia việc trích xuất Bạc Tinh Chất sẽ thể hiện năng lực tăng cường về hiệu suất làm việc và trí tuệ. Thời gian trích xuất, lượng Bạc Tinh Chất được tạo ra sẽ là yếu tố quan trọng nhất.\nNgay cả khi chỉ là những hạt vụn, sức mạnh chứa đựng trong Bạc Tinh Chất vẫn vô cùng đáng gờm."
+Item_54580_Name,aDXl,d道具_Item_A.csv,1645,Item,Name,,至高礼赞·Ⅲ,Ân Điển Tối Cao Ⅲ
+Item_54580_Desc,aDXj,d道具_Item_A.csv,1645,Item,Desc,,获得守密人经验时，额外获得30%的守密人经验。多个效果时取最高值，不可叠加。\n\n据《源液的精神影响报告》，参与源液提取工作的个体，会在工作结束后表现出一定程度的精力、智力等方面的加强。提取时间越长，提取的源液量越多，效果越明显。\n即使只是逸散的颗粒，源液蕴含的力量依旧不容小觑。,"Nhận thêm 30% EXP. Nếu có trùng hiệu ứng, sẽ tính giá trị cao nhất. Không cộng dồn.\nCác nghiên cứu cho thấy những cá nhân tham gia việc trích xuất Bạc Tinh Chất sẽ thể hiện năng lực tăng cường về hiệu suất làm việc và trí tuệ. Thời gian trích xuất, lượng Bạc Tinh Chất được tạo ra sẽ là yếu tố quan trọng nhất.\nNgay cả khi chỉ là những hạt vụn, sức mạnh chứa đựng trong Bạc Tinh Chất vẫn vô cùng đáng gờm."
+Item_54594_Name,aDXF,d道具_Item_A.csv,1646,Item,Name,,至高礼赞·Ⅳ,Ân Điển Tối Cao Ⅳ
+Item_54594_Desc,aDXD,d道具_Item_A.csv,1646,Item,Desc,,获得守密人经验时，额外获得45%的守密人经验。多个效果时取最高值，不可叠加。\n\n据《源液的精神影响报告》，参与源液提取工作的个体，会在工作结束后表现出一定程度的精力、智力等方面的加强。提取时间越长，提取的源液量越多，效果越明显。\n即使只是逸散的颗粒，源液蕴含的力量依旧不容小觑。,"Nhận thêm 45% EXP. Nếu có trùng hiệu ứng, sẽ tính giá trị cao nhất. Không cộng dồn.\nCác nghiên cứu cho thấy những cá nhân tham gia việc trích xuất Bạc Tinh Chất sẽ thể hiện năng lực tăng cường về hiệu suất làm việc và trí tuệ. Thời gian trích xuất, lượng Bạc Tinh Chất được tạo ra sẽ là yếu tố quan trọng nhất.\nNgay cả khi chỉ là những hạt vụn, sức mạnh chứa đựng trong Bạc Tinh Chất vẫn vô cùng đáng gờm."
+Item_54595_Name,aDXJ,d道具_Item_A.csv,1647,Item,Name,,至高礼赞·Ⅴ,Ân Điển Tối Cao Ⅴ
+Item_54595_Desc,aDXH,d道具_Item_A.csv,1647,Item,Desc,,获得守密人经验时，额外获得60%的守密人经验。多个效果时取最高值，不可叠加。\n\n据《源液的精神影响报告》，参与源液提取工作的个体，会在工作结束后表现出一定程度的精力、智力等方面的加强。提取时间越长，提取的源液量越多，效果越明显。\n即使只是逸散的颗粒，源液蕴含的力量依旧不容小觑。,"Nhận thêm 60% EXP. Nếu có trùng hiệu ứng, sẽ tính giá trị cao nhất. Không cộng dồn.\nCác nghiên cứu cho thấy những cá nhân tham gia việc trích xuất Bạc Tinh Chất sẽ thể hiện năng lực tăng cường về hiệu suất làm việc và trí tuệ. Thời gian trích xuất, lượng Bạc Tinh Chất được tạo ra sẽ là yếu tố quan trọng nhất.\nNgay cả khi chỉ là những hạt vụn, sức mạnh chứa đựng trong Bạc Tinh Chất vẫn vô cùng đáng gờm."
+Item_54592_Name,aDXx,d道具_Item_A.csv,1648,Item,Name,,至高礼赞·Ⅵ,Ân Điển Tối Cao Ⅵ
+Item_54592_Desc,aDXv,d道具_Item_A.csv,1648,Item,Desc,,获得守密人经验时，额外获得75%的守密人经验。多个效果时取最高值，不可叠加。\n\n据《源液的精神影响报告》，参与源液提取工作的个体，会在工作结束后表现出一定程度的精力、智力等方面的加强。提取时间越长，提取的源液量越多，效果越明显。\n即使只是逸散的颗粒，源液蕴含的力量依旧不容小觑。,"Nhận thêm 75% EXP. Nếu có trùng hiệu ứng, sẽ tính giá trị cao nhất. Không cộng dồn.\nCác nghiên cứu cho thấy những cá nhân tham gia việc trích xuất Bạc Tinh Chất sẽ thể hiện năng lực tăng cường về hiệu suất làm việc và trí tuệ. Thời gian trích xuất, lượng Bạc Tinh Chất được tạo ra sẽ là yếu tố quan trọng nhất.\nNgay cả khi chỉ là những hạt vụn, sức mạnh chứa đựng trong Bạc Tinh Chất vẫn vô cùng đáng gờm."
+Item_54593_Name,aDXB,d道具_Item_A.csv,1649,Item,Name,,至高礼赞·Ⅶ,Ân Điển Tối Cao Ⅶ
+Item_54593_Desc,aDXz,d道具_Item_A.csv,1649,Item,Desc,,获得守密人经验时，额外获得100%的守密人经验。多个效果时取最高值，不可叠加。\n\n据《源液的精神影响报告》，参与源液提取工作的个体，会在工作结束后表现出一定程度的精力、智力等方面的加强。提取时间越长，提取的源液量越多，效果越明显。\n即使只是逸散的颗粒，源液蕴含的力量依旧不容小觑。,"Nhận thêm 100% EXP. Nếu có trùng hiệu ứng, sẽ tính giá trị cao nhất. Không cộng dồn.\nCác nghiên cứu cho thấy những cá nhân tham gia việc trích xuất Bạc Tinh Chất sẽ thể hiện năng lực tăng cường về hiệu suất làm việc và trí tuệ. Thời gian trích xuất, lượng Bạc Tinh Chất được tạo ra sẽ là yếu tố quan trọng nhất.\nNgay cả khi chỉ là những hạt vụn, sức mạnh chứa đựng trong Bạc Tinh Chất vẫn vô cùng đáng gờm."
+Item_9903_Name,aGpZ,d道具_Item_A.csv,730,Item,Name,,纯白残片,Mảnh Giấy Trắng
+Item_9903_Desc,aGpX,d道具_Item_A.csv,730,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的残页，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Trang giấy này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9544_Name,aFPR,d道具_Item_A.csv,731,Item,Name,,纯白残片,Mảnh Giấy Trắng
+Item_9544_Desc,aFPP,d道具_Item_A.csv,731,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的残页，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Trang giấy này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9805_Name,aGjl,d道具_Item_A.csv,732,Item,Name,,纯白文书,Tập Giấy Trắng
+Item_9805_Desc,aGjj,d道具_Item_A.csv,732,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的文书，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Tập giấy này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9649_Name,aFXB,d道具_Item_A.csv,733,Item,Name,,纯白残片,Mảnh Giấy Trắng
+Item_9649_Desc,aFXz,d道具_Item_A.csv,733,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的残页，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Trang giấy này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9593_Name,aFTt,d道具_Item_A.csv,734,Item,Name,,纯白文书,Tập Giấy Trắng
+Item_9593_Desc,aFTr,d道具_Item_A.csv,734,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的文书，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Tập giấy này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9613_Name,aFUV,d道具_Item_A.csv,735,Item,Name,,纯白残片,Mảnh Giấy Trắng
+Item_9613_Desc,aFUT,d道具_Item_A.csv,735,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的残页，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Trang giấy này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9560_Name,aFQZ,d道具_Item_A.csv,736,Item,Name,,纯白文书,Tập Giấy Trắng
+Item_9560_Desc,aFQX,d道具_Item_A.csv,736,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的文书，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Tập giấy này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9949_Name,aGth,d道具_Item_A.csv,737,Item,Name,,纯白残片,Mảnh Giấy Trắng
+Item_9949_Desc,aGtf,d道具_Item_A.csv,737,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的残页，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Trang giấy này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9698_Name,aGbl,d道具_Item_A.csv,738,Item,Name,,纯白文书,Tập Giấy Trắng
+Item_9698_Desc,aGbj,d道具_Item_A.csv,738,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的文书，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Tập giấy này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9668_Name,aFYZ,d道具_Item_A.csv,739,Item,Name,,纯白秘篇,Bí Thư Trắng
+Item_9668_Desc,aFYX,d道具_Item_A.csv,739,Item,Desc,,历史会重演，宇宙可能除外。\n记载了神秘文字的秘篇，用以升格混沌界域唤醒体的材料。,"Lịch sử có thể lặp lại, nhưng có lẽ vũ trụ không hề hoạt động như thế.\n Bí thư này được ghi lại bằng ngôn ngữ huyền bí, dùng làm vật liệu để Đánh Thức Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9510_Name,aFNl,d道具_Item_A.csv,740,Item,Name,,淬制本能,Bản Năng Tinh Luyện
+Item_9510_Desc,aFNj,d道具_Item_A.csv,740,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_9935_Name,aGsp,d道具_Item_A.csv,741,Item,Name,,淬制本能,Bản Năng Tinh Luyện
+Item_9935_Desc,aGsn,d道具_Item_A.csv,741,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_10084_Name,aCOR,d道具_Item_A.csv,742,Item,Name,,淬制理智,Lý Trí Tinh Luyện
+Item_10084_Desc,aCOP,d道具_Item_A.csv,742,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_9527_Name,aFOB,d道具_Item_A.csv,743,Item,Name,,淬制本能,Bản Năng Tinh Luyện
+Item_9527_Desc,aFOz,d道具_Item_A.csv,743,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_9622_Name,aFVB,d道具_Item_A.csv,744,Item,Name,,淬制理智,Lý Trí Tinh Luyện
+Item_9622_Desc,aFVz,d道具_Item_A.csv,744,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_9866_Name,aGnx,d道具_Item_A.csv,745,Item,Name,,淬制本能,Bản Năng Tinh Luyện
+Item_9866_Desc,aGnv,d道具_Item_A.csv,745,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_9639_Name,aFWN,d道具_Item_A.csv,746,Item,Name,,淬制理智,Lý Trí Tinh Luyện
+Item_9639_Desc,aFWL,d道具_Item_A.csv,746,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_10002_Name,aCJd,d道具_Item_A.csv,747,Item,Name,,淬制本能,Bản Năng Tinh Luyện
+Item_10002_Desc,aCJb,d道具_Item_A.csv,747,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_9823_Name,aGkp,d道具_Item_A.csv,748,Item,Name,,淬制理智,Lý Trí Tinh Luyện
+Item_9823_Desc,aGkn,d道具_Item_A.csv,748,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_9555_Name,aFQF,d道具_Item_A.csv,749,Item,Name,,淬制心灵,Linh Trí Tinh Luyện
+Item_9555_Desc,aFQD,d道具_Item_A.csv,749,Item,Desc,,是的，万物皆可淬制。你的本能、你的理智，甚至你的心……到头来你会发现，你和他们其实也没什么不同。\n用以升格深海界域唤醒体的材料。,"Vâng, mọi thứ đều có thể được tinh luyện. \n Bản năng của bạn, lý trí của bạn, thậm chí là linh hồn của bạn… \n Cuối cùng bạn sẽ nhận ra, bạn và họ thực ra cũng không khác gì nhau. \n Vật liệu dùng để Đánh Thức Thể Thức Tỉnh trong cõi Hải Vực."
+Item_9559_Name,aFQV,d道具_Item_A.csv,751,Item,Name,,记忆副本,Bản Sao Ký Ức
+Item_9559_Desc,aFQT,d道具_Item_A.csv,751,Item,Desc,,为了人类存续。\n被保存在画框里的记忆。用以升格血肉界域唤醒体的材料。,Để duy trì và bảo vệ cho sự tồn vong của loài người. \n Ký Ức được bảo tồn trong một chiếc khung. Dùng làm nguyên liệu Đánh Thức cho Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9800_Name,aGiV,d道具_Item_A.csv,752,Item,Name,,情感副本,Bản Sao Cảm Xúc
+Item_9800_Desc,aGiT,d道具_Item_A.csv,752,Item,Desc,,为了人类存续。\n被保存在画框里的情感。用以升格血肉界域唤醒体的材料。,Để duy trì và bảo vệ cho sự tồn vong của loài người. \n Cảm xúc được bảo tồn trong một chiếc khung. Dùng làm nguyên liệu Đánh Thức cho Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9508_Name,aFNd,d道具_Item_A.csv,753,Item,Name,,记忆副本,Bản Sao Ký Ức
+Item_9508_Desc,aFNb,d道具_Item_A.csv,753,Item,Desc,,为了人类存续。\n被保存在画框里的记忆。用以升格血肉界域唤醒体的材料。,Để duy trì và bảo vệ cho sự tồn vong của loài người. \n Ký Ức được bảo tồn trong một chiếc khung. Dùng làm nguyên liệu Đánh Thức cho Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9592_Name,aFTp,d道具_Item_A.csv,754,Item,Name,,情感副本,Bản Sao Cảm Xúc
+Item_9592_Desc,aFTn,d道具_Item_A.csv,754,Item,Desc,,为了人类存续。\n被保存在画框里的情感。用以升格血肉界域唤醒体的材料。,Để duy trì và bảo vệ cho sự tồn vong của loài người. \n Cảm xúc được bảo tồn trong một chiếc khung. Dùng làm nguyên liệu Đánh Thức cho Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9729_Name,aGdB,d道具_Item_A.csv,755,Item,Name,,记忆副本,Bản Sao Ký Ức
+Item_9729_Desc,aGdz,d道具_Item_A.csv,755,Item,Desc,,为了人类存续。\n被保存在画框里的记忆。用以升格血肉界域唤醒体的材料。,Để duy trì và bảo vệ cho sự tồn vong của loài người. \n Ký Ức được bảo tồn trong một chiếc khung. Dùng làm nguyên liệu Đánh Thức cho Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9910_Name,aGqB,d道具_Item_A.csv,756,Item,Name,,情感副本,Bản Sao Cảm Xúc
+Item_9910_Desc,aGqz,d道具_Item_A.csv,756,Item,Desc,,为了人类存续。\n被保存在画框里的情感。用以升格血肉界域唤醒体的材料。,Để duy trì và bảo vệ cho sự tồn vong của loài người. \n Cảm xúc được bảo tồn trong một chiếc khung. Dùng làm nguyên liệu Đánh Thức cho Thể Thức Tỉnh cõi Huyết Nhục.
+Item_10095_Name,aCPJ,d道具_Item_A.csv,757,Item,Name,,记忆副本,Bản Sao Ký Ức
+Item_10095_Desc,aCPH,d道具_Item_A.csv,757,Item,Desc,,为了人类存续。\n被保存在画框里的记忆。用以升格血肉界域唤醒体的材料。,Để duy trì và bảo vệ cho sự tồn vong của loài người. \n Ký Ức được bảo tồn trong một chiếc khung. Dùng làm nguyên liệu Đánh Thức cho Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9946_Name,aGsV,d道具_Item_A.csv,758,Item,Name,,情感副本,Bản Sao Cảm Xúc
+Item_9946_Desc,aGsT,d道具_Item_A.csv,758,Item,Desc,,为了人类存续。\n被保存在画框里的情感。用以升格血肉界域唤醒体的材料。,Để duy trì và bảo vệ cho sự tồn vong của loài người. \n Cảm xúc được bảo tồn trong một chiếc khung. Dùng làm nguyên liệu Đánh Thức cho Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9669_Name,aFZd,d道具_Item_A.csv,759,Item,Name,,意识副本,Bản Sao Ý Thức
+Item_9669_Desc,aFZb,d道具_Item_A.csv,759,Item,Desc,,为了人类存续。\n被保存在画框里的意识。用以升格血肉界域唤醒体的材料。,Để duy trì và bảo vệ cho sự tồn vong của loài người. \n Ý Thức được bảo tồn trong một chiếc khung. Dùng làm nguyên liệu Đánh Thức cho Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9798_Name,aGiN,d道具_Item_A.csv,760,Item,Name,,认知模板,Mô Hình Nhận Thức
+Item_9798_Desc,aGiL,d道具_Item_A.csv,760,Item,Desc,,给予我们未可知晓的认知。\n源自菲林诗社的特殊胶片，能转写人的认知。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi nhận thức về những điều chưa thể biết. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại nhận thức của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9928_Name,aGrR,d道具_Item_A.csv,761,Item,Name,,认知模板,Mô Hình Nhận Thức
+Item_9928_Desc,aGrP,d道具_Item_A.csv,761,Item,Desc,,给予我们未可知晓的认知。\n源自菲林诗社的特殊胶片，能转写人的认知。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi nhận thức về những điều chưa thể biết. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại nhận thức của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9838_Name,aGlp,d道具_Item_A.csv,762,Item,Name,,精神模板,Mô Hình Tinh Thần
+Item_9838_Desc,aGln,d道具_Item_A.csv,762,Item,Desc,,给予我们未可知晓的精神。\n源自菲林诗社的特殊胶片，能转写人的精神。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi tinh thần mà chưa thể thấu. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại tinh thần của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_10096_Name,aCPN,d道具_Item_A.csv,763,Item,Name,,认知模板,Mô Hình Nhận Thức
+Item_10096_Desc,aCPL,d道具_Item_A.csv,763,Item,Desc,,给予我们未可知晓的认知。\n源自菲林诗社的特殊胶片，能转写人的认知。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi nhận thức về những điều chưa thể biết. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại nhận thức của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9632_Name,aFWp,d道具_Item_A.csv,764,Item,Name,,精神模板,Mô Hình Tinh Thần
+Item_9632_Desc,aFWn,d道具_Item_A.csv,764,Item,Desc,,给予我们未可知晓的精神。\n源自菲林诗社的特殊胶片，能转写人的精神。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi tinh thần mà chưa thể thấu. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại tinh thần của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9890_Name,aGpl,d道具_Item_A.csv,765,Item,Name,,认知模板,Mô Hình Nhận Thức
+Item_9890_Desc,aGpj,d道具_Item_A.csv,765,Item,Desc,,给予我们未可知晓的认知。\n源自菲林诗社的特殊胶片，能转写人的认知。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi nhận thức về những điều chưa thể biết. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại nhận thức của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9707_Name,aGbV,d道具_Item_A.csv,766,Item,Name,,精神模板,Mô Hình Tinh Thần
+Item_9707_Desc,aGbT,d道具_Item_A.csv,766,Item,Desc,,给予我们未可知晓的精神。\n源自菲林诗社的特殊胶片，能转写人的精神。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi tinh thần mà chưa thể thấu. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại tinh thần của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9701_Name,aGbx,d道具_Item_A.csv,767,Item,Name,,认知模板,Mô Hình Nhận Thức
+Item_9701_Desc,aGbv,d道具_Item_A.csv,767,Item,Desc,,给予我们未可知晓的认知。\n源自菲林诗社的特殊胶片，能转写人的认知。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi nhận thức về những điều chưa thể biết. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại nhận thức của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9604_Name,aFUl,d道具_Item_A.csv,768,Item,Name,,精神模板,Mô Hình Tinh Thần
+Item_9604_Desc,aFUj,d道具_Item_A.csv,768,Item,Desc,,给予我们未可知晓的精神。\n源自菲林诗社的特殊胶片，能转写人的精神。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi tinh thần mà chưa thể thấu. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại tinh thần của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9563_Name,aFRl,d道具_Item_A.csv,769,Item,Name,,灵知模板,Mô Hình Linh Tri Thức
+Item_9563_Desc,aFRj,d道具_Item_A.csv,769,Item,Desc,,给予我们未可知晓的灵知。\n源自菲林诗社的特殊胶片，能转写人的灵知。\n用以升格超维界域唤醒体的材料。,"Ban cho chúng tôi linh hồn vô hình, tri thức vô biên. \n Đến từ cuộn phim đặc biệt của Hội thơ Felin, có thể ghi lại cội nguồn của con người. \n Dùng để Đánh Thức Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9770_Name,aGgF,d道具_Item_A.csv,770,Item,Name,,失色晶蝶,Bướm Pha Lê Đục
+Item_9770_Desc,aGgD,d道具_Item_A.csv,770,Item,Desc,,它并非工艺品，而是蝴蝶撞上炼金术师后的悲惨结局。\n平凡的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Tưởng chừng là một tác phẩm nghệ thuật, nào ngờ nó chỉ là một kết cục bi thương khi con bướm ấy va phải những quá trình luyện kim.\n Cánh bướm pha lê bình thường. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hỗn Mang"
+Item_9717_Name,aGcJ,d道具_Item_A.csv,771,Item,Name,,失色晶蝶,Bướm Pha Lê Đục
+Item_9717_Desc,aGcH,d道具_Item_A.csv,771,Item,Desc,,它并非工艺品，而是蝴蝶撞上炼金术师后的悲惨结局。\n平凡的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Tưởng chừng là một tác phẩm nghệ thuật, nào ngờ nó chỉ là một kết cục bi thương khi con bướm ấy va phải những quá trình luyện kim.\n Cánh bướm pha lê bình thường. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hỗn Mang"
+Item_9551_Name,aFQp,d道具_Item_A.csv,772,Item,Name,,闪耀晶蝶,Bướm Pha Lê Sáng
+Item_9551_Desc,aFQn,d道具_Item_A.csv,772,Item,Desc,,翅膀只负责提供美丽，价值五片什。\n闪耀的水晶蝴蝶。身体大部分已被结晶化。\n用于提升混沌界域唤醒体的技能等级。,"Đôi cánh ấy giờ chẳng còn giá trị gì, có lẽ là hơn năm đồng… gì đó.\n Cánh bướm pha lê lấp lánh. Phần lớn thân thể đã bị kết tinh hóa. \n Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hỗn Mang"
+Item_9541_Name,aFPF,d道具_Item_A.csv,773,Item,Name,,失色晶蝶,Bướm Pha Lê Đục
+Item_9541_Desc,aFPD,d道具_Item_A.csv,773,Item,Desc,,它并非工艺品，而是蝴蝶撞上炼金术师后的悲惨结局。\n平凡的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Tưởng chừng là một tác phẩm nghệ thuật, nào ngờ nó chỉ là một kết cục bi thương khi con bướm ấy va phải những quá trình luyện kim.\n Cánh bướm pha lê bình thường. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hỗn Mang"
+Item_9919_Name,aGrh,d道具_Item_A.csv,774,Item,Name,,闪耀晶蝶,Bướm Pha Lê Sáng
+Item_9919_Desc,aGrf,d道具_Item_A.csv,774,Item,Desc,,翅膀只负责提供美丽，价值五片什。\n闪耀的水晶蝴蝶。身体大部分已被结晶化。\n用于提升混沌界域唤醒体的技能等级。,"Đôi cánh ấy giờ chẳng còn giá trị gì, có lẽ là hơn năm đồng… gì đó.\n Cánh bướm pha lê lấp lánh. Phần lớn thân thể đã bị kết tinh hóa. \n Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hỗn Mang"
+Item_9633_Name,aFWt,d道具_Item_A.csv,775,Item,Name,,失色晶蝶,Bướm Pha Lê Đục
+Item_9633_Desc,aFWr,d道具_Item_A.csv,775,Item,Desc,,它并非工艺品，而是蝴蝶撞上炼金术师后的悲惨结局。\n平凡的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Tưởng chừng là một tác phẩm nghệ thuật, nào ngờ nó chỉ là một kết cục bi thương khi con bướm ấy va phải những quá trình luyện kim.\n Cánh bướm pha lê bình thường. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hỗn Mang"
+Item_9775_Name,aGgZ,d道具_Item_A.csv,776,Item,Name,,闪耀晶蝶,Bướm Pha Lê Sáng
+Item_9775_Desc,aGgX,d道具_Item_A.csv,776,Item,Desc,,翅膀只负责提供美丽，价值五片什。\n闪耀的水晶蝴蝶。身体大部分已被结晶化。\n用于提升混沌界域唤醒体的技能等级。,"Đôi cánh ấy giờ chẳng còn giá trị gì, có lẽ là hơn năm đồng… gì đó.\n Cánh bướm pha lê lấp lánh. Phần lớn thân thể đã bị kết tinh hóa. \n Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hỗn Mang"
+Item_34911_Name,aCYJ,d道具_Item_A.csv,777,Item,Name,,混沌结晶,Đàn Bướm Hỗn Mang
+Item_34911_Desc,aCYH,d道具_Item_A.csv,777,Item,Desc,,扇动的翅膀有助于产生龙卷风，或是花粉过敏。\n成群的水晶蝴蝶。用于提升混沌界域唤醒体的技能等级。,"Chỉ là một đôi cánh, nhưng khi vỗ có thể hô biến ra lốc xoáy càn quét, thảm họa vô biên, hoặc chỉ là dị ứng phấn hoa. \nLà một bầy bướm pha lê bí ẩn. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hỗn Mang."
+Item_9950_Name,aGtl,d道具_Item_A.csv,781,Item,Name,,低茎海百合,Huệ Biển Lùn
+Item_9950_Desc,aGtj,d道具_Item_A.csv,781,Item,Desc,,花语：离我远点。\n低茎海百合的化石。用于提升深海界域唤醒体的技能等级。,"Ở Ngôn ngữ của loài hoa, chúng có nghĩa rằng: Hãy tránh xa tôi. \n Là hóa thạch của hoa huệ biển thấp. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực."
+Item_9927_Name,aGrN,d道具_Item_A.csv,782,Item,Name,,低茎海百合,Huệ Biển Lùn
+Item_9927_Desc,aGrL,d道具_Item_A.csv,782,Item,Desc,,花语：离我远点。\n低茎海百合的化石。用于提升深海界域唤醒体的技能等级。,"Ở Ngôn ngữ của loài hoa, chúng có nghĩa rằng: Hãy tránh xa tôi. \n Là hóa thạch của hoa huệ biển thấp. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực."
+Item_10048_Name,aCMp,d道具_Item_A.csv,783,Item,Name,,高茎海百合,Huệ Biển Cao
+Item_10048_Desc,aCMn,d道具_Item_A.csv,783,Item,Desc,,数亿年前，它们在温暖的海洋中称霸一方。\n高茎海百合的化石。用于提升深海界域唤醒体的技能等级。,"Hàng triệu năm về trước, chúng mọc đầy rẫy khắp nơi ở vùng nước ấm. \n Hóa thạch của hoa huệ biển cao. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực."
+Item_10097_Name,aCPR,d道具_Item_A.csv,784,Item,Name,,低茎海百合,Huệ Biển Lùn
+Item_10097_Desc,aCPP,d道具_Item_A.csv,784,Item,Desc,,花语：离我远点。\n低茎海百合的化石。用于提升深海界域唤醒体的技能等级。,"Ở Ngôn ngữ của loài hoa, chúng có nghĩa rằng: Hãy tránh xa tôi. \n Là hóa thạch của hoa huệ biển thấp. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực."
+Item_10020_Name,aCKt,d道具_Item_A.csv,785,Item,Name,,高茎海百合,Huệ Biển Cao
+Item_10020_Desc,aCKr,d道具_Item_A.csv,785,Item,Desc,,数亿年前，它们在温暖的海洋中称霸一方。\n高茎海百合的化石。用于提升深海界域唤醒体的技能等级。,"Hàng triệu năm về trước, chúng mọc đầy rẫy khắp nơi ở vùng nước ấm. \n Hóa thạch của hoa huệ biển cao. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực."
+Item_9907_Name,aGqp,d道具_Item_A.csv,786,Item,Name,,低茎海百合,Huệ Biển Lùn
+Item_9907_Desc,aGqn,d道具_Item_A.csv,786,Item,Desc,,花语：离我远点。\n低茎海百合的化石。用于提升深海界域唤醒体的技能等级。,"Ở Ngôn ngữ của loài hoa, chúng có nghĩa rằng: Hãy tránh xa tôi. \n Là hóa thạch của hoa huệ biển thấp. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực."
+Item_9629_Name,aFWd,d道具_Item_A.csv,787,Item,Name,,高茎海百合,Huệ Biển Cao
+Item_9629_Desc,aFWb,d道具_Item_A.csv,787,Item,Desc,,数亿年前，它们在温暖的海洋中称霸一方。\n高茎海百合的化石。用于提升深海界域唤醒体的技能等级。,"Hàng triệu năm về trước, chúng mọc đầy rẫy khắp nơi ở vùng nước ấm. \n Hóa thạch của hoa huệ biển cao. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực."
+Item_34909_Name,aCYB,d道具_Item_A.csv,788,Item,Name,,尤因他百合,Huệ Biển Uinta
+Item_34909_Desc,aCYz,d道具_Item_A.csv,788,Item,Desc,,他们相约一起杀戮，在海百合盛开的春天。\n尤因他海百合的化石。用于提升深海界域唤醒体的技能等级。,Họ đã hẹn với nhau. Họ đã hứa sẽ cùng nhau thảm sát vào mùa xuân khi hoa huệ biển nở rộ. \n Dựa trên hóa thạch của huệ biển cổ đại. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực.
+Item_9885_Name,aGoV,d道具_Item_A.csv,789,Item,Name,,低茎海百合,Huệ Biển Lùn
+Item_9885_Desc,aGoT,d道具_Item_A.csv,789,Item,Desc,,花语：离我远点。\n低茎海百合的化石。用于提升深海界域唤醒体的技能等级。,"Ở Ngôn ngữ của loài hoa, chúng có nghĩa rằng: Hãy tránh xa tôi. \n Là hóa thạch của hoa huệ biển thấp. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực."
+Item_9675_Name,aFZB,d道具_Item_A.csv,790,Item,Name,,高茎海百合,Huệ Biển Cao
+Item_9675_Desc,aFZz,d道具_Item_A.csv,790,Item,Desc,,数亿年前，它们在温暖的海洋中称霸一方。\n高茎海百合的化石。用于提升深海界域唤醒体的技能等级。,"Hàng triệu năm về trước, chúng mọc đầy rẫy khắp nơi ở vùng nước ấm. \n Hóa thạch của hoa huệ biển cao. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực."
+Item_9915_Name,aGqR,d道具_Item_A.csv,791,Item,Name,,尤因他百合,Huệ Biển Uinta
+Item_9915_Desc,aGqP,d道具_Item_A.csv,791,Item,Desc,,他们相约一起杀戮，在海百合盛开的春天。\n尤因他海百合的化石。用于提升深海界域唤醒体的技能等级。,Họ đã hẹn với nhau. Họ đã hứa sẽ cùng nhau thảm sát vào mùa xuân khi hoa huệ biển nở rộ. \n Dựa trên hóa thạch của huệ biển cổ đại. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Hải Vực.
+Item_9963_Name,aGul,d道具_Item_A.csv,792,Item,Name,,风干虫蛹,Kén Nhộng Khô
+Item_9963_Desc,aGuj,d道具_Item_A.csv,792,Item,Desc,,漏风的家。总比没有的好。\n被遗留的蛹壳。用于提升血肉界域唤醒体的技能等级。,Nhà có gió lùa vẫn tốt hơn không. \nVỏ kén khô còn sót lại. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9965_Name,aGup,d道具_Item_A.csv,793,Item,Name,,风干虫蛹,Kén Nhộng Khô
+Item_9965_Desc,aGun,d道具_Item_A.csv,793,Item,Desc,,漏风的家。总比没有的好。\n被遗留的蛹壳。用于提升血肉界域唤醒体的技能等级。,Nhà có gió lùa vẫn tốt hơn không. \nVỏ kén khô còn sót lại. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9875_Name,aGoh,d道具_Item_A.csv,794,Item,Name,,原生虫蛹,Kén Nhộng Tươi
+Item_9875_Desc,aGof,d道具_Item_A.csv,794,Item,Desc,,蠕动，扭曲，我们阴暗爬行……\n被寄生的虫蛹。用于提升血肉界域唤醒体的技能等级。,"Bò lết, lăn lê, vặn vẹo, chúng ta trở mình trong bóng tối… rít… rít…\nMột chiếc kén đã bị kí sinh. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục."
+Item_10113_Name,aCQZ,d道具_Item_A.csv,795,Item,Name,,风干虫蛹,Kén Nhộng Khô
+Item_10113_Desc,aCQX,d道具_Item_A.csv,795,Item,Desc,,漏风的家。总比没有的好。\n被遗留的蛹壳。用于提升血肉界域唤醒体的技能等级。,Nhà có gió lùa vẫn tốt hơn không. \nVỏ kén khô còn sót lại. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9521_Name,aFOd,d道具_Item_A.csv,796,Item,Name,,原生虫蛹,Kén Nhộng Tươi
+Item_9521_Desc,aFOb,d道具_Item_A.csv,796,Item,Desc,,蠕动，扭曲，我们阴暗爬行……嘶……嘶……\n被寄生的虫蛹。用于提升血肉界域唤醒体的技能等级。,"Bò lết, lăn lê, vặn vẹo, chúng ta trở mình trong bóng tối… rít… rít…\nMột chiếc kén đã bị kí sinh. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục."
+Item_9660_Name,aFYt,d道具_Item_A.csv,797,Item,Name,,风干虫蛹,Kén Nhộng Khô
+Item_9660_Desc,aFYr,d道具_Item_A.csv,797,Item,Desc,,漏风的家。总比没有的好。\n被遗留的蛹壳。用于提升血肉界域唤醒体的技能等级。,Nhà có gió lùa vẫn tốt hơn không. \nVỏ kén khô còn sót lại. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục.
+Item_10081_Name,aCOF,d道具_Item_A.csv,798,Item,Name,,原生虫蛹,Kén Nhộng Tươi
+Item_10081_Desc,aCOD,d道具_Item_A.csv,798,Item,Desc,,蠕动，扭曲，我们阴暗爬行……嘶……嘶……\n被寄生的虫蛹。用于提升血肉界域唤醒体的技能等级。,"Bò lết, lăn lê, vặn vẹo, chúng ta trở mình trong bóng tối… rít… rít…\nMột chiếc kén đã bị kí sinh. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục."
+Item_34908_Name,aCYx,d道具_Item_A.csv,799,Item,Name,,芽孢聚合物,Kén Nhộng Bào Tử
+Item_34908_Desc,aCYv,d道具_Item_A.csv,799,Item,Desc,,芽孢又做错了什么呢，它们只是想有个家罢了。\n虫蛹和它的芽孢邻居。用于提升血肉界域唤醒体的技能等级。,Các bào tử đã làm gì sao? Họ chỉ đơn giản muốn một ngôi nhà mà thôi. \n Kén nhộng và các bào tử bao quanh. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9586_Name,aFSR,d道具_Item_A.csv,800,Item,Name,,风干虫蛹,Kén Nhộng Khô
+Item_9586_Desc,aFSP,d道具_Item_A.csv,800,Item,Desc,,漏风的家。总比没有的好。\n被遗留的蛹壳。用于提升血肉界域唤醒体的技能等级。,Nhà có gió lùa vẫn tốt hơn không. \nVỏ kén khô còn sót lại. Dùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9733_Name,aGdR,d道具_Item_A.csv,801,Item,Name,,原生虫蛹,Kén Nhộng Tươi
+Item_9733_Desc,aGdP,d道具_Item_A.csv,801,Item,Desc,,蠕动，扭曲，我们阴暗爬行……嘶……嘶……\n被寄生的虫蛹。用于提升血肉界域唤醒体的技能等级。,"Bò lết, lăn lê, vặn vẹo, chúng ta trở mình trong bóng tối… rít… rít…\nMột chiếc kén đã bị kí sinh. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục."
+Item_9743_Name,aGeF,d道具_Item_A.csv,802,Item,Name,,芽孢聚合物,Kén Nhộng Bào Tử
+Item_9743_Desc,aGeD,d道具_Item_A.csv,802,Item,Desc,,芽孢又做错了什么呢，它们只是想有个家罢了。\n虫蛹和它的芽孢邻居。用于提升血肉界域唤醒体的技能等级。,Các bào tử đã làm gì sao? Họ chỉ đơn giản muốn một ngôi nhà mà thôi. \n Kén nhộng và các bào tử bao quanh. Được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Huyết Nhục.
+Item_9924_Name,aGrB,d道具_Item_A.csv,803,Item,Name,,残破矿晶,Mảnh Vỡ Khoáng Thạch
+Item_9924_Desc,aGrz,d道具_Item_A.csv,803,Item,Desc,,这下没人敢用它来占卜吉凶了吧。\n被融蚀浆覆盖的紫色水晶，用于提升超维界域唤醒体的技能等级。,"Nó không còn giá trị sử dụng để chiêm tinh nữa rồi. \n Tinh thể màu tím bị bao phủ bởi Slime Phân Rã, được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9534_Name,aFPd,d道具_Item_A.csv,804,Item,Name,,残破矿晶,Mảnh Vỡ Khoáng Thạch
+Item_9534_Desc,aFPb,d道具_Item_A.csv,804,Item,Desc,,这下没人敢用它来占卜吉凶了吧。\n被融蚀浆覆盖的紫色水晶，用于提升超维界域唤醒体的技能等级。,"Nó không còn giá trị sử dụng để chiêm tinh nữa rồi. \n Tinh thể màu tím bị bao phủ bởi Slime Phân Rã, được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9571_Name,aFRN,d道具_Item_A.csv,805,Item,Name,,陨星碎块,Mảnh Vỡ Thiên Thạch
+Item_9571_Desc,aFRL,d道具_Item_A.csv,805,Item,Desc,,闪烁着神秘的紫色辉光，据说是陨石坠落在坎布里安河谷时残留的碎块。\n用于提升超维界域唤醒体的技能等级。,"Khoáng thạch lấp lánh ánh tím huyền bí, được cho là mảnh vỡ còn lại khi một thiên thạch rơi xuống thung lũng sông Cambrian. \nDùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_10062_Name,aCNh,d道具_Item_A.csv,806,Item,Name,,残破矿晶,Mảnh Vỡ Khoáng Thạch
+Item_10062_Desc,aCNf,d道具_Item_A.csv,806,Item,Desc,,这下没人敢用它来占卜吉凶了吧。\n被融蚀浆覆盖的紫色水晶，用于提升超维界域唤醒体的技能等级。,"Nó không còn giá trị sử dụng để chiêm tinh nữa rồi. \n Tinh thể màu tím bị bao phủ bởi Slime Phân Rã, được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9511_Name,aFNp,d道具_Item_A.csv,807,Item,Name,,陨星碎块,Mảnh Vỡ Thiên Thạch
+Item_9511_Desc,aFNn,d道具_Item_A.csv,807,Item,Desc,,闪烁着神秘的紫色辉光，据说是陨石坠落在坎布里安河谷时残留的碎块。\n用于提升超维界域唤醒体的技能等级。,"Khoáng thạch lấp lánh ánh tím huyền bí, được cho là mảnh vỡ còn lại khi một thiên thạch rơi xuống thung lũng sông Cambrian. \nDùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9694_Name,aGaV,d道具_Item_A.csv,808,Item,Name,,残破矿晶,Mảnh Vỡ Khoáng Thạch
+Item_9694_Desc,aGaT,d道具_Item_A.csv,808,Item,Desc,,这下没人敢用它来占卜吉凶了吧。\n被融蚀浆覆盖的紫色水晶，用于提升超维界域唤醒体的技能等级。,"Nó không còn giá trị sử dụng để chiêm tinh nữa rồi. \n Tinh thể màu tím bị bao phủ bởi Slime Phân Rã, được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_10092_Name,aCPx,d道具_Item_A.csv,809,Item,Name,,陨星碎块,Mảnh Vỡ Thiên Thạch
+Item_10092_Desc,aCPv,d道具_Item_A.csv,809,Item,Desc,,闪烁着神秘的紫色辉光，据说是陨石坠落在坎布里安河谷时残留的碎块。\n用于提升超维界域唤醒体的技能等级。,"Khoáng thạch lấp lánh ánh tím huyền bí, được cho là mảnh vỡ còn lại khi một thiên thạch rơi xuống thung lũng sông Cambrian. \nDùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_34910_Name,aCYF,d道具_Item_A.csv,810,Item,Name,,尤卡坦之星,Thiên Thạch Yucatan
+Item_34910_Desc,aCYD,d道具_Item_A.csv,810,Item,Desc,,在某些平行宇宙里，它拥有毁天灭地的力量。\n来自遥远热带的完美矿晶，用于提升超维界域唤醒体的技能等级。,"Ở một vũ trụ song song, nó đã hủy diệt cả một hành tinh. \n Là khoáng thạch tinh khiết từ vùng nhiệt đới xa xôi, được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9575_Name,aFRZ,d道具_Item_A.csv,811,Item,Name,,残破矿晶,Mảnh Vỡ Khoáng Thạch
+Item_9575_Desc,aFRX,d道具_Item_A.csv,811,Item,Desc,,这下没人敢用它来占卜吉凶了吧。\n被融蚀浆覆盖的紫色水晶，用于提升超维界域唤醒体的技能等级。,"Nó không còn giá trị sử dụng để chiêm tinh nữa rồi. \n Tinh thể màu tím bị bao phủ bởi Slime Phân Rã, được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9806_Name,aGjp,d道具_Item_A.csv,812,Item,Name,,陨星碎块,Mảnh Vỡ Thiên Thạch
+Item_9806_Desc,aGjn,d道具_Item_A.csv,812,Item,Desc,,闪烁着神秘的紫色辉光，据说是陨石坠落在坎布里安河谷时残留的碎块。\n用于提升超维界域唤醒体的技能等级。,"Khoáng thạch lấp lánh ánh tím huyền bí, được cho là mảnh vỡ còn lại khi một thiên thạch rơi xuống thung lũng sông Cambrian. \nDùng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
+Item_9720_Name,aGcV,d道具_Item_A.csv,813,Item,Name,,尤卡坦之星,Thiên Thạch Yucatan
+Item_9720_Desc,aGcT,d道具_Item_A.csv,813,Item,Desc,,在某些平行宇宙里，它拥有毁天灭地的力量。\n来自遥远热带的完美矿晶，用于提升超维界域唤醒体的技能等级。,"Ở một vũ trụ song song, nó đã hủy diệt cả một hành tinh. \n Là khoáng thạch tinh khiết từ vùng nhiệt đới xa xôi, được sử dụng để nâng cấp kỹ năng của Thể Thức Tỉnh cõi Siêu Chiều."
